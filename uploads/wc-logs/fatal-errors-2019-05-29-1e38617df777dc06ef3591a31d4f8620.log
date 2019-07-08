@@ -1,0 +1,20 @@
+2019-05-29T15:18:05+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/woocommerce/checkout/review-order.php:200
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/wc-core-functions.php(211): include()
+#1 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2095): wc_get_template('checkout/review...', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): woocommerce_order_review('')
+#3 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/woocommerce/checkout/form-checkout.php(309): do_action('woocommerce_che...')
+#6 /home/bukerzco/pub en /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/woocommerce/checkout/review-order.php en la línea 200
+
+2019-05-29T15:18:15+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/woocommerce/checkout/review-order.php:200
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/wc-core-functions.php(211): include()
+#1 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2095): wc_get_template('checkout/review...', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): woocommerce_order_review('')
+#3 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/woocommerce/checkout/form-checkout.php(309): do_action('woocommerce_che...')
+#6 /home/bukerzco/pub en /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/woocommerce/checkout/review-order.php en la línea 200
+

@@ -1,0 +1,78 @@
+2019-06-16T06:04:59+00:00 CRITICAL require_once(): Failed opening required 'http://localhost/wc/broomday/wp-content/themes/Avada-Child-Theme//test/test.php' (include_path='.;C:\php\pear') en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 9
+
+2019-06-16T06:05:07+00:00 CRITICAL require_once(): Failed opening required 'http://localhost/wc/broomday/wp-content/themes/Avada-Child-Theme//test/test.php' (include_path='.;C:\php\pear') en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 9
+
+2019-06-16T06:05:57+00:00 CRITICAL require_once(): Failed opening required 'G:\webapp\www\wc\broomday/wp-content/themes/Avada/test/test.php' (include_path='.;C:\php\pear') en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 9
+
+2019-06-16T06:06:59+00:00 CRITICAL syntax error, unexpected '}' en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php en la línea 16
+
+2019-06-16T06:11:39+00:00 CRITICAL Uncaught Error: Call to undefined function wc_order() in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php:4035
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(16): assign_employe_to_order(13898, 115)
+#1 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(6): testing_assign_employe_to_order()
+#2 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(286): testing(Object(WP))
+#3 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#5 G:\webapp\www\wc\broomday\wp-includes\class-wp.php(750): do_action_ref_array('wp', Array)
+#6 G:\webapp\www\wc\broomday\wp-includes\functions.php(1105): WP->main('')
+#7 G:\webapp\www\wc\broomday\wp-blog-header.php(16): wp()
+#8 G:\webapp\www\wc\broomday\index.php(17): require('G:\\webapp\\www\\w...')
+#9 {main}
+  thrown en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4035
+
+2019-06-16T06:12:00+00:00 CRITICAL Uncaught Error: Call to undefined function wc_order() in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php:4035
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(16): assign_employe_to_order(13898, 115)
+#1 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(6): testing_assign_employe_to_order()
+#2 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(286): testing(Object(WP))
+#3 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#5 G:\webapp\www\wc\broomday\wp-includes\class-wp.php(750): do_action_ref_array('wp', Array)
+#6 G:\webapp\www\wc\broomday\wp-includes\functions.php(1105): WP->main('')
+#7 G:\webapp\www\wc\broomday\wp-blog-header.php(16): wp()
+#8 G:\webapp\www\wc\broomday\index.php(17): require('G:\\webapp\\www\\w...')
+#9 {main}
+  thrown en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4035
+
+2019-06-16T06:12:45+00:00 CRITICAL Uncaught Error: Call to undefined function wc_order() in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php:4035
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(16): assign_employe_to_order(13898, 115)
+#1 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(6): testing_assign_employe_to_order()
+#2 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(286): testing(Object(WP))
+#3 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#5 G:\webapp\www\wc\broomday\wp-includes\class-wp.php(750): do_action_ref_array('wp', Array)
+#6 G:\webapp\www\wc\broomday\wp-includes\functions.php(1105): WP->main('')
+#7 G:\webapp\www\wc\broomday\wp-blog-header.php(16): wp()
+#8 G:\webapp\www\wc\broomday\index.php(17): require('G:\\webapp\\www\\w...')
+#9 {main}
+  thrown en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4035
+
+2019-06-16T06:14:11+00:00 CRITICAL Uncaught Error: Call to undefined function wc_order() in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php:4035
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(16): assign_employee_to_order(13898, 115)
+#1 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(6): testing_assign_employee_to_order()
+#2 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(286): testing(Object(WP))
+#3 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#5 G:\webapp\www\wc\broomday\wp-includes\class-wp.php(750): do_action_ref_array('wp', Array)
+#6 G:\webapp\www\wc\broomday\wp-includes\functions.php(1105): WP->main('')
+#7 G:\webapp\www\wc\broomday\wp-blog-header.php(16): wp()
+#8 G:\webapp\www\wc\broomday\index.php(17): require('G:\\webapp\\www\\w...')
+#9 {main}
+  thrown en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4035
+
+2019-06-16T06:15:57+00:00 CRITICAL Uncaught Error: Call to undefined function wc_order() in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php:4035
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(16): assign_employee_to_order(13898, 115)
+#1 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(6): testing_assign_employee_to_order()
+#2 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(286): testing(Object(WP))
+#3 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#5 G:\webapp\www\wc\broomday\wp-includes\class-wp.php(750): do_action_ref_array('wp', Array)
+#6 G:\webapp\www\wc\broomday\wp-includes\functions.php(1105): WP->main('')
+#7 G:\webapp\www\wc\broomday\wp-blog-header.php(16): wp()
+#8 G:\webapp\www\wc\broomday\index.php(17): require('G:\\webapp\\www\\w...')
+#9 {main}
+  thrown en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4035
+

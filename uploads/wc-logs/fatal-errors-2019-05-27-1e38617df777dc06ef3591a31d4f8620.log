@@ -1,0 +1,63 @@
+2019-05-27T00:44:15+00:00 CRITICAL Uncaught Error: Class 'WCS_ATT_Product' not found in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:35
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): filter_price(18, Object(WC_Product_Simple))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(208): WP_Hook->apply_filters('9', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-data.php(726): apply_filters('woocommerce_pro...', '9', Object(WC_Product_Simple))
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(274): WC_Data->get_prop('price', 'view')
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1480): WC_Product->get_price()
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/wc-template-func in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 35
+
+2019-05-27T00:44:28+00:00 CRITICAL Uncaught Error: Class 'WCS_ATT_Product' not found in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:35
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): filter_price(18, Object(WC_Product_Simple))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(208): WP_Hook->apply_filters('9', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-data.php(726): apply_filters('woocommerce_pro...', '9', Object(WC_Product_Simple))
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(274): WC_Data->get_prop('price', 'view')
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1480): WC_Product->get_price()
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/wc-template-func in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 35
+
+2019-05-27T00:44:30+00:00 CRITICAL Uncaught Error: Class 'WCS_ATT_Product' not found in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:35
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): filter_price(18, Object(WC_Product_Simple))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(208): WP_Hook->apply_filters('9', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-data.php(726): apply_filters('woocommerce_pro...', '9', Object(WC_Product_Simple))
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(274): WC_Data->get_prop('price', 'view')
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1480): WC_Product->get_price()
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/wc-template-func in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 35
+
+2019-05-27T00:44:35+00:00 CRITICAL Uncaught Error: Class 'WCS_ATT_Product' not found in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:35
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): filter_price(18, Object(WC_Product_Simple))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(208): WP_Hook->apply_filters('9', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-data.php(726): apply_filters('woocommerce_pro...', '9', Object(WC_Product_Simple))
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(274): WC_Data->get_prop('price', 'view')
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1480): WC_Product->get_price()
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/wc-template-func in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 35
+
+2019-05-27T00:44:48+00:00 CRITICAL Uncaught Error: Class 'WCS_ATT_Product' not found in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:35
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): filter_price(18, Object(WC_Product_Simple))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(208): WP_Hook->apply_filters('9', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-data.php(726): apply_filters('woocommerce_pro...', '9', Object(WC_Product_Simple))
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(274): WC_Data->get_prop('price', 'view')
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1480): WC_Product->get_price()
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/wc-template-func in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 35
+
+2019-05-27T00:45:07+00:00 CRITICAL Uncaught Error: Class 'WCS_ATT_Product' not found in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:35
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): filter_price(18, Object(WC_Product_Simple))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(208): WP_Hook->apply_filters('9', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-data.php(726): apply_filters('woocommerce_pro...', '9', Object(WC_Product_Simple))
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(274): WC_Data->get_prop('price', 'view')
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1480): WC_Product->get_price()
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/wc-template-func in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 35
+
+2019-05-27T00:45:20+00:00 CRITICAL Uncaught Error: Class 'WCS_ATT_Product' not found in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:35
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): filter_price(18, Object(WC_Product_Simple))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(208): WP_Hook->apply_filters('9', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-data.php(726): apply_filters('woocommerce_pro...', '9', Object(WC_Product_Simple))
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(274): WC_Data->get_prop('price', 'view')
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1480): WC_Product->get_price()
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/wc-template-func in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 35
+

@@ -1,0 +1,18 @@
+img.avatar.avatar-40.photo {
+    border-radius: 50%;
+    float: left;
+    margin-right: 15px;
+}
+.clientData .table {
+    border-collapse: collapse;
+    width: 100%;
+}
+.clientData .table .th, .td {
+    text-align: left;
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
+.clientData .table .th {
+    background-color: #939B93;
+    color: white;
+}

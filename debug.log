@@ -1,0 +1,312 @@
+[24-Feb-2019 02:09:22 UTC] PHP Notice:  wp_enqueue_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/bukerzco/public_html/broomday.com/newdemo/wp-includes/functions.php on line 4231
+[24-Feb-2019 02:09:23 UTC] PHP Notice:  wp_enqueue_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home/bukerzco/public_html/broomday.com/newdemo/wp-includes/functions.php on line 4231
+[06-Mar-2019 01:54:52 UTC] PHP Notice:  ¡wpcf7_remove_shortcode es <strong>obsoleto</strong> desde la versión 4.6 de Contact Form 7! Utiliza wpcf7_remove_form_tag en su lugar. in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/plugins/contact-form-7/includes/functions.php on line 374
+[06-Mar-2019 01:54:52 UTC] PHP Notice:  ¡wpcf7_remove_shortcode es <strong>obsoleto</strong> desde la versión 4.6 de Contact Form 7! Utiliza wpcf7_remove_form_tag en su lugar. in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/plugins/contact-form-7/includes/functions.php on line 374
+[06-Mar-2019 01:54:52 UTC] PHP Notice:  wpcf7_remove_shortcode is <strong>deprecated</strong> since Contact Form 7 version 4.6! Use wpcf7_remove_form_tag instead. in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/plugins/contact-form-7/includes/functions.php on line 374
+[06-Mar-2019 01:54:52 UTC] PHP Notice:  wpcf7_remove_shortcode is <strong>deprecated</strong> since Contact Form 7 version 4.6! Use wpcf7_remove_form_tag instead. in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/plugins/contact-form-7/includes/functions.php on line 374
+[06-Mar-2019 01:54:55 UTC] PHP Notice:  wpcf7_remove_shortcode is <strong>deprecated</strong> since Contact Form 7 version 4.6! Use wpcf7_remove_form_tag instead. in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/plugins/contact-form-7/includes/functions.php on line 374
+[06-Mar-2019 01:54:55 UTC] PHP Notice:  wpcf7_remove_shortcode is <strong>deprecated</strong> since Contact Form 7 version 4.6! Use wpcf7_remove_form_tag instead. in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/plugins/contact-form-7/includes/functions.php on line 374
+[06-Mar-2019 01:55:10 UTC] PHP Notice:  wpcf7_remove_shortcode is <strong>deprecated</strong> since Contact Form 7 version 4.6! Use wpcf7_remove_form_tag instead. in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/plugins/contact-form-7/includes/functions.php on line 374
+[06-Mar-2019 01:55:10 UTC] PHP Notice:  wpcf7_remove_shortcode is <strong>deprecated</strong> since Contact Form 7 version 4.6! Use wpcf7_remove_form_tag instead. in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/plugins/contact-form-7/includes/functions.php on line 374
+[06-Mar-2019 01:55:10 UTC] PHP Notice:  ¡wpcf7_remove_shortcode es <strong>obsoleto</strong> desde la versión 4.6 de Contact Form 7! Utiliza wpcf7_remove_form_tag en su lugar. in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/plugins/contact-form-7/includes/functions.php on line 374
+[06-Mar-2019 01:55:10 UTC] PHP Notice:  ¡wpcf7_remove_shortcode es <strong>obsoleto</strong> desde la versión 4.6 de Contact Form 7! Utiliza wpcf7_remove_form_tag en su lugar. in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/plugins/contact-form-7/includes/functions.php on line 374
+[06-Mar-2019 01:55:24 UTC] PHP Notice:  wpcf7_remove_shortcode is <strong>deprecated</strong> since Contact Form 7 version 4.6! Use wpcf7_remove_form_tag instead. in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/plugins/contact-form-7/includes/functions.php on line 374
+[06-Mar-2019 01:55:24 UTC] PHP Notice:  wpcf7_remove_shortcode is <strong>deprecated</strong> since Contact Form 7 version 4.6! Use wpcf7_remove_form_tag instead. in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/plugins/contact-form-7/includes/functions.php on line 374
+[06-Mar-2019 01:56:34 UTC] PHP Notice:  Undefined variable: dates_to_update in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscription.php on line 478
+[06-Mar-2019 01:56:34 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid format. First parameter needs to be an array. in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscription.php:2247
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/newdemo/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscription.php(1162): WC_Subscription->validate_date_updates(NULL, 'gmt')
+#1 /home/bukerzco/public_html/broomday.com/newdemo/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscription.php(478): WC_Subscription->update_dates(NULL)
+#2 /home/bukerzco/public_html/broomday.com/newdemo/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(857): WC_Subscription->update_status('cancelled')
+#3 /home/bukerzco/public_html/broomday.com/newdemo/wp-includes/class-wp-hook.php(286): WC_Subscriptions_Manager::maybe_cancel_subscription(13113)
+#4 /home/bukerzco/public_html/broomday.com/newdemo/wp-inclu in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscription.php on line 2247
+[06-Mar-2019 02:00:19 UTC] PHP Notice:  Undefined index: order_actions in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/themes/Avada-Child-Theme/functions.php on line 3884
+[06-Mar-2019 02:07:46 UTC] PHP Notice:  Undefined index: customer in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/themes/Avada/footer.php on line 82
+[06-Mar-2019 02:07:53 UTC] PHP Notice:  Undefined index: customer in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/themes/Avada-Child-Theme/woocommerce/myaccount/form-login.php on line 53
+[06-Mar-2019 02:07:53 UTC] PHP Notice:  Undefined index: page in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/themes/Avada-Child-Theme/woocommerce/myaccount/form-login.php on line 112
+[06-Mar-2019 02:07:53 UTC] PHP Notice:  Undefined index: billing_phone in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/themes/Avada-Child-Theme/functions.php on line 3807
+[06-Mar-2019 02:07:53 UTC] PHP Notice:  Undefined index: customer in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/themes/Avada/footer.php on line 82
+[06-Mar-2019 02:07:54 UTC] PHP Notice:  Undefined index: customer in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/themes/Avada-Child-Theme/woocommerce/myaccount/form-login.php on line 53
+[06-Mar-2019 02:07:54 UTC] PHP Notice:  Undefined index: page in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/themes/Avada-Child-Theme/woocommerce/myaccount/form-login.php on line 112
+[06-Mar-2019 02:07:54 UTC] PHP Notice:  Undefined index: billing_phone in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/themes/Avada-Child-Theme/functions.php on line 3807
+[06-Mar-2019 02:07:54 UTC] PHP Notice:  Undefined index: customer in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/themes/Avada/footer.php on line 82
+[06-Mar-2019 02:08:04 UTC] PHP Notice:  Undefined variable: total_extra_hours in /home/bukerzco/public_html/broomday.com/newdemo/wp-content/themes/Avada-Child-Theme/functions.php on line 1202
+[17-Jun-2019 06:47:20 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[17-Jun-2019 06:47:56 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[17-Jun-2019 06:48:38 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[17-Jun-2019 06:49:33 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[17-Jun-2019 06:50:27 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[17-Jun-2019 06:51:00 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[17-Jun-2019 06:51:40 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[17-Jun-2019 08:05:40 UTC] PHP Parse error:  syntax error, unexpected '$timestamp' (T_VARIABLE), expecting ',' or ')' in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php on line 4474
+[17-Jun-2019 08:06:01 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[17-Jun-2019 08:15:10 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php on line 4475
+[17-Jun-2019 09:11:07 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[17-Jun-2019 09:15:37 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[17-Jun-2019 09:16:06 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[17-Jun-2019 09:16:38 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[17-Jun-2019 09:16:39 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[17-Jun-2019 09:44:09 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[17-Jun-2019 22:13:56 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[17-Jun-2019 22:13:56 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[17-Jun-2019 22:15:02 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[18-Jun-2019 00:34:21 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[18-Jun-2019 00:35:17 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[18-Jun-2019 01:38:27 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[18-Jun-2019 05:03:47 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\class-avada-tgm-plugin-activation.php on line 37
+[18-Jun-2019 05:03:47 UTC] PHP Stack trace:
+[18-Jun-2019 05:03:47 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:0
+[18-Jun-2019 05:03:47 UTC] PHP   2. require_once() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:22
+[18-Jun-2019 05:03:47 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[18-Jun-2019 05:03:47 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[18-Jun-2019 05:03:47 UTC] PHP   5. include() G:\webapp\www\wc\broomday\wp-settings.php:499
+[18-Jun-2019 05:03:47 UTC] PHP   6. require_once() G:\webapp\www\wc\broomday\wp-content\themes\Avada\functions.php:239
+[18-Jun-2019 09:18:36 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[19-Jun-2019 06:31:42 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[19-Jun-2019 10:17:41 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 786432 bytes) in G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\dynamic_css.php on line 906
+[19-Jun-2019 10:17:41 UTC] PHP Stack trace:
+[19-Jun-2019 10:17:41 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:0
+[19-Jun-2019 10:17:41 UTC] PHP   2. require_once() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:22
+[19-Jun-2019 10:17:41 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[19-Jun-2019 10:17:41 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[19-Jun-2019 10:17:41 UTC] PHP   5. include() G:\webapp\www\wc\broomday\wp-settings.php:499
+[21-Jun-2019 21:41:41 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[21-Jun-2019 21:45:21 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[22-Jun-2019 05:38:50 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[22-Jun-2019 22:45:51 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in G:\webapp\www\wc\broomday\wp-includes\wp-db.php on line 1612
+[22-Jun-2019 22:45:51 UTC] PHP Stack trace:
+[22-Jun-2019 22:45:51 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\wp-admin\index.php:0
+[22-Jun-2019 22:45:51 UTC] PHP   2. require_once() G:\webapp\www\wc\broomday\wp-admin\index.php:10
+[22-Jun-2019 22:45:51 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-admin\admin.php:34
+[22-Jun-2019 22:45:51 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[22-Jun-2019 22:45:51 UTC] PHP   5. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[22-Jun-2019 22:45:51 UTC] PHP   6. require_wp_db() G:\webapp\www\wc\broomday\wp-settings.php:120
+[22-Jun-2019 22:45:51 UTC] PHP   7. wpdb->__construct() G:\webapp\www\wc\broomday\wp-includes\load.php:427
+[22-Jun-2019 22:45:51 UTC] PHP   8. wpdb->db_connect() G:\webapp\www\wc\broomday\wp-includes\wp-db.php:639
+[22-Jun-2019 22:45:51 UTC] PHP   9. mysqli_real_connect() G:\webapp\www\wc\broomday\wp-includes\wp-db.php:1612
+[22-Jun-2019 22:46:51 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in G:\webapp\www\wc\broomday\wp-includes\wp-db.php on line 1612
+[22-Jun-2019 22:46:51 UTC] PHP Stack trace:
+[22-Jun-2019 22:46:51 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\wp-admin\index.php:0
+[22-Jun-2019 22:46:51 UTC] PHP   2. require_once() G:\webapp\www\wc\broomday\wp-admin\index.php:10
+[22-Jun-2019 22:46:51 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-admin\admin.php:34
+[22-Jun-2019 22:46:51 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[22-Jun-2019 22:46:51 UTC] PHP   5. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[22-Jun-2019 22:46:51 UTC] PHP   6. require_wp_db() G:\webapp\www\wc\broomday\wp-settings.php:120
+[22-Jun-2019 22:46:51 UTC] PHP   7. wpdb->__construct() G:\webapp\www\wc\broomday\wp-includes\load.php:427
+[22-Jun-2019 22:46:51 UTC] PHP   8. wpdb->db_connect() G:\webapp\www\wc\broomday\wp-includes\wp-db.php:639
+[22-Jun-2019 22:46:51 UTC] PHP   9. mysqli_real_connect() G:\webapp\www\wc\broomday\wp-includes\wp-db.php:1612
+[23-Jun-2019 23:23:39 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 786432 bytes) in G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\dynamic_css.php on line 906
+[23-Jun-2019 23:23:39 UTC] PHP Stack trace:
+[23-Jun-2019 23:23:39 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:0
+[23-Jun-2019 23:23:39 UTC] PHP   2. require_once() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:22
+[23-Jun-2019 23:23:39 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[23-Jun-2019 23:23:39 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[23-Jun-2019 23:23:39 UTC] PHP   5. include() G:\webapp\www\wc\broomday\wp-settings.php:499
+[23-Jun-2019 23:25:13 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 786432 bytes) in G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\dynamic_css.php on line 906
+[23-Jun-2019 23:25:13 UTC] PHP Stack trace:
+[23-Jun-2019 23:25:13 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:0
+[23-Jun-2019 23:25:13 UTC] PHP   2. require_once() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:22
+[23-Jun-2019 23:25:13 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[23-Jun-2019 23:25:13 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[23-Jun-2019 23:25:13 UTC] PHP   5. include() G:\webapp\www\wc\broomday\wp-settings.php:499
+[23-Jun-2019 23:27:13 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 786432 bytes) in G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\dynamic_css.php on line 906
+[23-Jun-2019 23:27:13 UTC] PHP Stack trace:
+[23-Jun-2019 23:27:13 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:0
+[23-Jun-2019 23:27:13 UTC] PHP   2. require_once() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:22
+[23-Jun-2019 23:27:13 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[23-Jun-2019 23:27:13 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[23-Jun-2019 23:27:13 UTC] PHP   5. include() G:\webapp\www\wc\broomday\wp-settings.php:499
+[23-Jun-2019 23:29:13 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 786432 bytes) in G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\dynamic_css.php on line 906
+[23-Jun-2019 23:29:13 UTC] PHP Stack trace:
+[23-Jun-2019 23:29:13 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:0
+[23-Jun-2019 23:29:13 UTC] PHP   2. require_once() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:22
+[23-Jun-2019 23:29:13 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[23-Jun-2019 23:29:13 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[23-Jun-2019 23:29:13 UTC] PHP   5. include() G:\webapp\www\wc\broomday\wp-settings.php:499
+[23-Jun-2019 23:31:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 786432 bytes) in G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\dynamic_css.php on line 906
+[23-Jun-2019 23:31:14 UTC] PHP Stack trace:
+[23-Jun-2019 23:31:14 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:0
+[23-Jun-2019 23:31:14 UTC] PHP   2. require_once() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:22
+[23-Jun-2019 23:31:14 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[23-Jun-2019 23:31:14 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[23-Jun-2019 23:31:14 UTC] PHP   5. include() G:\webapp\www\wc\broomday\wp-settings.php:499
+[23-Jun-2019 23:33:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 786432 bytes) in G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\dynamic_css.php on line 906
+[23-Jun-2019 23:33:14 UTC] PHP Stack trace:
+[23-Jun-2019 23:33:14 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:0
+[23-Jun-2019 23:33:14 UTC] PHP   2. require_once() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:22
+[23-Jun-2019 23:33:14 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[23-Jun-2019 23:33:14 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[23-Jun-2019 23:33:14 UTC] PHP   5. include() G:\webapp\www\wc\broomday\wp-settings.php:499
+[25-Jun-2019 09:38:44 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in G:\webapp\www\wc\broomday\wp-content\plugins\woocommerce-social-login\lib\skyverge\woocommerce\class-sv-wc-plugin.php on line 25
+[25-Jun-2019 09:38:44 UTC] PHP Stack trace:
+[25-Jun-2019 09:38:44 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:0
+[25-Jun-2019 09:38:44 UTC] PHP   2. require_once() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:22
+[25-Jun-2019 09:38:44 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[25-Jun-2019 09:38:44 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[25-Jun-2019 09:38:44 UTC] PHP   5. do_action() G:\webapp\www\wc\broomday\wp-settings.php:394
+[25-Jun-2019 09:38:44 UTC] PHP   6. WP_Hook->do_action() G:\webapp\www\wc\broomday\wp-includes\plugin.php:465
+[25-Jun-2019 09:38:44 UTC] PHP   7. WP_Hook->apply_filters() G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php:310
+[25-Jun-2019 09:38:44 UTC] PHP   8. call_user_func_array:{G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php:286}() G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php:286
+[25-Jun-2019 09:38:44 UTC] PHP   9. SV_WC_Framework_Bootstrap->load_framework_plugins() G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php:286
+[25-Jun-2019 09:38:44 UTC] PHP  10. require_once() G:\webapp\www\wc\broomday\wp-content\plugins\woocommerce-social-login\lib\skyverge\woocommerce\class-sv-wc-framework-bootstrap.php:123
+[25-Jun-2019 09:39:00 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 786432 bytes) in G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\dynamic_css.php on line 906
+[25-Jun-2019 09:39:00 UTC] PHP Stack trace:
+[25-Jun-2019 09:39:00 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:0
+[25-Jun-2019 09:39:00 UTC] PHP   2. require_once() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:22
+[25-Jun-2019 09:39:00 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[25-Jun-2019 09:39:00 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[25-Jun-2019 09:39:00 UTC] PHP   5. include() G:\webapp\www\wc\broomday\wp-settings.php:499
+[25-Jun-2019 09:39:11 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[25-Jun-2019 09:39:11 UTC] PHP Notice:  Trying to get property of non-object in G:\webapp\www\wc\broomday\wp-includes\post.php on line 4153
+[25-Jun-2019 09:39:11 UTC] PHP Stack trace:
+[25-Jun-2019 09:39:11 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:0
+[25-Jun-2019 09:39:11 UTC] PHP   2. require_once() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:22
+[25-Jun-2019 09:39:11 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[25-Jun-2019 09:39:11 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[25-Jun-2019 09:39:11 UTC] PHP   5. do_action() G:\webapp\www\wc\broomday\wp-settings.php:394
+[25-Jun-2019 09:39:11 UTC] PHP   6. WP_Hook->do_action() G:\webapp\www\wc\broomday\wp-includes\plugin.php:465
+[25-Jun-2019 09:39:11 UTC] PHP   7. WP_Hook->apply_filters() G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php:310
+[25-Jun-2019 09:39:11 UTC] PHP   8. call_user_func_array:{G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php:286}() G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php:286
+[25-Jun-2019 09:39:11 UTC] PHP   9. SV_WC_Framework_Bootstrap->load_framework_plugins() G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php:286
+[25-Jun-2019 09:39:11 UTC] PHP  10. require_once() G:\webapp\www\wc\broomday\wp-content\plugins\woocommerce-social-login\lib\skyverge\woocommerce\class-sv-wc-framework-bootstrap.php:123
+[25-Jun-2019 09:39:11 UTC] PHP  11. WP_Fatal_Error_Handler->handle() G:\webapp\www\wc\broomday\wp-includes\class-wp-fatal-error-handler.php:0
+[25-Jun-2019 09:39:11 UTC] PHP  12. WP_Recovery_Mode->handle_error() G:\webapp\www\wc\broomday\wp-includes\class-wp-fatal-error-handler.php:45
+[25-Jun-2019 09:39:11 UTC] PHP  13. WP_Recovery_Mode_Email_Service->maybe_send_recovery_mode_email() G:\webapp\www\wc\broomday\wp-includes\class-wp-recovery-mode.php:184
+[25-Jun-2019 09:39:11 UTC] PHP  14. WP_Recovery_Mode_Email_Service->send_recovery_mode_email() G:\webapp\www\wc\broomday\wp-includes\class-wp-recovery-mode-email-service.php:59
+[25-Jun-2019 09:39:11 UTC] PHP  15. wp_mail() G:\webapp\www\wc\broomday\wp-includes\class-wp-recovery-mode-email-service.php:197
+[25-Jun-2019 09:39:11 UTC] PHP  16. PostmanWpMail->send() G:\webapp\www\wc\broomday\wp-content\plugins\postman-smtp\Postman\PostmanWpMailBinder.php:116
+[25-Jun-2019 09:39:11 UTC] PHP  17. PostmanWpMail->sendMessage() G:\webapp\www\wc\broomday\wp-content\plugins\postman-smtp\Postman\PostmanWpMail.php:56
+[25-Jun-2019 09:39:11 UTC] PHP  18. PostmanEmailLogService->writeFailureLog() G:\webapp\www\wc\broomday\wp-content\plugins\postman-smtp\Postman\PostmanWpMail.php:235
+[25-Jun-2019 09:39:11 UTC] PHP  19. PostmanEmailLogService->writeToEmailLog() G:\webapp\www\wc\broomday\wp-content\plugins\postman-smtp\Postman\Postman-Email-Log\PostmanEmailLogService.php:98
+[25-Jun-2019 09:39:11 UTC] PHP  20. wp_insert_post() G:\webapp\www\wc\broomday\wp-content\plugins\postman-smtp\Postman\Postman-Email-Log\PostmanEmailLogService.php:119
+[25-Jun-2019 09:39:11 UTC] PHP  21. wp_unique_post_slug() G:\webapp\www\wc\broomday\wp-includes\post.php:3675
+[25-Jun-2019 09:39:11 UTC] PHP Notice:  Trying to get property of non-object in G:\webapp\www\wc\broomday\wp-includes\link-template.php on line 49
+[25-Jun-2019 09:39:11 UTC] PHP Stack trace:
+[25-Jun-2019 09:39:11 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:0
+[25-Jun-2019 09:39:11 UTC] PHP   2. require_once() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:22
+[25-Jun-2019 09:39:11 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[25-Jun-2019 09:39:11 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[25-Jun-2019 09:39:11 UTC] PHP   5. do_action() G:\webapp\www\wc\broomday\wp-settings.php:394
+[25-Jun-2019 09:39:11 UTC] PHP   6. WP_Hook->do_action() G:\webapp\www\wc\broomday\wp-includes\plugin.php:465
+[25-Jun-2019 09:39:11 UTC] PHP   7. WP_Hook->apply_filters() G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php:310
+[25-Jun-2019 09:39:11 UTC] PHP   8. call_user_func_array:{G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php:286}() G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php:286
+[25-Jun-2019 09:39:11 UTC] PHP   9. SV_WC_Framework_Bootstrap->load_framework_plugins() G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php:286
+[25-Jun-2019 09:39:11 UTC] PHP  10. require_once() G:\webapp\www\wc\broomday\wp-content\plugins\woocommerce-social-login\lib\skyverge\woocommerce\class-sv-wc-framework-bootstrap.php:123
+[25-Jun-2019 09:39:11 UTC] PHP  11. WP_Fatal_Error_Handler->handle() G:\webapp\www\wc\broomday\wp-includes\class-wp-fatal-error-handler.php:0
+[25-Jun-2019 09:39:11 UTC] PHP  12. WP_Recovery_Mode->handle_error() G:\webapp\www\wc\broomday\wp-includes\class-wp-fatal-error-handler.php:45
+[25-Jun-2019 09:39:11 UTC] PHP  13. WP_Recovery_Mode_Email_Service->maybe_send_recovery_mode_email() G:\webapp\www\wc\broomday\wp-includes\class-wp-recovery-mode.php:184
+[25-Jun-2019 09:39:11 UTC] PHP  14. WP_Recovery_Mode_Email_Service->send_recovery_mode_email() G:\webapp\www\wc\broomday\wp-includes\class-wp-recovery-mode-email-service.php:59
+[25-Jun-2019 09:39:11 UTC] PHP  15. wp_mail() G:\webapp\www\wc\broomday\wp-includes\class-wp-recovery-mode-email-service.php:197
+[25-Jun-2019 09:39:11 UTC] PHP  16. PostmanWpMail->send() G:\webapp\www\wc\broomday\wp-content\plugins\postman-smtp\Postman\PostmanWpMailBinder.php:116
+[25-Jun-2019 09:39:11 UTC] PHP  17. PostmanWpMail->sendMessage() G:\webapp\www\wc\broomday\wp-content\plugins\postman-smtp\Postman\PostmanWpMail.php:56
+[25-Jun-2019 09:39:11 UTC] PHP  18. PostmanEmailLogService->writeFailureLog() G:\webapp\www\wc\broomday\wp-content\plugins\postman-smtp\Postman\PostmanWpMail.php:235
+[25-Jun-2019 09:39:11 UTC] PHP  19. PostmanEmailLogService->writeToEmailLog() G:\webapp\www\wc\broomday\wp-content\plugins\postman-smtp\Postman\Postman-Email-Log\PostmanEmailLogService.php:98
+[25-Jun-2019 09:39:11 UTC] PHP  20. wp_insert_post() G:\webapp\www\wc\broomday\wp-content\plugins\postman-smtp\Postman\Postman-Email-Log\PostmanEmailLogService.php:119
+[25-Jun-2019 09:39:11 UTC] PHP  21. get_permalink() G:\webapp\www\wc\broomday\wp-includes\post.php:3800
+[25-Jun-2019 09:39:11 UTC] PHP  22. user_trailingslashit() G:\webapp\www\wc\broomday\wp-includes\link-template.php:231
+[25-Jun-2019 09:40:46 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 786432 bytes) in G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\dynamic_css.php on line 906
+[25-Jun-2019 09:40:46 UTC] PHP Stack trace:
+[25-Jun-2019 09:40:46 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:0
+[25-Jun-2019 09:40:46 UTC] PHP   2. require_once() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:22
+[25-Jun-2019 09:40:46 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[25-Jun-2019 09:40:46 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[25-Jun-2019 09:40:46 UTC] PHP   5. include() G:\webapp\www\wc\broomday\wp-settings.php:499
+[25-Jun-2019 09:42:47 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 786432 bytes) in G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\dynamic_css.php on line 906
+[25-Jun-2019 09:42:47 UTC] PHP Stack trace:
+[25-Jun-2019 09:42:47 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:0
+[25-Jun-2019 09:42:47 UTC] PHP   2. require_once() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:22
+[25-Jun-2019 09:42:47 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[25-Jun-2019 09:42:47 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[25-Jun-2019 09:42:47 UTC] PHP   5. include() G:\webapp\www\wc\broomday\wp-settings.php:499
+[25-Jun-2019 09:44:47 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 786432 bytes) in G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\dynamic_css.php on line 906
+[25-Jun-2019 09:44:47 UTC] PHP Stack trace:
+[25-Jun-2019 09:44:47 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:0
+[25-Jun-2019 09:44:47 UTC] PHP   2. require_once() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:22
+[25-Jun-2019 09:44:47 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[25-Jun-2019 09:44:47 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[25-Jun-2019 09:44:47 UTC] PHP   5. include() G:\webapp\www\wc\broomday\wp-settings.php:499
+[25-Jun-2019 09:46:48 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 786432 bytes) in G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\dynamic_css.php on line 906
+[25-Jun-2019 09:46:48 UTC] PHP Stack trace:
+[25-Jun-2019 09:46:48 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:0
+[25-Jun-2019 09:46:48 UTC] PHP   2. require_once() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:22
+[25-Jun-2019 09:46:48 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[25-Jun-2019 09:46:48 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[25-Jun-2019 09:46:48 UTC] PHP   5. include() G:\webapp\www\wc\broomday\wp-settings.php:499
+[25-Jun-2019 22:52:41 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 786432 bytes) in G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\dynamic_css.php on line 906
+[25-Jun-2019 22:52:41 UTC] PHP Stack trace:
+[25-Jun-2019 22:52:41 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:0
+[25-Jun-2019 22:52:41 UTC] PHP   2. require_once() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:22
+[25-Jun-2019 22:52:41 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[25-Jun-2019 22:52:41 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[25-Jun-2019 22:52:41 UTC] PHP   5. include() G:\webapp\www\wc\broomday\wp-settings.php:499
+[25-Jun-2019 22:54:00 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 786432 bytes) in G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\dynamic_css.php on line 906
+[25-Jun-2019 22:54:00 UTC] PHP Stack trace:
+[25-Jun-2019 22:54:00 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:0
+[25-Jun-2019 22:54:00 UTC] PHP   2. require_once() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:22
+[25-Jun-2019 22:54:00 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[25-Jun-2019 22:54:00 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[25-Jun-2019 22:54:00 UTC] PHP   5. include() G:\webapp\www\wc\broomday\wp-settings.php:499
+[25-Jun-2019 22:56:00 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 786432 bytes) in G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\dynamic_css.php on line 906
+[25-Jun-2019 22:56:00 UTC] PHP Stack trace:
+[25-Jun-2019 22:56:00 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:0
+[25-Jun-2019 22:56:00 UTC] PHP   2. require_once() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:22
+[25-Jun-2019 22:56:00 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[25-Jun-2019 22:56:00 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[25-Jun-2019 22:56:00 UTC] PHP   5. include() G:\webapp\www\wc\broomday\wp-settings.php:499
+[25-Jun-2019 22:58:01 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 786432 bytes) in G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\dynamic_css.php on line 906
+[25-Jun-2019 22:58:01 UTC] PHP Stack trace:
+[25-Jun-2019 22:58:01 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:0
+[25-Jun-2019 22:58:01 UTC] PHP   2. require_once() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:22
+[25-Jun-2019 22:58:01 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[25-Jun-2019 22:58:01 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[25-Jun-2019 22:58:01 UTC] PHP   5. include() G:\webapp\www\wc\broomday\wp-settings.php:499
+[25-Jun-2019 23:00:01 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 786432 bytes) in G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\dynamic_css.php on line 906
+[25-Jun-2019 23:00:01 UTC] PHP Stack trace:
+[25-Jun-2019 23:00:01 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:0
+[25-Jun-2019 23:00:01 UTC] PHP   2. require_once() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:22
+[25-Jun-2019 23:00:01 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[25-Jun-2019 23:00:01 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[25-Jun-2019 23:00:01 UTC] PHP   5. include() G:\webapp\www\wc\broomday\wp-settings.php:499
+[25-Jun-2019 23:02:01 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 786432 bytes) in G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\dynamic_css.php on line 906
+[25-Jun-2019 23:02:01 UTC] PHP Stack trace:
+[25-Jun-2019 23:02:01 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:0
+[25-Jun-2019 23:02:01 UTC] PHP   2. require_once() G:\webapp\www\wc\broomday\wp-admin\admin-ajax.php:22
+[25-Jun-2019 23:02:01 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[25-Jun-2019 23:02:01 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[25-Jun-2019 23:02:01 UTC] PHP   5. include() G:\webapp\www\wc\broomday\wp-settings.php:499
+[26-Jun-2019 16:40:51 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 786432 bytes) in G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\dynamic_css.php on line 906
+[26-Jun-2019 16:40:51 UTC] PHP Stack trace:
+[26-Jun-2019 16:40:51 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\wp-admin\index.php:0
+[26-Jun-2019 16:40:51 UTC] PHP   2. require_once() G:\webapp\www\wc\broomday\wp-admin\index.php:10
+[26-Jun-2019 16:40:51 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-admin\admin.php:34
+[26-Jun-2019 16:40:51 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[26-Jun-2019 16:40:51 UTC] PHP   5. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[26-Jun-2019 16:40:51 UTC] PHP   6. include() G:\webapp\www\wc\broomday\wp-settings.php:499
+[05-Jul-2019 02:53:08 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\lib\inc\redux\custom-fields\typography\googlefonts-array.php on line 3
+[05-Jul-2019 02:53:08 UTC] PHP Stack trace:
+[05-Jul-2019 02:53:08 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\index.php:0
+[05-Jul-2019 02:53:08 UTC] PHP   2. require() G:\webapp\www\wc\broomday\index.php:17
+[05-Jul-2019 02:53:08 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-blog-header.php:13
+[05-Jul-2019 02:53:08 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[05-Jul-2019 02:53:08 UTC] PHP   5. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[05-Jul-2019 02:53:08 UTC] PHP   6. include() G:\webapp\www\wc\broomday\wp-settings.php:499
+[05-Jul-2019 02:53:08 UTC] PHP   7. Avada_Google_Fonts->__construct() G:\webapp\www\wc\broomday\wp-content\themes\Avada\functions.php:231
+[05-Jul-2019 02:53:08 UTC] PHP   8. Avada_Google_Fonts->get_google_fonts() G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\class-avada-google-fonts.php:69
+[05-Jul-2019 02:53:08 UTC] PHP   9. include_once() G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\class-avada-google-fonts.php:304
+[05-Jul-2019 02:53:17 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 64 bytes) in G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\lib\inc\redux\custom-fields\typography\googlefonts-array.php on line 3
+[05-Jul-2019 02:53:17 UTC] PHP Stack trace:
+[05-Jul-2019 02:53:17 UTC] PHP   1. {main}() G:\webapp\www\wc\broomday\index.php:0
+[05-Jul-2019 02:53:17 UTC] PHP   2. require() G:\webapp\www\wc\broomday\index.php:17
+[05-Jul-2019 02:53:17 UTC] PHP   3. require_once() G:\webapp\www\wc\broomday\wp-blog-header.php:13
+[05-Jul-2019 02:53:17 UTC] PHP   4. require_once() G:\webapp\www\wc\broomday\wp-load.php:37
+[05-Jul-2019 02:53:17 UTC] PHP   5. require_once() G:\webapp\www\wc\broomday\wp-config.php:84
+[05-Jul-2019 02:53:17 UTC] PHP   6. include() G:\webapp\www\wc\broomday\wp-settings.php:499
+[05-Jul-2019 02:53:17 UTC] PHP   7. Avada_Google_Fonts->__construct() G:\webapp\www\wc\broomday\wp-content\themes\Avada\functions.php:231
+[05-Jul-2019 02:53:17 UTC] PHP   8. Avada_Google_Fonts->get_google_fonts() G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\class-avada-google-fonts.php:69
+[05-Jul-2019 02:53:17 UTC] PHP   9. include_once() G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\class-avada-google-fonts.php:304
+[05-Jul-2019 11:30:33 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[05-Jul-2019 11:30:55 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[05-Jul-2019 11:44:15 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[05-Jul-2019 11:44:37 UTC] ERROR PostmanWpMail: Exception code=0 message=A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.

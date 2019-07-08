@@ -1,0 +1,3337 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: recoverabandoncart\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-03 18:37+0530\n"
+"PO-Revision-Date: 2018-10-03 18:37+0530\n"
+"Last-Translator: FantasticPlugins <contact@fantasticplugins.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: recoverabandoncart.php:53
+#: recoverabandoncart.php:60
+msgid "You are not allowed to perform this action!!!"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:44
+#: inc/class-fp-rac-register-post-type.php:51
+#, fuzzy
+msgid "Cart List Table"
+msgstr "Liste des paniers abandonnés"
+
+#: inc/class-fp-rac-register-post-type.php:45
+#, fuzzy
+msgid "Recovered Abandoned Cart"
+msgstr "ID du panier abandonné"
+
+#: inc/class-fp-rac-register-post-type.php:47
+#, fuzzy
+msgid "Add New Cart List"
+msgstr "Liste des paniers abandonnés"
+
+#: inc/class-fp-rac-register-post-type.php:48
+msgid "Add New Affiliate"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:49
+#: inc/class-fp-rac-register-post-type.php:50
+#, fuzzy
+msgid "Edit Cart List"
+msgstr "Liste des paniers abandonnés"
+
+#: inc/class-fp-rac-register-post-type.php:52
+#, fuzzy
+msgid "New Cart List"
+msgstr "Liste des paniers abandonnés"
+
+#: inc/class-fp-rac-register-post-type.php:53
+#: inc/class-fp-rac-register-post-type.php:54
+#, fuzzy
+msgid "View Cart List"
+msgstr "Liste des paniers abandonnés"
+
+#: inc/class-fp-rac-register-post-type.php:55
+#, fuzzy
+msgid "Search Cart List"
+msgstr "Retour à la liste du panier"
+
+#: inc/class-fp-rac-register-post-type.php:56
+#, fuzzy
+msgid "No Cart List found"
+msgstr "Liste des paniers abandonnés"
+
+#: inc/class-fp-rac-register-post-type.php:57
+#, fuzzy
+msgid "No Cart List found in trash"
+msgstr "Paramètres de liste de paniers"
+
+#: inc/class-fp-rac-register-post-type.php:59
+msgid "Here you can able to see list of Cart List"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:90
+#: inc/class-fp-rac-register-post-type.php:91
+#: inc/class-fp-rac-register-post-type.php:93
+#, fuzzy
+msgid "Email Log"
+msgstr "Historique des mails"
+
+#: inc/class-fp-rac-register-post-type.php:94
+#, fuzzy
+msgid "Add Email Log"
+msgstr "Historique des mails"
+
+#: inc/class-fp-rac-register-post-type.php:95
+#: inc/class-fp-rac-register-post-type.php:96
+#, fuzzy
+msgid "Edit Email Log"
+msgstr "Historique des mails"
+
+#: inc/class-fp-rac-register-post-type.php:97
+#, fuzzy
+msgid "New Email Log"
+msgstr "Historique des mails"
+
+#: inc/class-fp-rac-register-post-type.php:98
+#, fuzzy
+msgid "View Email log"
+msgstr "Historique des mails"
+
+#: inc/class-fp-rac-register-post-type.php:99
+#, fuzzy
+msgid "View Email Log"
+msgstr "Historique des mails"
+
+#: inc/class-fp-rac-register-post-type.php:100
+#, fuzzy
+msgid "Search Email log"
+msgstr "Historique des mails"
+
+#: inc/class-fp-rac-register-post-type.php:101
+#, fuzzy
+msgid "No Email Log found"
+msgstr "Historique des mails"
+
+#: inc/class-fp-rac-register-post-type.php:102
+msgid "No Email Log found in trash"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:104
+msgid "Here you can able to see list of Email Log"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:134
+#, fuzzy
+msgid "Email Templates"
+msgstr "Type de modèle E-mail"
+
+#: inc/class-fp-rac-register-post-type.php:135
+#, fuzzy
+msgid "Email Template"
+msgstr "Type de modèle E-mail"
+
+#: inc/class-fp-rac-register-post-type.php:137
+#: inc/class-fp-rac-register-post-type.php:138
+#: inc/class-fp-rac-register-post-type.php:141
+#, fuzzy
+msgid "New Email Template"
+msgstr "Type de modèle E-mail"
+
+#: inc/class-fp-rac-register-post-type.php:139
+#: inc/class-fp-rac-register-post-type.php:140
+#, fuzzy
+msgid "Edit Email Template"
+msgstr "Type de modèle E-mail"
+
+#: inc/class-fp-rac-register-post-type.php:142
+#: inc/class-fp-rac-register-post-type.php:143
+#, fuzzy
+msgid "View Email Template"
+msgstr "Type de modèle E-mail"
+
+#: inc/class-fp-rac-register-post-type.php:144
+#, fuzzy
+msgid "Search Email Template"
+msgstr "Type de modèle E-mail"
+
+#: inc/class-fp-rac-register-post-type.php:145
+#, fuzzy
+msgid "No Email Template(s) found"
+msgstr "Retourner aux modèles de mail"
+
+#: inc/class-fp-rac-register-post-type.php:146
+#, fuzzy
+msgid "No Email Template(s) found in trash"
+msgstr "Paramètres du modèle de mail"
+
+#: inc/class-fp-rac-register-post-type.php:148
+#, fuzzy
+msgid "Here you can able to see list of Email Templates"
+msgstr "Retourner aux modèles de mail"
+
+#: inc/class-fp-rac-register-post-type.php:177
+#, fuzzy
+msgid "Recovered Orders  Log"
+msgstr "Commandes Récupérées"
+
+#: inc/class-fp-rac-register-post-type.php:178
+msgid "Recovered Orders"
+msgstr "Commandes Récupérées"
+
+#: inc/class-fp-rac-register-post-type.php:180
+#, fuzzy
+msgid "Recovered Order"
+msgstr "Commandes Récupérées"
+
+#: inc/class-fp-rac-register-post-type.php:181
+#, fuzzy
+msgid "Add New Recovered Order"
+msgstr "Commandes Récupérées"
+
+#: inc/class-fp-rac-register-post-type.php:182
+#: inc/class-fp-rac-register-post-type.php:183
+#, fuzzy
+msgid "Edit Recovered Order"
+msgstr "Commandes Récupérées"
+
+#: inc/class-fp-rac-register-post-type.php:184
+#, fuzzy
+msgid "New Recovered Order"
+msgstr "Commandes Récupérées"
+
+#: inc/class-fp-rac-register-post-type.php:185
+#: inc/class-fp-rac-register-post-type.php:186
+#, fuzzy
+msgid "View Recovered Order"
+msgstr "Commandes Récupérées"
+
+#: inc/class-fp-rac-register-post-type.php:187
+#, fuzzy
+msgid "Search Recovered Order"
+msgstr "Commandes Récupérées"
+
+#: inc/class-fp-rac-register-post-type.php:188
+#, fuzzy
+msgid "No Recovered Orders found"
+msgstr "Commandes Récupérées"
+
+#: inc/class-fp-rac-register-post-type.php:189
+#, fuzzy
+msgid "No Recovered Orders found in trash"
+msgstr "Commandes Récupérées"
+
+#: inc/class-fp-rac-register-post-type.php:191
+#, fuzzy
+msgid "Here you can able to see list of Recovered Order"
+msgstr "Il semble que votre panier a déjà été récupéré/validé"
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:79
+msgid "Not a valid e-mail address"
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:121
+msgid "Successfully Unsubscribed..."
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:122
+msgid "Successfully Subscribed..."
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:236
+#, fuzzy
+msgid "Please enter a value greater than "
+msgstr "Merci d'entrer un e-mail valide"
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:306
+msgid "Please enter email id"
+msgstr "Merci de saisir un e-mail"
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:307
+#, fuzzy
+msgid "Please Enter any Value"
+msgstr "Merci d'entrer un e-mail valide"
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:308
+msgid "Please select any Product/Category"
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:325
+msgid "Do you want to change the status of this cart to Recovered?"
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:326
+msgid "save"
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:341
+msgid "Orders found and added to Abandon List"
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:342
+msgid "No Orders found"
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:355
+msgid "Mail has been Sent, but this doesn't mean mail will be delivered Successfully. Check Wordpress Codex for More info on Mail"
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:356
+#, fuzzy
+msgid "Mail not Sent."
+msgstr "Paramètres mails automatisés"
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:357
+msgid "For WooCommerce 2.3 or higher version mail() function will not load the woocommerce default template. This option will be deprecated"
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:360
+msgid "Are you sure you want to proceed with the updation? Based on data available, it may take some time to update"
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:362
+msgid "Update Completed"
+msgstr ""
+
+#: inc/fp-rac-compatibility-functions.php:116
+msgid "Purchasing this product will provide access to "
+msgstr ""
+
+#: inc/fp-rac-compatibility-functions.php:118
+msgid "Purchasing this Variation will provide access to "
+msgstr ""
+
+#: inc/class-fp-rac-lightbox-handler.php:55
+#: inc/class-fp-rac-lightbox-handler.php:110
+msgid "S.No"
+msgstr "Numéro de série"
+
+#: inc/class-fp-rac-lightbox-handler.php:56
+#: inc/class-fp-rac-lightbox-handler.php:111
+#, fuzzy
+msgid "Product Name"
+msgstr "Produit"
+
+#: inc/class-fp-rac-lightbox-handler.php:57
+#, fuzzy
+msgid "Abandoned Count"
+msgstr "ID du panier abandonné"
+
+#: inc/class-fp-rac-lightbox-handler.php:112
+#, fuzzy
+msgid "Recovered Count"
+msgstr "Paniers récupérés"
+
+#: inc/class-fp-rac-cart-data-from-mail.php:76
+#: inc/class-fp-rac-cart-data-from-mail.php:191
+#: inc/class-fp-rac-cart-data-from-mail.php:259
+msgid "Seems your cart has been already Recovered/Order Placed"
+msgstr "Il semble que votre panier a déjà été récupéré/validé"
+
+#: inc/class-fp-rac-unsubscribe-function.php:211
+#: inc/class-fp-rac-unsubscribe-function.php:255
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:864
+msgid "Unsubscribe"
+msgstr "Se désinscrire"
+
+#: inc/class-fp-rac-polish-product-info.php:170
+msgid "Balance Payable Amount"
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:9
+msgid "This includes the basics of what personal data your store may be collecting, storing and sharing. Depending on what settings are enabled and which additional plugins are used, the specific information shared by your store will vary."
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:10
+msgid "What the Plugin Does"
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:11
+msgid "- When a user adds a product to cart and doesn't complete their purchase within a specified time, their cart will be considered as abandoned"
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:12
+msgid "- An email will be sent to the user who has abandoned the cart. The user can complete the purchase by clicking the purchase link provided in the email"
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:13
+msgid "- The user can unsubscribe from the abandoned cart emails using the unsubscribe link provided in the emails."
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:14
+msgid "What we collect and store"
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:15
+#, fuzzy
+msgid "- Email ID"
+msgstr "Identifiant de l'email"
+
+#: inc/admin/fp_rac_privacy.php:16
+msgid "For logged in users, their registered email id will be recorded. For guests, email id will be recorded from the email id field on the checkout page. The email id obtained will be used for sending abandoned cart emails."
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:17
+#, fuzzy
+msgid "- User First Name and Last Name"
+msgstr "Nom d'Utilisateur / Nom Prenom"
+
+#: inc/admin/fp_rac_privacy.php:18
+msgid "For logged in users, their first name and last name will be obtained from their profile. For guests, their first name and last name will be obtained from the first name and last name fields on the checkout page. The name obtained will be used in the abandoned cart emails."
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:19
+#, fuzzy
+msgid "- Phone Number"
+msgstr "Email / Numéro de téléphone"
+
+#: inc/admin/fp_rac_privacy.php:20
+msgid "For guests, their phone number will be recorded from the phone number field on the checkout page."
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:21
+msgid "- Cookies"
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:22
+msgid "We use cookies to"
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:23
+msgid "- Track the orders which were recovered using the purchase link provided in the abandoned cart emails."
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:24
+msgid "- Capture the carts abandoned by guests"
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:25
+msgid "- IP Address"
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:26
+msgid "We record the IP address of guests to differentiate one guest user from an another user"
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:35
+#, fuzzy
+msgid "Recover Abandoned Cart"
+msgstr "ID du panier abandonné"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:51
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:44
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:53
+#: inc/admin/menu/class-fp-rac-recovered-order-submenu.php:45
+msgid "ID"
+msgstr "ID"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:52
+msgid "Template Name"
+msgstr "Nom du modèle"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:53
+msgid "From Name"
+msgstr "Nom émetteur"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:54
+msgid "From Email"
+msgstr "Email émetteur"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:55
+msgid "Subject"
+msgstr "Sujet"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:56
+msgid "Message"
+msgstr "Message"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:57
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:58
+msgid "Status"
+msgstr "Statut"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:58
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:919
+#, fuzzy
+msgid "Email Sent"
+msgstr "E-mails envoyés"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:59
+msgid "Carts Recovered"
+msgstr "Paniers récupérés"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:164
+msgid "Deactivate"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:166
+msgid "Activate"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:213
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:366
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:369
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:293
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:296
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:543
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:546
+#: inc/admin/menu/class-fp-rac-recovered-order-submenu.php:328
+#: inc/admin/menu/class-fp-rac-recovered-order-submenu.php:331
+msgid "Error in moving to Trash."
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:385
+msgid "No Email Template to duplicate has been supplied!"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:404
+msgid "Email Template creation failed, could not find original Email Template:"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:451
+msgid "Save"
+msgstr "Enregistrer"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:453
+#, fuzzy
+msgid "Send Test Email"
+msgstr "Tester E-mail"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:455
+#, fuzzy
+msgid "Coupon Creation Settings"
+msgstr "Code de suppression du coupon"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:548
+msgid "Load Message from existing Template"
+msgstr "Charger un message d'un modèle existant"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:558
+#, fuzzy
+msgid "Send Manual Email"
+msgstr "Tester E-mail"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:559
+msgid "Mail Sent Successfully"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:568
+msgid "Test Email"
+msgstr "Tester E-mail"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:572
+msgid "Send Test"
+msgstr "Envoyer Test"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:574
+#, fuzzy
+msgid "Mail Sent"
+msgstr "E-mails envoyés"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:575
+msgid "Shortcodes replaced by Sample Data"
+msgstr "Shortcodes remplacés par des données d'exemple"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:588
+#, fuzzy
+msgid "Enter Template Name"
+msgstr "Nom du modèle"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:24
+msgid "Reports"
+msgstr "Rapports"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:25
+#, fuzzy
+msgid "Settings"
+msgstr "Paramètres de temps"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:44
+#, fuzzy
+msgid "Sorting"
+msgstr "Paramètres de temps"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:45
+#, fuzzy
+msgid "Display Table in"
+msgstr "Activer"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:47
+#, fuzzy
+msgid "Ascending Order"
+msgstr "Commandes Récupérées"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:48
+#, fuzzy
+msgid "Descending Order"
+msgstr "Commandes Récupérées"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:104
+msgid "General Settings"
+msgstr "Paramètres généraux"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:105
+#, fuzzy
+msgid "Advanced Settings"
+msgstr "Paramètres généraux"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:106
+msgid "Check Previous Orders"
+msgstr "Voir les commandes précédentes"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:107
+#, fuzzy
+msgid "Coupon in Email"
+msgstr "Bons de réduction"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:108
+msgid "Troubleshoot"
+msgstr "Rapport anomalies"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:109
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:110
+msgid "Support"
+msgstr "Support"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:132
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Echec de l'opération. Merci de rafraîchir la page et réessayer."
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:233
+msgid "Your settings have been saved."
+msgstr "Vos paramètres ont été sauvegardés"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:235
+msgid "Your settings have been Restored."
+msgstr "Vos paramètres ont été restaurés"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:251
+msgid "wp_cron is disabled in your Site <br />Recover Abandoned Cart will not be able to send Cart Abandoned Emails to Users Automatically<br />To enable wp_cron, edit the config.php of your Wordpress installation and search for 'define('DISABLE_WP_CRON', 'true');' and set the value as false"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:276
+msgid "Automatic emailing has been disabled for Members/Guests!!!"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:282
+msgid "Cron has not been set for sending Automatic Emails!!!"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:283
+msgid "Try Deactivating the plugin and activating it again."
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:54
+#, fuzzy
+msgid "Abandoned Cart Reports"
+msgstr "ID du panier abandonné"
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:59
+#, fuzzy
+msgid "Number of Abandoned Carts Captured"
+msgstr "Nombre de paniers récupérés"
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:73
+msgid "Number of Total Emails Sent"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:87
+msgid "Number of Total Email Links Clicked"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:101
+msgid "Number of Carts Recovered"
+msgstr "Nombre de paniers récupérés"
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:116
+msgid "Total Sales Amount Recovered"
+msgstr "Montant total des ventes récupérées"
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:135
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:139
+msgid "Frequently Abandoned Products"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:141
+msgid "Products which are frequently abandoned by the user"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:147
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:151
+msgid "Frequently Recovered Products"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:153
+msgid "Products which are frequently recovered by the user"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:159
+#, fuzzy
+msgid "Clear Reports"
+msgstr "Rapports"
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:159
+msgid "Are you sure to clear the reports ?"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:294
+#, fuzzy
+msgid "Reports Graph"
+msgstr "Rapports"
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:300
+msgid "Filter"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:45
+#, fuzzy
+msgid "Email ID"
+msgstr "Identifiant de l'email"
+
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:46
+#, fuzzy
+msgid "Date Time"
+msgstr "Date/heure"
+
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:47
+msgid "Template Used"
+msgstr "Modèle utilisé"
+
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:48
+#, fuzzy
+msgid "Abandon Cart ID"
+msgstr "ID du panier abandonné"
+
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:110
+msgid "Template Info not Available"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:118
+#, fuzzy
+msgid "Cart List ID not Available"
+msgstr "Liste des paniers abandonnés"
+
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:150
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:190
+#, fuzzy
+msgid "From Date"
+msgstr "Nom émetteur"
+
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:151
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:191
+#, fuzzy
+msgid "To Date"
+msgstr "Date d'abandon / Heure"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:54
+msgid "Cart Details / Cart Total"
+msgstr "Détails du panier / Total du panier"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:55
+#, fuzzy
+msgid "User Name / First Last Name"
+msgstr "Nom d'Utilisateur / Nom Prenom"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:56
+msgid "Email ID / Phone Number"
+msgstr "Email / Numéro de téléphone"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:57
+#, fuzzy
+msgid "Abandoned Date / Time"
+msgstr "Date d'abandon / Heure"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:59
+msgid "Email Template / Email Status / Cart Link in Email"
+msgstr "Modèle d'e-mail / Statut e-mail / Lien vers le panier dans l'e-mail"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:60
+msgid "Recovered Order ID"
+msgstr "ID Commande récupéré"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:61
+msgid "Coupon Used"
+msgstr "Coupon utilisé"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:62
+msgid "Payment Status"
+msgstr "Statut du paiement"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:63
+#, fuzzy
+msgid "Email Status"
+msgstr "Paramètres e-mail"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:177
+#, fuzzy
+msgid "All"
+msgstr "Tout"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:178
+#, fuzzy
+msgid "Subscribed"
+msgstr "Se désinscrire"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:179
+#, fuzzy
+msgid "Unsubscribed"
+msgstr "Se désinscrire"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:249
+#, fuzzy
+msgid "Send Manual Email for all Carts"
+msgstr "Envoyer un e-mail pour les sélectionnés "
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:255
+msgid "Export as CSV"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:259
+#, fuzzy
+msgid "Update Status"
+msgstr "Statu du modèle"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:273
+#, fuzzy
+msgid "Send Email"
+msgstr "Tester E-mail"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:572
+msgid "Back to Cart List"
+msgstr "Retour à la liste du panier"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:582
+msgid "No Cart List to send email!"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:682
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:724
+#, fuzzy
+msgid "Product Details not Available"
+msgstr "Liste des paniers abandonnés"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:763
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:776
+msgid "Guest"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:780
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:848
+#, fuzzy
+msgid "Order Details not Available"
+msgstr "Liste des paniers abandonnés"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:812
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:819
+msgid "Double Click to Change an Editable"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:861
+msgid "Email ID has been Unsubscribed"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:862
+#, fuzzy
+msgid "Subscribe"
+msgstr "Se désinscrire"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:895
+#, fuzzy
+msgid "Mark as Recovered"
+msgstr "Paniers récupérés"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:921
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:924
+#, fuzzy
+msgid "Email Not Sent"
+msgstr "E-mails envoyés"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:931
+#, fuzzy
+msgid "Cart Link Clicked"
+msgstr "Format du lien vers le panier abandonné"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:934
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:938
+#, fuzzy
+msgid "Cart Link Not Clicked"
+msgstr "Texte ancre lien panier"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:953
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:985
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:995
+msgid "Not Yet"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:971
+msgid "Success"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:973
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:976
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:982
+#, fuzzy
+msgid "Not Used"
+msgstr "Coupon utilisé"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:979
+msgid "Order details not available"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:995
+msgid "Completed"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:1012
+#, fuzzy
+msgid "Stop Emailing"
+msgstr "Email émetteur"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:1014
+msgid "Start Emailing"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:1019
+#, fuzzy
+msgid "Recovered"
+msgstr "Paniers récupérés"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:1022
+#, fuzzy
+msgid "Trashed"
+msgstr "Corbeille"
+
+#: inc/admin/menu/class-fp-rac-recovered-order-submenu.php:46
+msgid "Order ID"
+msgstr "ID commande"
+
+#: inc/admin/menu/class-fp-rac-recovered-order-submenu.php:47
+#, fuzzy
+msgid "Recovered Sales Total"
+msgstr "Total des ventes récupérées"
+
+#: inc/admin/menu/class-fp-rac-recovered-order-submenu.php:48
+msgid "Date"
+msgstr "Date"
+
+#: inc/admin/menu/class-fp-rac-coupon-handler.php:86
+msgid "Other Coupons"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-coupon-handler.php:87
+#, fuzzy
+msgid "Recover Abandoned Cart Coupons"
+msgstr "ID du panier abandonné"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:27
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:29
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:31
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:33
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:35
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:37
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:43
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:45
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:47
+#, fuzzy
+msgid "Abandoned cart email"
+msgstr "ID du panier abandonné"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:28
+msgid "Abandoned cart can be loaded using this link from email"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:30
+#, fuzzy
+msgid "Shows abandoned cart date"
+msgstr "ID du panier abandonné"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:32
+#, fuzzy
+msgid "Shows abandoned cart time"
+msgstr "Date d'abandon / Heure"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:34
+msgid "Displays the product name in the email subject"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:36
+#, fuzzy
+msgid "Shows receiver first name"
+msgstr "Nom d'Utilisateur / Nom Prenom"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:38
+#, fuzzy
+msgid "Shows receiver last name"
+msgstr "Nom d'Utilisateur / Nom Prenom"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:39
+msgid "Admin order recovered notification email"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:40
+msgid "Order ID can be inserted in the admin notification email for reference"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:41
+msgid "Admin order line items in recovered notification email"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:42
+msgid "Order line items will be displayed in admin notification email for information"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:44
+msgid "Shows product info table"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:46
+msgid "Coupon code will be generated automatically and included in the email with a coupon options based on the settings from Coupon In Email tab"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:48
+#, fuzzy
+msgid "Shows unsubscribe link"
+msgstr "Paramètres de désinscription"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:49
+msgid "Pages"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:50
+msgid "Manual unsubscription of abandon cart emails done in this page"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:57
+#, fuzzy
+msgid "Shortcode"
+msgstr "Shortcodes"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:60
+msgid "Context where Shortcode is valid"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:63
+msgid "Purpose"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:36
+msgid "Add Old WooCommerce Orders to Cart List which are in"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:38
+msgid "On hold status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:39
+#, fuzzy
+msgid "Pending payment status"
+msgstr "Statut du paiement"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:40
+#, fuzzy
+msgid "Failed status"
+msgstr "Statu du modèle"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:41
+msgid "Cancelled status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:45
+#, fuzzy
+msgid "Time Duration"
+msgstr "Délai envoi mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:48
+#, fuzzy
+msgid "All time"
+msgstr "Tout"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:49
+msgid "Specific"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:54
+msgid "Specific Time"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:56
+#, fuzzy
+msgid "From"
+msgstr "Nom émetteur"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:58
+msgid "To"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:64
+#, fuzzy
+msgid "Check for Abandoned Cart"
+msgstr "ID du panier abandonné"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:26
+#, fuzzy
+msgid "Troubleshoot Settings"
+msgstr "Diagnostic anomalies"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:31
+#, fuzzy
+msgid "Email Function to Use"
+msgstr "Utiliser la fonction mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:32
+msgid "Please Select which mail function to use while sending notification"
+msgstr "Merci de sélectionner la fonction mail à utiliser pour l'envoi des notifications"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:43
+#, fuzzy
+msgid "Use Email Troubleshoot"
+msgstr "Activer le mail de rapport des anomalies"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:44
+msgid "Please enable this option if you want to send Emails using Fifth Parameter "
+msgstr "Merci d'activer cette option si vous voulez envoyer des e-mail en utilisant Fifth Parameter"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:49
+msgid "Enable"
+msgstr "Activer"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:49
+#, fuzzy
+msgid "Disable"
+msgstr "Activer"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:55
+msgid "Use Email as Fifth Parameter"
+msgstr "Utiliser l'e-mail en tant que Fifth Parameter"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:63
+msgid "MIME Version 1.0 Parameter"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:68
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:79
+#, fuzzy
+msgid "Include"
+msgstr "Produits"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:68
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:79
+#, fuzzy
+msgid "Exclude"
+msgstr "Exclure catégorie"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:74
+msgid "Reply-To Parameter"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:86
+#, fuzzy
+msgid "Troubleshoot Performance Settings"
+msgstr "Problèmes de performance"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:91
+#, fuzzy
+msgid "Load Recover Abandoned Cart Scripts/Styles in"
+msgstr "Charger les styles et scripts du module Recover Abandon Cart dans "
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:92
+#, fuzzy
+msgid "\"Footer of the Site\" option is experimental and if your theme doesn't contain wp_footer hook then it won't work"
+msgstr "L'option \"en pied de page\" est expérimentale du fait que si votre thème ne comprend le hook wp_content() cela ne fonctionnera pas"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:97
+msgid "Header of the site"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:97
+msgid "Footer of the site(Experimental)"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:104
+#, fuzzy
+msgid "Ajax Chunking Settings"
+msgstr "Paramètres mails automatisés"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:109
+msgid "Chunk Count Per Ajax Call"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:110
+#, fuzzy
+msgid "Applicable for \"Check Previous Orders\" tab"
+msgstr "Voir les commandes précédentes"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:121
+#, fuzzy
+msgid "Cron Troubleshoot Settings"
+msgstr "Diagnostic anomalies"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:127
+msgid "What Cron will be Used"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:132
+msgid "wp_cron"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:132
+msgid "server_cron"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:139
+#, fuzzy
+msgid "Abandon Cart List Status Management Settings"
+msgstr "ID du panier abandonné"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:144
+msgid "Update Status of Captured Carts when Cart List Table is Accessed"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:154
+msgid "Display Update Status Button in Cart List Table for Updating the Captured Carts Status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:208
+msgid "Manual Data Updation"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:211
+msgid "Update User Data for Previous Orders"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:213
+#, fuzzy
+msgid "Update"
+msgstr "Statu du modèle"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:223
+#, fuzzy
+msgid "Test Email Settings"
+msgstr "Paramètres e-mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:226
+#, fuzzy
+msgid "Email Format"
+msgstr "Tester E-mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:229
+msgid "Plain Text"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:230
+msgid "HTML"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:236
+#, fuzzy
+msgid "Send Test Email to"
+msgstr "Tester E-mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:28
+#, fuzzy
+msgid "Product Info Table Settings"
+msgstr "Diagnostic anomalies"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:34
+msgid "Border for Table"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:42
+#, fuzzy
+msgid "Display Variations for Variable Product"
+msgstr "Personnaliser la légende et la visibilité de l'information du produit dans le modèle de l'e-mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:43
+msgid "If \"Show\" is selected, variation name will be displayed if the product is a variable product)"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:46
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:58
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:575
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:598
+msgid "Show"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:46
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:58
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:574
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:597
+msgid "Hide"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:53
+msgid "SKU"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:56
+msgid "If enabled, SKU will be displayed next to product name in abandoned cart emails and cart list"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:64
+#, fuzzy
+msgid "Product Name Column"
+msgstr "Produit"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:73
+#, fuzzy
+msgid "Product Name Label"
+msgstr "Produit"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:81
+#, fuzzy
+msgid "Product Image Column"
+msgstr "Produit"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:90
+#, fuzzy
+msgid "Product Image Label"
+msgstr "Produit"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:98
+#, fuzzy
+msgid "Product Quantity Column"
+msgstr "Personnaliser le libellé de la quantité produit dans le modèle de l'e-mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:107
+#, fuzzy
+msgid "Product Quantity Label"
+msgstr "Personnaliser le libellé de la quantité produit dans le modèle de l'e-mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:115
+#, fuzzy
+msgid "Product Price Column"
+msgstr "Produit"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:124
+#, fuzzy
+msgid "Product Price Label"
+msgstr "Produit"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:132
+#, fuzzy
+msgid "Subtotal, Shipping, Tax, Total Rows"
+msgstr "Cacher le sous total, la taxe et le total dans le shortcode d'informations produit"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:141
+msgid "Subtotal Label"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:150
+msgid "Total Label"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:159
+msgid "Shipping Row"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:169
+msgid "Shipping Label"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:178
+msgid "Tax Row"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:188
+msgid "Tax Label"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:197
+msgid "Display Product Price Including Tax in Emails"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:198
+msgid "If enabled, product price will be displayed including tax and if disabled, product price will be displayed excluding tax"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:207
+msgid "Email Template Cart Link Settings"
+msgstr "Paramètres du modèle d'e-mail faisant un lien vers le panier abandonné"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:212
+#, fuzzy
+msgid "Cart Link Type"
+msgstr "Format du lien vers le panier abandonné"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:213
+#, fuzzy
+msgid "Customize the cart link in email template"
+msgstr "Personnaliser le lien vers le panier abandonné dans le modèle e-mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:220
+msgid "Hyperlink"
+msgstr "Hyperlien"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:221
+msgid "URL"
+msgstr "URL"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:222
+msgid "Button"
+msgstr "Bouton"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:223
+msgid "Image"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:228
+msgid "Button Background Color"
+msgstr "Background du bouton"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:238
+#, fuzzy
+msgid "Button Text Color"
+msgstr "Couleur du lien du bouton"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:248
+#, fuzzy
+msgid "Cart Link Color"
+msgstr "Couleur du lien"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:261
+#, fuzzy
+msgid "Image Height"
+msgstr "Hauteur"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:272
+#, fuzzy
+msgid "Image Width"
+msgstr "Largeur"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:283
+#, fuzzy
+msgid "Page to be Redirected on Clicking the Cart Link in Abandoned Cart Emails"
+msgstr "Page de redirection lorsque l'internaute clique sur le lien dans l'e-mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:284
+#, fuzzy
+msgid "Please Select the page that you want to redirect after clicking the Cart Link in email"
+msgstr "Merci de sélectionner la page vers laquelle vous voulez rediriger l'internaute pour concrétiser son panier"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:289
+#, fuzzy
+msgid "Cart page"
+msgstr "Liste des paniers abandonnés"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:289
+msgid "Checkout page"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:294
+#, fuzzy
+msgid "Clear the Cart Content when Cart Link is Clicked"
+msgstr "Vider le contenu du panier quand le lien est cliqué"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:303
+#, fuzzy
+msgid "Shortcode Customization in Email Template"
+msgstr "Personnaliser le libellé de la taxe dans le modèle de l'e-mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:308
+msgid "Date Format"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:318
+msgid "Time Format"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:328
+#, fuzzy
+msgid "Shortcode in Email Subject Label"
+msgstr "Sujet de l'email de notification"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:329
+msgid "If the cart list contains more than one product, the label entered here will be displayed along with the name of the first product when using the shortcode {rac.productname} in abandoned cart email subject"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:338
+#, fuzzy
+msgid "Unsubscription Settings"
+msgstr "Paramètres de désinscription"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:344
+#, fuzzy
+msgid "Display Unsubscription option on My Account Page"
+msgstr "Personnaliser le texte de désinscription dans la page Mon Compte"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:345
+#, fuzzy
+msgid "If enabled, unsubscribe option will be displayed in \"My Account Page\""
+msgstr "Personnaliser le texte de désinscription dans la page Mon Compte"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:354
+#, fuzzy
+msgid "Customize Unsubscription Heading"
+msgstr "Personnaliser le titre de désinscription dans la page Mon Compte"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:355
+msgid "Customize the heading appeared in My Account Page"
+msgstr "Personnaliser le titre qui apparaît dans la page Mon Compte"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:365
+#, fuzzy
+msgid "Customize Unsubscription Text"
+msgstr "Confirmer le texte de désinscription"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:366
+#, fuzzy
+msgid "Customize the Message appeared in My Account Page"
+msgstr "Personnaliser le titre qui apparaît dans la page Mon Compte"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:377
+msgid "Link in Email Footer"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:378
+msgid "Note: "
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:378
+#, fuzzy
+msgid "If unsubscription link is not visible in footer of email, then consider using the shortcode <b>{rac.unsubscribe}</b> in text editor for each email template"
+msgstr "Si le lien de désinscription n'est pas visible dans le footer de l'e-mail, pensez à utiliser le shortcode {rac.unsubscribe} dans l'éditeur de texte de chaque modèle d'e-mail pour que cela fonctionne"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:384
+msgid "If enabled, unsubscription link will be appended to the email footer"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:388
+msgid "Enter Unsubscription Message which is visible in Email Footer"
+msgstr "Entrer le message de désinscription qui sera visible dans le footer de l'e-mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:398
+#, fuzzy
+msgid "Unsubscription Link Text in Email Template will"
+msgstr "Lien de désinscription dans l'e-mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:399
+msgid "Choose how the Unsubscription Link from Recovered Abandon Cart will be displayed in emails "
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:404
+msgid "Replace WooCommerce footer text"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:405
+msgid "Append to WooCommerce footer text"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:412
+#, fuzzy
+msgid "Link Anchor Text"
+msgstr "Texte ancre lien panier"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:413
+msgid "Enter the text to be replaced for {rac_unsubscribe} shortcode"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:422
+#, fuzzy
+msgid "Unsubscribe Anchor Color"
+msgstr "Se désinscrire"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:432
+msgid "Type"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:433
+msgid "Please Select the Unsubscription Type"
+msgstr "Merci de sélectionner le type de désinscription"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:444
+#, fuzzy
+msgid "Redirect URL for Automatic Unsubscription"
+msgstr "Rediriger l'URL pour la désinscription automatique"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:445
+msgid "Enter Redirect Url to redirect when click the Automatic unsubscription link"
+msgstr "Entrer l'URL de redirection quand un clic est effectué sur le lien de désinscription automatique"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:455
+#, fuzzy
+msgid "Redirect URL for Manual Unsubscription"
+msgstr "Rediriger l'URL pour la désinscription manuelle"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:456
+msgid "Enter Redirect Url to redirect when click the Manual unsubscription link"
+msgstr "Entrer l'URL de redirection quand un clic est effectué sur le lien de désinscription manuel"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:466
+msgid "Already Unsubscribed Text"
+msgstr "Texte déjà désinscrits"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:467
+msgid "Enter Already Unsubscribed Text"
+msgstr "Entrer le texte déjà désinscrits"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:476
+msgid "Unsubscribed Successfully Text"
+msgstr "Texte Désinscription réussie"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:477
+msgid "Enter Unsubscribed Successfully Text"
+msgstr "Entrer le texte de désinscription réussie"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:486
+msgid "Confirm Unsubscription Text"
+msgstr "Confirmer le texte de désinscription"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:487
+msgid "Enter Confirm Unsubscription Text"
+msgstr "Entrer le texte de confirmation de désinscription"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:497
+#, fuzzy
+msgid "Message Text Color"
+msgstr "Couleur du texte du message de désinscription"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:498
+msgid "Choose Unsubscription Message Text color"
+msgstr "Choisir la couleur du message de désinscription"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:508
+#, fuzzy
+msgid "Message Background color"
+msgstr "Background du bouton"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:509
+msgid "Choose Background color for Unsubscription Message"
+msgstr "Choisir la couleur du background du message de désinscription"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:519
+msgid "Unsubscription Email Text color"
+msgstr "Couleur du texte de l'email de désinscription"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:520
+msgid "Choose Unsubscription Email Text color"
+msgstr "Choisir la couleur du texte de l'email de désinscription"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:530
+msgid "Confirm Unsubscription Text color"
+msgstr "Confirmer la couleur du texte de désinscription"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:531
+msgid "Choose Confirm Unsubscription Text color"
+msgstr "Choisir la confirmation de la couleur du texte de désinscription"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:542
+msgid "Add to cart popup settings for Guest"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:548
+msgid "Enable Add to cart popup"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:549
+msgid "Enabling this option will display popup to get email address when click Add to cart button"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:557
+msgid "Is Email Address Mandatory for Add to Cart"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:558
+#, fuzzy
+msgid "Enabling this option will force guest to enter email address"
+msgstr "Activer cette option ne permettra d'envoyer un e-mail seulement aux invités"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:567
+msgid "To Show or Hide First name and last name in Guest add to cart Pop Up"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:580
+msgid "Is First/Last Name Mandatory for Add to Cart"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:581
+#, fuzzy
+msgid "Enabling this option will Force Guest Users to Enter their First Name and Last Name"
+msgstr "Activer cette option ne permettra d'envoyer un e-mail seulement aux invités"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:590
+msgid "To Show or Hide Contact number in Guest add to cart Pop Up"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:603
+msgid "Is Phone Number Mandatory for Add to Cart"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:604
+#, fuzzy
+msgid "Enabling this option will Force Guest Users to Enter their Contact Number"
+msgstr "Activer cette option ne permettra d'envoyer un e-mail seulement aux invités"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:613
+#, fuzzy
+msgid "Popup Heading"
+msgstr "Envoi de mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:615
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:616
+#, fuzzy
+msgid "Please enter your Details"
+msgstr "Merci de saisir un e-mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:622
+#, fuzzy
+msgid "First Name Label"
+msgstr "Nom émetteur"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:624
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:625
+#, fuzzy
+msgid "Enter your First Name"
+msgstr "Nom émetteur"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:631
+#, fuzzy
+msgid "Last Name Label"
+msgstr "Nom du modèle"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:633
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:634
+#, fuzzy
+msgid "Enter your Last Name"
+msgstr "Nom du modèle"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:640
+#, fuzzy
+msgid "Phone Number Label"
+msgstr "Email / Numéro de téléphone"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:642
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:643
+msgid "Enter Your Contact Number"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:649
+#, fuzzy
+msgid "Email Address Label"
+msgstr "Message"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:651
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:652
+#, fuzzy
+msgid "Enter your Email Address"
+msgstr "Nom du modèle"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:658
+msgid "Add to cart button Text"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:660
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:661
+msgid "Add to cart"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:667
+msgid "Cancel button Text"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:669
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:670
+msgid "Cancel"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:677
+msgid "Error Message Localization"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:682
+msgid "Error Message for Empty First Name field"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:684
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:685
+#, fuzzy
+msgid "Please Enter your First Name"
+msgstr "Merci de saisir un e-mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:691
+msgid "Error Message for Empty Last Name field"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:693
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:694
+#, fuzzy
+msgid "Please Enter your Last Name"
+msgstr "Merci de saisir un e-mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:700
+msgid "Error Message for Empty Contact Number field"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:702
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:703
+#, fuzzy
+msgid "Please Enter your Contact Number"
+msgstr "Merci d'entrer un e-mail valide"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:709
+msgid "Error Message for Invalid Contact Number"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:711
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:712
+#, fuzzy
+msgid "Please Enter valid Contact Number"
+msgstr "Merci d'entrer un e-mail valide"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:718
+msgid "Error Message for Empty Email field"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:720
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:721
+#, fuzzy
+msgid "Please Enter your Email Address"
+msgstr "Merci de saisir un e-mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:727
+msgid "Error Message for Invalid Email Address"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:729
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:730
+#, fuzzy
+msgid "Please Enter your Valid Email Address"
+msgstr "Merci de saisir un e-mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:737
+msgid "Personal Data Export Settings for GDPR Compliance"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:742
+msgid "Personal Data Export Label"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:744
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:745
+msgid "Cart Captured for Recovery"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:795
+msgid "Product Info Table Column Positioning"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:799
+#, fuzzy
+msgid "Product Image"
+msgstr "Produit"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:799
+#: inc/emails/class-fp-rac-admin-notification-email.php:38
+msgid "Quantity"
+msgstr "Quantité"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:799
+msgid "Total"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:822
+#, fuzzy
+msgid "Cart Link Image"
+msgstr "Format du lien vers le panier abandonné"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:829
+msgid "Choose Image"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:830
+#, fuzzy
+msgid "Upload Image"
+msgstr "Produit"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:37
+msgid "NEW"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:38
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:42
+msgid "ABANDON"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:39
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:43
+msgid "RECOVERED"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:47
+msgid "Time Settings"
+msgstr "Paramètres de temps"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:56
+#, fuzzy
+msgid "Email Cron Settings"
+msgstr "Paramètres mails automatisés"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:68
+#, fuzzy
+msgid "Cart List Settings"
+msgstr "Paramètres de liste de paniers"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:73
+msgid "When Multiple Cart Entries are about to be Captured for the Same Email ID then"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:76
+msgid "Capture all the carts"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:77
+msgid "Remove old carts and capture new cart"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:78
+msgid "Don't capture any new cart"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:86
+msgid "Remove Carts with \"NEW\" Status"
+msgstr "Supprimer les paniers avec le statut \"Nouveau\""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:87
+msgid "Enabling this option will remove New Carts by same Users"
+msgstr "L’activation de cette option supprime les nouveaux paniers de mêmes utilisateurs"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:96
+msgid "Remove Carts with \"ABANDON\" Status"
+msgstr "Supprimer les paniers avec le statut \"Abandonné\""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:97
+msgid "Enabling this option will remove Abandon Carts by same Users"
+msgstr "Activer cette option va supprimer tous les paniers abandonnées pour les mêmes utilisateurs"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:106
+msgid "Restrict Cart List Capturing when Old Carts of the User is in any One of the Following Status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:118
+#, fuzzy
+msgid "Create an Entry in Cart List Table when the Order reaches \"Failed\" status"
+msgstr "Créer un panier \"abandonné\" quand la commande passe en \"annulée\""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:119
+msgid "If enabled, an entry will be added in \"Cart List\" when the order reaches \"Failed\" status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:127
+#, fuzzy
+msgid "Create an Entry in Cart List Table when the User Cancels the Order from the Third Party Payment Page"
+msgstr "Créer un panier \"abandonné\" quand la commande passe en \"annulée\""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:128
+msgid "If enabled, an entry will be added in \"Cart List\" when the user cancels the order from the third party payment pages"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:136
+#, fuzzy
+msgid "Prevent Adding Additional Cart Entry when the Order is Cancelled by the Same User"
+msgstr "Empêcher l'ajout d'un panier \"nouveau\" lorsque la commande est annulée dès la page panier du processus de commande"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:137
+msgid "Enabling this option will Prevent adding \"New\" cart when order cancelled in cart page"
+msgstr "Activer cette option pour empêcher d'ajouter un nouveau panier quand la commande est annulée dans la page des paniers"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:145
+#, fuzzy
+msgid "Remove Carts after x Days"
+msgstr "Supprimer les paniers avec le statut abandonné après x jours"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:146
+msgid "If \"Yes\" is selected, you can remove captured carts with specific status after specific number of days"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:157
+#, fuzzy
+msgid "Remove Carts after"
+msgstr "Supprimer les paniers avec le statut \"Nouveau\""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:158
+msgid "day(s)"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:167
+#, fuzzy
+msgid "Remove Carts with the Following Status"
+msgstr "Supprimer les paniers avec le statut \"Nouveau\""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:168
+msgid "carts will be removed from cart list table based on selected status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:180
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:311
+#, fuzzy
+msgid "Custom Restriction Settings"
+msgstr "Paramètres de restriction personnalisés"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:181
+#, fuzzy
+msgid "Selected User Roles and Names To Restrict Entry in Cart List"
+msgstr "Rôles utilisateurs, noms et ID mail sélectionnés pour restreindre les entrées dans la liste des paniers"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:186
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:317
+#, fuzzy
+msgid "User Role"
+msgstr "Sélectionner rôle utilisateur"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:187
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:318
+#, fuzzy
+msgid "Name"
+msgstr "Nom émetteur"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:197
+#, fuzzy
+msgid "Cart List Capturing is"
+msgstr "Paramètres de liste de paniers"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:202
+msgid "Not allowed for selected User Role(s)/User Name(s)"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:203
+msgid "Allowed for selected User Role(s)/User Name(s)"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:211
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:342
+msgid "Select User Role"
+msgstr "Sélectionner rôle utilisateur"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:212
+msgid "Enter the First Three Characters of User Role"
+msgstr "Entrer les trois premiers caractères du rôle utilisateur"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:224
+#, fuzzy
+msgid "Select Users"
+msgstr "Sélectionner rôle utilisateur"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:225
+msgid "Enter the First Three Characters of User Name"
+msgstr "Entrer les trois premiers caractères du nom d'utilisateur"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:259
+msgid "Email Settings"
+msgstr "Paramètres e-mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:264
+msgid "Send Email to Members"
+msgstr "Envoyer un e-mail aux clients inscrits"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:265
+msgid "If enabled, emails will be send to members"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:273
+msgid "Send Email to Guests"
+msgstr "Envoyer un e-mail aux invités"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:274
+msgid "If enabled, emails will be send to guests"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:282
+#, fuzzy
+msgid "Email Sending Method"
+msgstr "Envoi de mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:286
+#, fuzzy
+msgid "Based on abandoned cart time"
+msgstr "Date d'abandon / Heure"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:286
+msgid "Based on previous email sent time"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:292
+#, fuzzy
+msgid "Email Sending Priority "
+msgstr "Envoi de mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:296
+#, fuzzy
+msgid "Email duration"
+msgstr "Délai envoi mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:296
+#, fuzzy
+msgid "Email sequence"
+msgstr "E-mails envoyés"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:302
+msgid "Restrict Automatic Abandoned Cart Emails if Captured Cart Contains a Product which was already Purchased"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:303
+msgid "If enabled, automatic abandoned cart emails will not be sent if captured cart contains a product which was already purchased"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:312
+msgid "Select User Roles, Names and Email ID To Stop EMail Sending"
+msgstr "Sélectionner les rôles utilisateurs, noms et ID mail pour stopper l'envoi d'e-mails"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:320
+#, fuzzy
+msgid "Email Provider"
+msgstr "Aperçu de l'e-mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:328
+#, fuzzy
+msgid "Abandoned Cart Emails are"
+msgstr "ID du panier abandonné"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:333
+msgid "Not sent for the selected option"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:334
+#, fuzzy
+msgid "Sent for the selected option"
+msgstr "Envoyer un e-mail pour les sélectionnés "
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:354
+msgid "User Name Selected"
+msgstr "Nom d'utilisateur sélectionné"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:355
+msgid "Enter the First Three Character of User Name"
+msgstr "Entrer les trois premiers caractères du nom d'utilisateur"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:365
+msgid "Custom Mail ID Selected"
+msgstr "ID mail customisé sélectionné"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:366
+msgid "Enter Mail ID per line which will be excluded to receive a mail from Recover Abandon Cart"
+msgstr "Entrer un ID mail par ligne qui sera exclu de la liste de réception mail depuis la récupération du panier"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:377
+msgid "Restrict Email Providers"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:378
+msgid "Enter the email providers seperated by comma. Do not enter any special characters"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:390
+msgid "Recover Status Settings"
+msgstr "Paramètres du statut de récupération"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:395
+#, fuzzy
+msgid "Change All the New/Abandon Cart Lists of a User when they Place on Order in the Site"
+msgstr "Quand l'utilisateur réalise sa commande, basculer le statut panier de nouveau/abandonné à récupéré"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:396
+msgid "Recover Cart List based on Order Status"
+msgstr "Liste de recouvrement paniers basée sur le statut commande"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:409
+msgid "Allow Manual Orders to Recover Cart List"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:410
+#, fuzzy
+msgid "Enable this Option will help to recover cart list based on manually created orders."
+msgstr "L’activation de cette option supprime les nouveaux paniers de mêmes utilisateurs"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:421
+msgid "New Status to Recovered Status"
+msgstr "Statut \"nouveau\" vers statut \"récupéré\""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:422
+msgid "Based on Order Status change New Status to Recovered Status"
+msgstr "Selon le statut de la commande, basculer le statut \"nouveau\" à \"récupéré\""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:433
+msgid "Abandon Status to Recovered Status"
+msgstr "Statut \"abandonné\" vers statut \"récupéré\""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:434
+msgid "Based on Order Status change Abandon Status to Recovered Status"
+msgstr "Selon le statut de la commande, basculer le statut \"abandonné\" à \"récupéré\""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:445
+#, fuzzy
+msgid "Change Status of the Captured Cart Entry to Recovered when Order status becomes"
+msgstr "Le panier passe en statut \"récupéré\" quand la commande est en statut :"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:446
+msgid "Status of captured cart entry will be changed to \"Recovered\" if the order status of placed order reaches any one of the selected status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:459
+#, fuzzy
+msgid "Admin Notification Settings"
+msgstr "Paramètres de notification"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:464
+#, fuzzy
+msgid "Notify Admin by Email when an Order is Recovered"
+msgstr "Activer les notifications e-mail pour l'administrateur lorsque le panier est \"récupéré\""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:472
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:540
+msgid "Admin Email ID"
+msgstr "ID admin e-mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:481
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:549
+#, fuzzy
+msgid "Sender Option"
+msgstr "Options expéditeur E-mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:489
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:557
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:490
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:558
+msgid "Local"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:513
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:581
+#, fuzzy
+msgid "Email Subject"
+msgstr "E-mails envoyés"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:522
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:590
+#, fuzzy
+msgid "Email Message"
+msgstr "Message"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:532
+#, fuzzy
+msgid "Notify Admin by Email when the cart is abandoned"
+msgstr "Activer les notifications e-mail pour l'administrateur lorsque le panier est \"récupéré\""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:601
+msgid "Guest Cart Settings"
+msgstr "Paramètres des paniers invités"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:606
+#, fuzzy
+msgid "Remove Guests Cart when the Order Status Changes to Pending"
+msgstr "Supprimer le panier invité quand le statut de la commande bascule à \"en attente\""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:607
+msgid "Guest Cart Captured on place order will be in cart list, it will be removed when order become Pending"
+msgstr "Panier invité capturé sur la commande passée sera dans la liste des paniers, il sera supprimé quand la commande sera en attente"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:615
+#, fuzzy
+msgid "Remove Guests Cart when the Order Status Changes to Failed"
+msgstr "Supprimer le panier invité quand le statut de la commande est échoué"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:616
+msgid "Guest Cart Captured on place order will be in cart list, it will be removed when order become Failed"
+msgstr "Panier invité capturé sur la commande passée sera dans la liste des paniers, il sera supprimé quand la commande sera échouée"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:624
+#, fuzzy
+msgid "Remove Guests Cart when the Order Status Changes to On-Hold"
+msgstr "Supprimer le panier invité quand le statut de la commande est en attente"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:625
+msgid "Guest Cart Captured on place order will be in cart list, it will be removed when order become On-Hold"
+msgstr "Panier invité capturé sur la commande passée sera dans la liste des paniers, il sera supprimé quand la commande sera en attente"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:633
+#, fuzzy
+msgid "Remove Guests Cart when the Order Status Changes to Processing"
+msgstr "Supprimer le panier invité quand le statut de la commande est en cours"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:634
+msgid "Guest Cart Captured on place order will be in cart list, it will be removed when order become Processing"
+msgstr "Panier invité capturé sur la commande passée sera dans la liste des paniers, il sera supprimé quand la commande sera en cours"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:642
+#, fuzzy
+msgid "Remove Guests Cart when the Order Status Changes to Completed"
+msgstr "Supprimer le panier invité quand le statut de la commande est complété"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:643
+msgid "Guest Cart Captured on place order will be in cart list, it will be removed when order become Completed"
+msgstr "Panier invité capturé sur la commande passée sera dans la liste des paniers, il sera supprimé quand la commande sera complétée"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:651
+#, fuzzy
+msgid "Remove Guests Cart when the Order Status Changes to Refunded"
+msgstr "Supprimer le panier invité quand le statut de la commande est Remboursé"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:652
+msgid "Guest Cart Captured on place order will be in cart list, it will be removed when order become Refunded"
+msgstr "Panier invité capturé sur la commande passée sera dans la liste des paniers, il sera supprimé quand la commande sera remboursé"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:660
+#, fuzzy
+msgid "Remove Guests Cart when the Order Status Changes to Cancelled"
+msgstr "Supprimer le panier invité quand le statut de la commande est annulé"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:661
+msgid "Guest Cart Captured on place order will be in cart list, it will be removed when order become Cancelled"
+msgstr "Panier invité capturé sur la commande passée sera dans la liste des paniers, il sera supprimé quand la commande sera annulée"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:723
+msgid "Reset"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:743
+#, fuzzy
+msgid "Email Job hook"
+msgstr "Activer le mail de rapport des anomalies"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:744
+msgid "Next Run"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:750
+msgid "rac_cron_job"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:763
+msgid "Cron is not set"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:770
+msgid "Note: Please don/'t consider 'Next Run' if you are using server cron on your site"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:797
+msgid "Time to consider Cart as Abandoned for Members"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:799
+#, fuzzy
+msgid "This setting controls the minimum waiting time for members after which a cart will be considered as abandoned"
+msgstr "Merci de saisir le délai après lequel le panier pourrait être considéré comme abandonné pour les clients inscrits"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:812
+msgid "Time to consider Cart as Abandoned for Guests"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:814
+#, fuzzy
+msgid "This setting controls the minimum waiting time for guests after which a cart will be considered as abandoned"
+msgstr "Merci de saisir le délai après lequel le panier pourrait être considéré comme abandonné pour les clients inscrits"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:836
+#, fuzzy
+msgid "Email Cron Job Running Time"
+msgstr "Délai mails automatiques"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:838
+msgid "This setting controls the recurrence duration of cron job to run. Used for sending automatic abandoned cart emails. Note: Set to a lesser duration in order to send emails more frequently"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:28
+#, fuzzy
+msgid "Coupon Code Creation Global Settings"
+msgstr "Code de suppression du coupon"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:33
+#, fuzzy
+msgid "Coupon Creation Mode"
+msgstr "Code de suppression du coupon"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:34
+msgid "\"Default\" - same coupon code will be sent in all templates unless the user has used the coupon. \"Configure on Each Template\" - coupons with different values can be configured for each template"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:39
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:53
+msgid "Default"
+msgstr "Par défaut"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:40
+#, fuzzy
+msgid "Configure on Each Template"
+msgstr "Type de modèle E-mail"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:47
+#, fuzzy
+msgid "Coupon code Prefix Type"
+msgstr "Code de suppression du coupon"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:48
+msgid "Select Prefix Text in Coupon Code"
+msgstr "Sélectionner un préfixe du texte du bon de réduction"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:54
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:61
+#, fuzzy
+msgid "Coupon Code Prefix"
+msgstr "Bon de réduction"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:62
+msgid "Enter Custom Prefix Text for Coupon Code"
+msgstr "Entrer le préfixe personnalisé du texte du bon de réduction"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:72
+msgid "Discount Type"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:73
+msgid "Please Select which type of discount should be applied"
+msgstr "Merci de sélectionner quel type de réduction doit être appliqué"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:78
+msgid "Amount"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:78
+msgid "Percentage"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:84
+msgid "Value"
+msgstr "Valeur"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:85
+#, php-format
+msgid "Enter the value to reduce in currency or % based on the Type of Discount Selected without any Symbols"
+msgstr "Entrer la valeur pour réduire en devis ou % basé sur le type de réduction sélectionné sans aucun symbole"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:95
+msgid "Validity in Days"
+msgstr "Validité en jours"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:96
+msgid "Enter a value(days in number) for how long the Coupon should be Active"
+msgstr "Entrer une valeur (Nombre de jours) pour la durée de validité du coupon"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:106
+msgid "Minimum Amount for Coupon Usage"
+msgstr "Montant minimum pour l'utilisation du coupon de réduction"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:114
+msgid "Maximum Amount for Coupon Usage"
+msgstr "Montant maximum pour l'utilisation du coupon de réduction"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:123
+#, fuzzy
+msgid "Individual Use Only"
+msgstr "Usage individuel seulement"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:125
+msgid "Check this box if the coupon cannot be used in conjunction with other coupons."
+msgstr "Cocher cette case si le coupon de réduction ne peut être utilisé simultanément avec d'autres coupons"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:133
+#, fuzzy
+msgid "Exclude sale items"
+msgstr "Exclure catégorie"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:135
+msgid "Check this box if the coupon should not apply to items on sale. Per-item coupons will only work if the item is not on sale. Per-cart coupons will only work if there are items in the cart that are not on sale"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:142
+msgid "Allow Free Shipping"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:144
+msgid "Check this box if the coupon grants free shipping. A free shipping method must be enabled in your shipping zone and be set to require \"a valid free shipping coupon\" (see the \"Free Shipping Requires\" setting)."
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:158
+#, fuzzy
+msgid "Include Category"
+msgstr "Exclure catégorie"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:159
+msgid "Select the Categories to which the coupons from abandoned cart emails can be applied"
+msgstr "Sélectionner les catégories pour lesquelles les coupons de réduction pour les e-mails des paniers abandonnées peuvent être appliqués"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:170
+msgid "Exclude Category"
+msgstr "Exclure catégorie"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:171
+msgid "Select the Categories to which the coupons from abandoned cart emails cannot be applied"
+msgstr "Sélectionner les catégories pour lesquelles les coupons de réduction pour les e-mails des paniers abandonnées ne peuvent pas être appliqués"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:183
+#, fuzzy
+msgid "Coupon Code Deletion Settings"
+msgstr "Code de suppression du coupon"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:188
+#, fuzzy
+msgid "Delete Coupons once Used"
+msgstr "Supprimer les coupons après utilisation"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:189
+#, fuzzy
+msgid "If enabled, coupons which are automatically created by Recover Abandoned Cart plugin will be deleted once the coupon is used"
+msgstr "Supprimer les coupons qui sont créés automatiquement par la récupération des paniers abandonnés qui sont utilisés"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:197
+#, fuzzy
+msgid "Delete Coupon when"
+msgstr "Supprimer les coupons après utilisation"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:201
+msgid "User Place the Order"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:201
+msgid "Placed Order reaches Specific Status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:208
+#, fuzzy
+msgid "Delete Coupon when Order Status becomes"
+msgstr "Supprimer les coupons après utilisation"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:220
+#, fuzzy
+msgid "Delete Coupons once Expired"
+msgstr "Supprimer les coupons après expiration"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:221
+#, fuzzy
+msgid "If enabled, coupons which are automatically created by Recover Abandoned Cart plugin will be deleted once the coupon is expired"
+msgstr "Supprimer les coupons qui sont créés automatiquement par la récupération des paniers abandonnés qui ont expiré"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracsupport-tab.php:21
+msgid "Welcome Page"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracsupport-tab.php:23
+msgid "For more information on Recover Abadoned Cart please check the <a href=\""
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracsupport-tab.php:27
+#, fuzzy
+msgid "Contact Support"
+msgstr "Support"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracsupport-tab.php:29
+msgid "For support, feature request or any help, please <a href=\"http://support.fantasticplugins.com/\">register and open a support ticket on our site.</a> <br> "
+msgstr "Pour tout support et demande de fonction ou autre, merci de vous inscrire et d'<a href=\"http://support.fantasticplugins.com/\">ouvrir un ticket sur notre site</a><br />"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracsupport-tab.php:33
+msgid "Documentation"
+msgstr "Documentation"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracsupport-tab.php:35
+msgid "Please check the documentation as we have lots of information there. The documentation file can be found inside the documentation folder which you will find when you unzip the downloaded zip file."
+msgstr ""
+
+#: inc/emails/class-fp-rac-admin-notification-email.php:37
+msgid "Product"
+msgstr "Produit"
+
+#: inc/emails/class-fp-rac-admin-notification-email.php:39
+msgid "Price"
+msgstr "Prix"
+
+#: inc/api/rac-common-function-for-multi-select-search.php:46
+#: inc/api/rac-common-function-for-multi-select-search.php:75
+msgid "Search for a customer&hellip;"
+msgstr "Chercher pour un client&hellip;"
+
+#: inc/api/rac-common-function-for-multi-select-search.php:135
+#: inc/api/rac-common-function-for-multi-select-search.php:161
+#: inc/api/rac-common-function-for-multi-select-search.php:220
+#: inc/api/rac-common-function-for-multi-select-search.php:242
+msgid "Search for a product&hellip;"
+msgstr "Rechercher un produit&hellip;"
+
+#: inc/background-updater/fp-rac-main-background-process.php:102
+msgid "Click here"
+msgstr ""
+
+#: inc/background-updater/fp-rac-main-background-process.php:114
+msgid "Recover Abandoned Cart Data Update - Your database is being updated in the background."
+msgstr ""
+
+#: inc/background-updater/fp-rac-main-background-process.php:136
+msgid "Upgrade to v"
+msgstr ""
+
+#: inc/compatibility/rac-settings-backward-compatibility.php:89
+msgid "Width"
+msgstr "Largeur"
+
+#: inc/compatibility/rac-settings-backward-compatibility.php:96
+msgid "Height"
+msgstr "Hauteur"
+
+#: inc/compatibility/rac-settings-backward-compatibility.php:103
+msgid "Hard Crop"
+msgstr "Rognage brutal"
+
+#: inc/compatibility/rac-settings-backward-compatibility.php:218
+msgid "Select a page&hellip;"
+msgstr "Sélectionner une page&hellip;"
+
+#: inc/compatibility/rac-settings-backward-compatibility.php:236
+msgid "Choose a country&hellip;"
+msgstr "Choisir un pays&hellip;"
+
+#: inc/compatibility/rac-settings-backward-compatibility.php:251
+msgid "Choose countries&hellip;"
+msgstr "Choisir les pays&hellip;"
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:83
+#: inc/compatibility/fp-rac-personal-data-handler.php:91
+#, fuzzy
+msgid "Cart Id"
+msgstr "Liste des paniers abandonnés"
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:84
+#: inc/compatibility/fp-rac-personal-data-handler.php:92
+msgid "Captured on"
+msgstr ""
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:85
+#: inc/compatibility/fp-rac-personal-data-handler.php:93
+#, fuzzy
+msgid "Email"
+msgstr "Identifiant de l'email"
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:86
+#: inc/compatibility/fp-rac-personal-data-handler.php:94
+msgid "Mobile No."
+msgstr ""
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:87
+#, fuzzy
+msgid "User ID"
+msgstr "ID commande"
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:95
+msgid "IP Address"
+msgstr ""
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:96
+#, fuzzy
+msgid "First Name"
+msgstr "Nom émetteur"
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:97
+#, fuzzy
+msgid "Last Name"
+msgstr "Nom du modèle"
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:103
+msgid "Captured Carts"
+msgstr ""
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:171
+#, php-format
+msgid "Removed personal data from Cartlist %s."
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:99
+msgid "Total No.of Orders"
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:100
+msgid "Total Amount Spent on Site"
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:101
+#, fuzzy
+msgid "Abandoned Cart Total"
+msgstr "ID du panier abandonné"
+
+#: inc/email-template/class-fp-rac-email-template.php:102
+#, fuzzy
+msgid "Cart Abandoned Date"
+msgstr "Date d'abandon / Heure"
+
+#: inc/email-template/class-fp-rac-email-template.php:103
+#, fuzzy
+msgid "Abandoned Cart Quantity"
+msgstr "ID du panier abandonné"
+
+#: inc/email-template/class-fp-rac-email-template.php:104
+#, fuzzy
+msgid "User Role(s)"
+msgstr "Sélectionner rôle utilisateur"
+
+#: inc/email-template/class-fp-rac-email-template.php:105
+#, fuzzy
+msgid "Product(s) in Cart"
+msgstr "Produit"
+
+#: inc/email-template/class-fp-rac-email-template.php:115
+#, fuzzy
+msgid "WooCommerce Template"
+msgstr "Nom du modèle"
+
+#: inc/email-template/class-fp-rac-email-template.php:116
+#, fuzzy
+msgid "HTML Template"
+msgstr "Nom du modèle"
+
+#: inc/email-template/class-fp-rac-email-template.php:126
+#, fuzzy
+msgid "All Products"
+msgstr "Produits"
+
+#: inc/email-template/class-fp-rac-email-template.php:127
+#: templates/email-template/coupon.php:91
+#, fuzzy
+msgid "Include Products"
+msgstr "Produits"
+
+#: inc/email-template/class-fp-rac-email-template.php:128
+#: templates/email-template/coupon.php:100
+#, fuzzy
+msgid "Exclude Products"
+msgstr "Produits"
+
+#: inc/email-template/class-fp-rac-email-template.php:129
+#, fuzzy
+msgid "All Categories"
+msgstr "Tout"
+
+#: inc/email-template/class-fp-rac-email-template.php:130
+#: templates/email-template/templates.php:264
+#: templates/email-template/coupon.php:109
+#, fuzzy
+msgid "Include Categories"
+msgstr "Exclure catégorie"
+
+#: inc/email-template/class-fp-rac-email-template.php:131
+#: templates/email-template/templates.php:277
+#: templates/email-template/coupon.php:118
+#, fuzzy
+msgid "Exclude Categories"
+msgstr "Exclure catégorie"
+
+#: inc/email-template/class-fp-rac-email-template.php:141
+msgid "Activated"
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:142
+msgid "Deactivated"
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:151
+msgid "Minutes"
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:152
+msgid "Hours"
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:153
+msgid "Days"
+msgstr ""
+
+#: templates/email-template/templates.php:86
+msgid "Template Status"
+msgstr "Statu du modèle"
+
+#: templates/email-template/templates.php:99
+#, fuzzy
+msgid "Segmentation"
+msgstr "Documentation"
+
+#: templates/email-template/templates.php:112
+#, fuzzy
+msgid "Minimum Order Total"
+msgstr "ID commande"
+
+#: templates/email-template/templates.php:122
+msgid "Maximum Order Total  : "
+msgstr ""
+
+#: templates/email-template/templates.php:132
+msgid "Minimum Order Amount :"
+msgstr ""
+
+#: templates/email-template/templates.php:142
+msgid "Maximum Order Amount :"
+msgstr ""
+
+#: templates/email-template/templates.php:152
+msgid "Minimum Cart Amount :"
+msgstr ""
+
+#: templates/email-template/templates.php:162
+msgid "Maximum Cart Amount :"
+msgstr ""
+
+#: templates/email-template/templates.php:172
+msgid "From Abadon Date :"
+msgstr ""
+
+#: templates/email-template/templates.php:182
+#, fuzzy
+msgid "To Abadon Date :"
+msgstr "Date d'abandon / Heure"
+
+#: templates/email-template/templates.php:192
+msgid "Minimum Cart Quantity :"
+msgstr ""
+
+#: templates/email-template/templates.php:202
+msgid "Maximum Cart Quantity :"
+msgstr ""
+
+#: templates/email-template/templates.php:213
+#, fuzzy
+msgid "Serach a User Role"
+msgstr "Sélectionner rôle utilisateur"
+
+#: templates/email-template/templates.php:224
+#, fuzzy
+msgid "Product Selection"
+msgstr "Produit"
+
+#: templates/email-template/templates.php:266
+#: templates/email-template/templates.php:278
+#: templates/email-template/coupon.php:112
+#: templates/email-template/coupon.php:121
+#, fuzzy
+msgid "Serach a User Category"
+msgstr "Sélectionner rôle utilisateur"
+
+#: templates/email-template/templates.php:292
+msgid "Email Template Type"
+msgstr "Type de modèle E-mail"
+
+#: templates/email-template/templates.php:302
+msgid "Header Image For HTML Template"
+msgstr "Image en-tête modèle HTML"
+
+#: templates/email-template/templates.php:305
+msgid "Media Uploader."
+msgstr ""
+
+#: templates/email-template/templates.php:314
+msgid "Email Sender Option"
+msgstr "Options expéditeur E-mail"
+
+#: templates/email-template/templates.php:316
+msgid "woocommerce"
+msgstr ""
+
+#: templates/email-template/templates.php:317
+msgid "local"
+msgstr ""
+
+#: templates/email-template/templates.php:348
+msgid "Bcc"
+msgstr "Cci"
+
+#: templates/email-template/templates.php:389
+msgid "Cart Link Anchor Text"
+msgstr "Texte ancre lien panier"
+
+#: templates/email-template/coupon.php:5
+msgid "Coupon Value is Fetched From"
+msgstr ""
+
+#: templates/email-template/coupon.php:7
+msgid "\"Global Settings\" - coupon will be created based on the value configured in the coupon creation global settings. \"Current Email Template\" - coupon will be created based on the value configured in this email template."
+msgstr ""
+
+#: templates/email-template/coupon.php:9
+#, fuzzy
+msgid "Global Settings"
+msgstr "Paramètres généraux"
+
+#: templates/email-template/coupon.php:10
+#, fuzzy
+msgid "Current Email Template"
+msgstr "Type de modèle E-mail"
+
+#: templates/email-template/coupon.php:16
+#, fuzzy
+msgid "Coupon Code Prefix Type"
+msgstr "Code de suppression du coupon"
+
+#, fuzzy
+#~ msgid "Coupon Code Settings"
+#~ msgstr "Code de suppression du coupon"
+
+#, fuzzy
+#~ msgid "Recovered Order Admin Notification Settings"
+#~ msgstr "Commandes Récupérées"
+
+#, fuzzy
+#~ msgid "Order Total"
+#~ msgstr "ID commande"
+
+#, fuzzy
+#~ msgid "Order Amount"
+#~ msgstr "ID commande"
+
+#, fuzzy
+#~ msgid "Cart Total"
+#~ msgstr "Liste des paniers abandonnés"
+
+#, fuzzy
+#~ msgid "Cart Quantity"
+#~ msgstr "Quantité"
+
+#, fuzzy
+#~ msgid "SKU Management Settings"
+#~ msgstr "Paramètres du modèle de mail"
+
+#~ msgid "Troubleshoot for Unsubscription Link in Footer"
+#~ msgstr "Problème sur le lien de désinscription dans le pied de page du mail"
+
+#~ msgid "Enabling this option will send an Email to Members only"
+#~ msgstr ""
+#~ "Activer cette option permettra de n'envoyer un e-mail seulement aux "
+#~ "clients inscrits"
+
+#~ msgid "Customize Button Background Color in Email"
+#~ msgstr "Personnaliser la couleur du background du bouton dans l'e-mail"
+
+#~ msgid "Customize Button Link Color"
+#~ msgstr "Personnaliser la couleur du lien du bouton"
+
+#~ msgid "Customize Link Color in Email Template"
+#~ msgstr "Personnaliser la couleur du lien dans le modèle du mail"
+
+#, fuzzy
+#~ msgid "Link Text"
+#~ msgstr "Texte ancre lien panier"
+
+#~ msgid "Enter Unsubscription Anchor Text in Email Footer"
+#~ msgstr ""
+#~ "Entrer l'ancre du texte de désinscription dans le footer de l'e-mail"
+
+#, fuzzy
+#~ msgid "Enable Border for Product Info"
+#~ msgstr ""
+#~ "Activer la bordure pour les informations de produit dans le modèle de l'e-"
+#~ "mail"
+
+#, fuzzy
+#~ msgid "Shortcode Label"
+#~ msgstr "Shortcodes"
+
+#~ msgid "Hide Product Name Column in Product Info Shortcode"
+#~ msgstr ""
+#~ "Cacher la colonne du nom du produit dans le shortcode d'information du "
+#~ "produit"
+
+#~ msgid "Hide Product Image Column in Product Info Shortcode"
+#~ msgstr ""
+#~ "Cacher la colonne d'image du produit dans le shortcode d'information du "
+#~ "produit"
+
+#~ msgid "Hide Quantity Column in Product Info Shortcode"
+#~ msgstr ""
+#~ "Cacher la colonne de la quantité du produit dans le shortcode "
+#~ "d'information du produit"
+
+#~ msgid "Hide Product Price Column in Product Info Shortcode"
+#~ msgstr ""
+#~ "Cacher la colonne du prix du produit dans le shortcode d'information du "
+#~ "produit"
+
+#, fuzzy
+#~ msgid "Hide Shipping Row in Product Info Shortcode"
+#~ msgstr ""
+#~ "Cacher le sous total, la taxe et le total dans le shortcode "
+#~ "d'informations produit"
+
+#, fuzzy
+#~ msgid "Hide Tax Row in Product Info Shortcode"
+#~ msgstr ""
+#~ "Cacher la colonne de la quantité du produit dans le shortcode "
+#~ "d'information du produit"
+
+#~ msgid "Abandon Cart Time Type for Members"
+#~ msgstr "Unité horaire abandon panier pour les clients inscrits"
+
+#~ msgid ""
+#~ "Please Select whether the time should be in Minutes/Hours/Days for Members"
+#~ msgstr ""
+#~ "Merci de sélectionner si le temps devrait être en Minutes/Heures/Jours "
+#~ "pour les clients inscrits"
+
+#~ msgid "Abandon Cart Time for Members"
+#~ msgstr "Délai abandon panier pour les clients inscrits"
+
+#~ msgid ""
+#~ "Please Enter time after which the cart should be considered as abandon "
+#~ "for Members"
+#~ msgstr ""
+#~ "Merci de saisir le délai après lequel le panier pourrait être considéré "
+#~ "comme abandonné pour les clients inscrits"
+
+#, fuzzy
+#~ msgid "Abandon Cart Time Type for Guests"
+#~ msgstr "Format horaire abandon panier pour les invités"
+
+#~ msgid ""
+#~ "Please Select whether the time should be in Minutes/Hours/Days for Guest"
+#~ msgstr ""
+#~ "Merci de sélectionner si le temps devrait être en Minutes/Heures/Jours "
+#~ "pour les invités"
+
+#, fuzzy
+#~ msgid "Abandon Cart Time for Guests"
+#~ msgstr "Délai abandon panier pour les invités"
+
+#, fuzzy
+#~ msgid "Email Cron Time Type"
+#~ msgstr "Unité horaire pour l'automatisation des mails"
+
+#~ msgid "Please Select whether the time should be in Minutes/Hours/Days"
+#~ msgstr ""
+#~ "Merci de sélectionner si le temps devrait être en Minutes/Heures/Jours"
+
+#~ msgid "Please Enter time after which Email cron job should run"
+#~ msgstr ""
+#~ "Saisissez le délai après lequel les mails automatiques doivent être "
+#~ "envoyés"
+
+#~ msgid "Based on these Order Status Cart List become Recovered"
+#~ msgstr ""
+#~ "Selon le statut des commandes, le panier passe en statut \"récupéré\""
+
+#~| msgid ""
+#~| "Enabling this option will delete Abandon Carts after Days which You "
+#~| "Select"
+#~ msgid ""
+#~ "Enabling this option will delete carts from cart list table after x days"
+#~ msgstr ""
+#~ "Activer cette option supprimera les paniers abandonnées après le nombre "
+#~ "de jours que vous aurez sélectionné"
+#~ msgid ""
+#~ "Enabling this option will Insert Entry in Cart List with Abandon Status "
+#~ "When Order Status is Cancelled"
+#~ msgstr ""
+#~ "Activer cette option pour insérer une entrée dans la liste des paniers "
+#~ "\"abandonnés\" lorsque la commande est annulée"
+#, fuzzy
+#~ msgid "Cart List Display"
+#~ msgstr "Liste des paniers abandonnés"
+
+#, fuzzy
+#~ msgid "First captured cart displayed first"
+#~ msgstr "ID Commande récupéré"
+
+#, fuzzy
+#~ msgid "Recently captured cart displayed first"
+#~ msgstr "ID Commande récupéré"
+
+#, fuzzy
+#~ msgid "Email Log Settings"
+#~ msgstr "Paramètres mails automatisés"
+
+#, fuzzy
+#~ msgid "Email Log Display"
+#~ msgstr "Historique des mails"
+
+#, fuzzy
+#~ msgid "Oldest email log displayed first"
+#~ msgstr "ID Commande récupéré"
+
+#, fuzzy
+#~ msgid "Newest email log displayed first"
+#~ msgstr "ID Commande récupéré"
+
+#, fuzzy
+#~ msgid "Recovered Orders Settings"
+#~ msgstr "Commandes Récupérées"
+
+#, fuzzy
+#~ msgid "Recovered Orders Display"
+#~ msgstr "ID Commande récupéré"
+
+#, fuzzy
+#~ msgid "Oldest recovered order displayed first"
+#~ msgstr "ID Commande récupéré"
+
+#, fuzzy
+#~ msgid "Newest recovered order displayed first"
+#~ msgstr "ID Commande récupéré"
+
+#, fuzzy
+#~ msgid "My Account Page Settings"
+#~ msgstr "Paramètres de mon compte"
+
+#, fuzzy
+#~ msgid "Show Unsubscription Option"
+#~ msgstr "Afficher l'option de désinscription dans la page Mon Compte"
+
+#~ msgid "Turn On to make it visible in My Account Page"
+#~ msgstr "Cocher pour le mettre visible sur la page Mon Compte"
+
+#~ msgid "Customize the Message appeared in My Account Page for Subscription"
+#~ msgstr ""
+#~ "Personnaliser le message qui apparaît dans la page Mon Compte pour "
+#~ "l'inscription"
+
+#, fuzzy
+#~ msgid "Days to Delete Abandoned Carts"
+#~ msgstr "Jours pour supprimer les paniers abandonnés"
+
+#~ msgid "Enter Days to delete Abandon Carts in Cart List"
+#~ msgstr ""
+#~ "Entrer les jours pour supprimer les paniers abandonnés de la liste des "
+#~ "paniers"
+
+#, fuzzy
+#~ msgid "Please select atleast one row to send Email"
+#~ msgstr "Sélectionner rôle utilisateur"
+
+#, fuzzy
+#~ msgid "Please select atleast one row to change Mailing Status"
+#~ msgstr "Sélectionner rôle utilisateur"
+
+#, fuzzy
+#~ msgid "Number Of Items Per Page"
+#~ msgstr "Nombre de paniers récupérés"
+
+#~ msgid "Email Id"
+#~ msgstr "Identifiant de l'email"
+
+#~ msgid "Select All"
+#~ msgstr "Tout sélectionner"
+
+#, fuzzy
+#~ msgid "Deselect All"
+#~ msgstr "Tout désélectionner"
+
+#~ msgid "Delete Selected"
+#~ msgstr "Supprimer séléctionné"
+
+#~ msgid "Help & Support"
+#~ msgstr "Aide et support"
+
+#~ msgid "Trash "
+#~ msgstr "Corbeille"
+
+#, fuzzy
+#~ msgid "From date:"
+#~ msgstr "Nom émetteur"
+
+#~ msgid "Page Select"
+#~ msgstr "Sélection de page"
+
+#, fuzzy
+#~ msgid "Page Deselect"
+#~ msgstr "Enlever la sélection de page"
+
+#, fuzzy
+#~ msgid "Restore Selected"
+#~ msgstr "Supprimer séléctionné"
+
+#, fuzzy
+#~ msgid "Send Mail this Row"
+#~ msgstr "Délai envoi mail"
+
+#, fuzzy
+#~ msgid "Delete Permanently"
+#~ msgstr "Supprimer séléctionné"
+
+#~ msgid "Restore"
+#~ msgstr "Restaurer"
+
+#, fuzzy
+#~ msgid "New Template"
+#~ msgstr "Nom du modèle"
+
+#~| msgid "Emails Sent"
+#~ msgid "Number of Emails sent"
+#~ msgstr "E-mails envoyés"
+#~ msgid "Edit"
+#~ msgstr "Editer"
+#~ msgid "Delete"
+#~ msgstr "Supprimer"
+#~ msgid "Save Changes"
+#~ msgstr "Sauvegarder changements"
+#, fuzzy
+#~ msgid "Send Mail Now"
+#~ msgstr "Délai envoi mail"
+
+#~ msgid "Return to Mail Templates"
+#~ msgstr "Retourner aux modèles de mail"
+
+#~ msgid "Prefix Text of Coupon Code"
+#~ msgstr "Préfixe du texte du bon de réduction"
+
+#~ msgid "Custom Prefix Text of Coupon Code"
+#~ msgstr "Préfixe personnalisé du texte du bon de réduction"
+
+#~ msgid "Type of Discount"
+#~ msgstr "Type de réduction"
+
+#~ msgid "Select Category"
+#~ msgstr "Sélectionner une catégorie"
+
+#, fuzzy
+#~ msgid "Troubleshoot Ajax Chunking"
+#~ msgstr "Diagnostic anomalies"
+
+#, fuzzy
+#~ msgid "Cron Settings"
+#~ msgstr "Paramètres mails automatisés"
+
+#, fuzzy
+#~ msgid "Test Mail"
+#~ msgstr "Tester E-mail"
+
+#, fuzzy
+#~ msgid "Mail ID"
+#~ msgstr "Historique des mails"
+
+#~ msgid "Unsubscription Link in Email"
+#~ msgstr "Lien de désinscription dans l'e-mail"
+
+#~ msgid "Unsubscription Link Text"
+#~ msgstr "Texte du lien de désinscription"
+
+#~ msgid "Unsubscription Message"
+#~ msgstr "Message de désinscription"
+
+#~ msgid "Unsubscription Type"
+#~ msgstr "Type de désinscription"
+
+#~ msgid "Background color for Unsubscription Message"
+#~ msgstr "Couleur du background du message de désinscription"
+
+#~ msgid "Customize Caption and Visibility for Product Info in Email Template"
+#~ msgstr ""
+#~ "Personnaliser la légende et la visibilité de l'information du produit "
+#~ "dans le modèle de l'e-mail"
+
+#~ msgid "Customize Product Name Caption in Email Template"
+#~ msgstr ""
+#~ "Personnaliser le libellé du nom du produit dans le modèle de l'e-mail"
+
+#~ msgid "Customize Product Image Caption in Email Template"
+#~ msgstr ""
+#~ "Personnaliser le libellé de l'image du produit dans le modèle de l'e-mail"
+
+#~ msgid "Customize Product Price Caption in Email Template"
+#~ msgstr "Personnaliser le libellé du prix dans le modèle de l'e-mail"
+
+#~ msgid "Customize Subtotal Caption in Email Template"
+#~ msgstr "Personnaliser le libellé du sous-total dans le modèle de l'e-mail"
+
+#, fuzzy
+#~ msgid "Customize Shipping Caption in Email Template"
+#~ msgstr "Personnaliser le libellé de la taxe dans le modèle de l'e-mail"
+
+#~ msgid "Customize Total Caption in Email Template"
+#~ msgstr "Personnaliser le libellé du total dans le modèle de l'e-mail"
+
+#, fuzzy
+#~ msgid "Customize Subject Shortcode in Email Template"
+#~ msgstr "Personnaliser le libellé du sous-total dans le modèle de l'e-mail"
+
+#~ msgid "Notification Sender Option"
+#~ msgstr "Option de notification de l'expéditeur"
+
+#~ msgid "Notification From Name"
+#~ msgstr "Notification du nom"
+
+#~ msgid "Notification From Email"
+#~ msgstr "Notification de courrier électronique"
+
+#~ msgid "Notification Email Message"
+#~ msgstr "Message"
+
+#~ msgid "Email Preview"
+#~ msgstr "Aperçu de l'e-mail"
+
+#~ msgid "Custom Exclude Settings"
+#~ msgstr "Personnaliser les paramètres d'exclusion"
+
+#~ msgid "Mail Sending"
+#~ msgstr "Envoi de mail"
+
+#~ msgid ""
+#~ "Enter Mail ID per line which will be restricted to includes an entry in "
+#~ "Cart List"
+#~ msgstr ""
+#~ "Entrer les identifiants mail par ligne qui seront restreint dans l'entrée "
+#~ "de données dans la liste des paniers"
+
+#~ msgid "Duration to Send Mail After Abandoned Cart"
+#~ msgstr "Délai envoi mail après abandon du panier"
+
+#, fuzzy
+#~ msgid "User Role :"
+#~ msgstr "Sélectionner rôle utilisateur"
+
+#, fuzzy
+#~ msgid "Minimum Cart Amount  :"
+#~ msgstr "Montant minimum pour l'utilisation du coupon de réduction"
+
+#, fuzzy
+#~ msgid "Maximum Cart Amount  :"
+#~ msgstr "Montant maximum pour l'utilisation du coupon de réduction"
+
+#, fuzzy
+#~ msgid "To Abadon Date  :"
+#~ msgstr "Date d'abandon / Heure"
+
+#~ msgid "Send Mail Duration"
+#~ msgstr "Délai envoi mail"
+
+#, fuzzy
+#~ msgid "Subject:"
+#~ msgstr "Sujet"
+
+#, fuzzy
+#~ msgid "Cart Link Anchor Text:"
+#~ msgstr "Texte ancre lien panier"
+
+#~ msgid "Remove NEW and ABANDON Carts Previously by same Users"
+#~ msgstr ""
+#~ "Supprimer les paniers nouveaux et abandonnés précédemment par le même "
+#~ "utilisateur"
+
+#~ msgid "Enabling this option will remove New and Abandon Carts by same Users"
+#~ msgstr ""
+#~ "Activer cette option va supprimer les paniers nouveaux et abandonnées "
+#~ "pour les mêmes utilisateurs"
+
+#, fuzzy
+#~ msgid "Manual Recovered "
+#~ msgstr "Paniers récupérés"
+
+#, fuzzy
+#~ msgid "trash"
+#~ msgstr "Corbeille"
+
+#, fuzzy
+#~ msgid ""
+#~ "Following Customization options works with the shortcode {rac."
+#~ "Productinfo} in Email Template"
+#~ msgstr ""
+#~ "Personnaliser la légende et la visibilité de l'information du produit "
+#~ "dans le modèle de l'e-mail"
+
+#~ msgid "Exclude Products from using Coupon"
+#~ msgstr "Exclure les produits de l'utilisation du coupon"

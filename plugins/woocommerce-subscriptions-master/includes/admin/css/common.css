@@ -1,0 +1,16 @@
+.customeredit {
+    margin: 0 4px 2px 0;
+    cursor: pointer;
+    color: #555;
+    border-color: #ccc;
+    background: #f7f7f7;
+    box-shadow: 0 1px 0 #ccc;
+    font-size: 14px;
+    line-height: 19px;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-appearance: none;
+    border-radius: 3px;
+    white-space: nowrap;
+    padding: 2px;
+}

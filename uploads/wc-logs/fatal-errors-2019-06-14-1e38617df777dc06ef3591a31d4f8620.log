@@ -1,0 +1,18 @@
+2019-06-14T14:48:25+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:4338
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php(4350): get_subscription_title(Object(WC_Order))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): email_heading_new_order_broomday('NUEVA ORDEN DE ...', Object(WC_Order))
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(208): WP_Hook->apply_filters('NUEVA ORDEN DE ...', Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/emails/class-wc-email.php(363): apply_filters('woocommerce_ema...', 'NUEVA ORDEN DE ...', Object(WC_Order))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(114): WC_Email->get_heading()
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/p in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 4338
+
+2019-06-14T14:48:35+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:4338
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php(4350): get_subscription_title(Object(WC_Order))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): email_heading_new_order_broomday('NUEVA ORDEN DE ...', Object(WC_Order))
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(208): WP_Hook->apply_filters('NUEVA ORDEN DE ...', Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/emails/class-wc-email.php(363): apply_filters('woocommerce_ema...', 'NUEVA ORDEN DE ...', Object(WC_Order))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(114): WC_Email->get_heading()
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/p in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 4338
+

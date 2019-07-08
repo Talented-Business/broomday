@@ -1,0 +1,24 @@
+{
+	"name": "woocommerce-subscribe-all-the-things",
+	"title": "WooCommerce Subscribe All The Things",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Prospress/woocommerce-subscribe-all-the-things.git"
+	},
+	"version": "2.1.1",
+	"homepage": "https://github.com/Prospress/woocommerce-subscribe-all-the-things/",
+	"main": "Gruntfile.js",
+	"devDependencies": {
+		"grunt": "~1.0.1",
+		"grunt-checktextdomain": "~1.0.0",
+		"grunt-contrib-jshint": "~1.1.0",
+		"grunt-contrib-uglify": "~3.0.0",
+		"grunt-contrib-watch": "~1.0.0",
+		"grunt-wp-i18n": "~0.5.4",
+		"grunt-rtlcss": "~2.0.1"
+	},
+	"engines": {
+		"node": ">=6.9.4",
+		"npm": ">=1.1.0"
+	}
+}

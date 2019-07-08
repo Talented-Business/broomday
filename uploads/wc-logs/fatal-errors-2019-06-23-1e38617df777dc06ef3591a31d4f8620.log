@@ -1,0 +1,10 @@
+2019-06-23T23:25:13+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 786432 bytes) en G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\dynamic_css.php en la línea 906
+
+2019-06-23T23:27:13+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 786432 bytes) en G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\dynamic_css.php en la línea 906
+
+2019-06-23T23:29:14+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 786432 bytes) en G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\dynamic_css.php en la línea 906
+
+2019-06-23T23:31:14+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 786432 bytes) en G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\dynamic_css.php en la línea 906
+
+2019-06-23T23:33:14+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 786432 bytes) en G:\webapp\www\wc\broomday\wp-content\themes\Avada\includes\dynamic_css.php en la línea 906
+

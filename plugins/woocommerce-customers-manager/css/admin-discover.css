@@ -1,0 +1,58 @@
+#white-box
+{
+	background: white none repeat scroll 0 0;
+    box-shadow: 1px 1px 2px;
+	padding: 10px 30px 50px 30px;
+    width: 90%;
+	margin-top: 20px;
+}
+#progress-container
+{
+	display:none;
+}
+#option-box
+{
+	/* border: 1px solid #3d3d3d;
+	padding: 15px; */
+}
+#option-box h4
+{
+	margin-top:50px;
+	border-bottom: 1px solid #3d3d3d;
+}
+#start-export-button
+{
+	display:block;
+	margin-top:80px;
+}
+.js-data-customers-ajax, .js-data-products-ajax, .js-data-product-categories-ajax
+{
+	min-width:550px; 
+}
+
+#view_results_button
+{
+	display:block;
+	margin-top: 50px;
+}
+.spacer
+{
+	width:100%;
+	height:2px;
+}
+.wccm_section_title 
+{
+	margin-top: 50px;
+	margin-bottom: 10px;
+	font-size: 25px;
+	padding: 7px;
+	color: white;
+	background: #efefef;
+	color: #96588a;
+	padding: 10px;
+	border-radius: 3px;
+}
+.wccm_no_margin_top
+{
+	margin-top: 20px !important;
+}

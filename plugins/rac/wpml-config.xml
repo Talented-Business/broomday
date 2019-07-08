@@ -1,0 +1,31 @@
+<wpml-config>
+    <admin-texts>
+        <key name="rac_unsub_myaccount_heading"/>
+        <key name="rac_unsub_myaccount_text"/>
+        <key name="rac_guest_add_to_cart_popup_heading"/>
+        <key name="rac_guest_popup_add_to_cart_text"/>
+        <key name="rac_guest_popup_cancel_text"/>
+        <key name="rac_guest_popup_err_msg_for_empty"/>
+        <key name="rac_guest_popup_err_msg_for_invalid_email"/>
+        <key name="fp_unsubscription_footer_message"/>
+        <key name="fp_unsubscription_footer_link_text"/>
+        <key name="rac_product_info_shipping"/>
+        <key name="rac_product_info_product_name"/>
+        <key name="rac_product_info_product_image"/>
+        <key name="rac_product_info_quantity"/>
+        <key name="rac_product_info_product_price"/>
+        <key name="rac_product_info_subtotal"/>
+        <key name="rac_product_info_total"/>
+        <key name="rac_product_info_shipping"/>
+        <key name="rac_product_info_tax"/>
+        <key name="rac_subject_product_shrotcode_customize"/>
+        <key name="rac_already_unsubscribed_text"/>
+        <key name="rac_unsubscribed_successfully_text"/>
+        
+        <key name="rac_recovered_email_subject"/>
+        <key name="rac_recovered_email_message"/>
+        <key name="rac_abandoned_email_subject"/>
+        <key name="rac_abandoned_email_message"/>
+        
+    </admin-texts>
+</wpml-config>

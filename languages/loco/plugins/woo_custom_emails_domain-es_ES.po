@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Custom Emails Per Product\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-06 15:03+0000\n"
+"PO-Revision-Date: 2018-12-06 15:04+0000\n"
+"Last-Translator: test test <rdk@leo.com.pa>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8"
+
+#: woo-custom-emails-per-product.php:35
+#, php-format
+msgid ""
+"%sOops!%s %s%sWooCommerce%s is required for this plugin.%s%sPlease install "
+"and activate WooCommerce and try again."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Add custom content per product into the default WooCommerce customer receipt "
+"email template."
+msgstr ""
+
+#: admin/class-woo-custom-emails-per-product-admin-settings.php:257
+msgid ""
+"Adds a section in the Product Data \"Custom Emails\" Tab to display your "
+"legacy Custom Content from previous versions. You can use this tool to "
+"Copy/Paste older email content into a new WCE Message."
+msgstr ""
+
+#. Author of the plugin
+msgid "Alex Mustin"
+msgstr ""
+
+#: admin/class-woo-custom-emails-per-product-admin-settings.php:272
+msgid ""
+"Allows you to specify which add-on product types WCE can be used with. "
+"Should be a comma-separated list. Example: show_if_booking, show_if_grouped"
+msgstr ""
+
+#: admin/class-woo-custom-emails-per-product-admin-settings.php:73
+msgid "Custom Emails"
+msgstr ""
+
+#: admin/class-woo-custom-emails-per-product-admin-settings.php:106
+msgid "Date"
+msgstr ""
+
+#. ID
+#: admin/class-woo-custom-emails-per-product-admin-settings.php:187
+msgid "Display Settings"
+msgstr ""
+
+#. ID
+#: admin/class-woo-custom-emails-per-product-admin-settings.php:204
+msgid "Extra Display Classes"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://alexmustin.com"
+msgstr ""
+
+#: admin/class-woo-custom-emails-per-product-admin-settings.php:102
+msgid "ID"
+msgstr ""
+
+#: admin/class-woo-custom-emails-per-product-admin-settings.php:239
+msgid "Select the Woo Custom Emails Display settings."
+msgstr ""
+
+#. ID
+#: admin/class-woo-custom-emails-per-product-admin-settings.php:195
+msgid "Show Legacy Content"
+msgstr ""
+
+#: admin/class-woo-custom-emails-per-product-admin-settings.php:105
+msgid "Title"
+msgstr ""
+
+#: admin/class-woo-custom-emails-per-product-admin-settings.php:132
+#: admin/class-woo-custom-emails-per-product-admin-settings.php:133
+msgid "WCE Settings"
+msgstr ""
+
+#. Name of the plugin
+msgid "Woo Custom Emails Per Product"
+msgstr ""

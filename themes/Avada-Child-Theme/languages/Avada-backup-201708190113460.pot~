@@ -1,0 +1,331 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-18 00:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: functions.php:172
+msgid "Tell Us About Your Job"
+msgstr ""
+
+#: functions.php:179 tpl-availableorder.php:490
+#: woocommerce/checkout/review-order.php:27
+msgid "Bedrooms"
+msgstr ""
+
+#: functions.php:189 woocommerce/checkout/review-order.php:39
+msgid "Bathrooms"
+msgstr ""
+
+#: functions.php:205
+msgid "Select Duration"
+msgstr ""
+
+#: functions.php:206
+msgid ""
+"You select less hours than recommended, is possible the worker didnt finish "
+"the required services"
+msgstr ""
+
+#: functions.php:208
+msgid "Select Hours"
+msgstr ""
+
+#: functions.php:212
+msgid "We recommend"
+msgstr ""
+
+#: functions.php:212
+msgid "hours"
+msgstr ""
+
+#: functions.php:217 woocommerce/emails/email-order-details.php:41
+msgid "Booking Date"
+msgstr ""
+
+#: functions.php:238
+msgid "Select Date"
+msgstr ""
+
+#: functions.php:270
+msgid "Enter your email"
+msgstr ""
+
+#: functions.php:756
+msgid "Appointment must start after 7:00 AM and end before 11:00 PM"
+msgstr ""
+
+#: functions.php:847 tpl-assignedjob.php:509
+msgid "Bathroom"
+msgstr ""
+
+#: functions.php:850 tpl-assignedjob.php:505
+msgid "Bedroom"
+msgstr ""
+
+#: functions.php:1036
+msgid "GET STARTED"
+msgstr ""
+
+#: functions.php:1567
+msgid "Book Service"
+msgstr ""
+
+#. Name of the template
+msgid "Closed Jobs"
+msgstr ""
+
+#: tpl-closedjobs.php:415
+msgid "You have not closed jobs at this moment."
+msgstr ""
+
+#. Name of the template
+msgid "Order Confirm Mail"
+msgstr ""
+
+#. Name of the template
+msgid "Login"
+msgstr ""
+
+#. Name of the template
+msgid "Asigned Jobs"
+msgstr ""
+
+#: tpl-assignedjob.php:474
+msgid "Customer Name"
+msgstr ""
+
+#: tpl-assignedjob.php:478
+msgid "Hours Hired"
+msgstr ""
+
+#: tpl-assignedjob.php:479
+msgid "Total Hours"
+msgstr ""
+
+#: tpl-assignedjob.php:482 tpl-availableorder.php:471
+msgid "As Scheduled"
+msgstr ""
+
+#: tpl-assignedjob.php:485 tpl-availableorder.php:474
+#: woocommerce/checkout/review-order.php:50
+msgid "Date"
+msgstr ""
+
+#: tpl-assignedjob.php:489 tpl-availableorder.php:478
+#: woocommerce/checkout/review-order.php:58
+msgid "Time"
+msgstr ""
+
+#: tpl-assignedjob.php:497 tpl-availableorder.php:482
+#: woocommerce/emails/email-order-details.php:45
+msgid "Address"
+msgstr ""
+
+#: tpl-assignedjob.php:502 tpl-availableorder.php:487
+#: woocommerce/checkout/review-order.php:15
+msgid "Order Details"
+msgstr ""
+
+#: tpl-assignedjob.php:513
+msgid "Extra"
+msgstr ""
+
+#: tpl-assignedjob.php:531 tpl-assignedjob.php:542
+msgid "Cellphone"
+msgstr ""
+
+#: tpl-assignedjob.php:536
+msgid "Close Job"
+msgstr ""
+
+#: tpl-assignedjob.php:576
+msgid ""
+"You have not assigned job at this moment. Please visit Available Jobs "
+"section to get new works"
+msgstr ""
+
+#: tpl-assignedjob.php:596
+msgid ""
+"Close the job you confirm you finish the work  <br/>correctly according our "
+"agreement. "
+msgstr ""
+
+#: tpl-assignedjob.php:603
+msgid "Password"
+msgstr ""
+
+#: tpl-assignedjob.php:607
+msgid "Comments"
+msgstr ""
+
+#: tpl-assignedjob.php:613
+msgid "Submit"
+msgstr ""
+
+#. Name of the template
+msgid "Employee Mail"
+msgstr ""
+
+#. Name of the template
+msgid "Service"
+msgstr ""
+
+#. Name of the template
+msgid "Available Jobs"
+msgstr ""
+
+#: tpl-availableorder.php:468 woocommerce/checkout/review-order.php:69
+msgid "Hours"
+msgstr ""
+
+#: tpl-availableorder.php:499
+msgid "Bathrroms"
+msgstr ""
+
+#: tpl-availableorder.php:508
+msgid "Extras"
+msgstr ""
+
+#: tpl-availableorder.php:561
+msgid ""
+"You have not available jobs in your area at this moment. Please check later"
+msgstr ""
+
+#: woocommerce/emails/email-order-details.php:33
+msgid "Order details"
+msgstr ""
+
+#: woocommerce/emails/email-order-details.php:42
+msgid "Full Name"
+msgstr ""
+
+#: woocommerce/emails/email-order-details.php:43
+msgid "Phone"
+msgstr ""
+
+#: woocommerce/emails/email-order-details.php:44
+msgid "Email"
+msgstr ""
+
+#: woocommerce/emails/email-order-details.php:46
+msgid "Extra Address"
+msgstr ""
+
+#: woocommerce/emails/email-customer-details.php:27
+msgid "Customer details"
+msgstr ""
+
+#: woocommerce/emails/customer-completed-order.php:28
+#, php-format
+msgid ""
+"Hi there. Your recent order on %s has been completed. Your order details are "
+"shown below for your reference:"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:36
+msgid "Enter Coupon"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:46
+msgid ""
+"Please Review information below is correct,if you want to modify your order "
+"details or booking date fell free to contact us."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:65
+msgid "Full Name:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:70
+msgid "Booking Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:74
+msgid "Phone:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:83
+msgid "Address:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:88
+msgid "Extra Address:"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:33
+msgid "Customer Info"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:66
+msgid "Hours hired"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:88
+msgid "Extra Services"
+msgstr ""
+
+#: woocommerce/notices/error.php:30
+msgid "Please enter your name"
+msgstr ""
+
+#: woocommerce/notices/error.php:33
+msgid "Please enter your lastname"
+msgstr ""
+
+#: woocommerce/notices/error.php:36
+msgid "Please enter your phone"
+msgstr ""
+
+#: woocommerce/notices/error.php:39
+msgid "Please enter your cellphone"
+msgstr ""
+
+#: woocommerce/notices/error.php:42
+msgid "Please accept terms to continue"
+msgstr ""
+
+#: woocommerce/notices/error.php:45
+msgid ""
+"Please select a valid address from google map and move pin to desired "
+"location"
+msgstr ""
+
+#: woocommerce/notices/error.php:48
+msgid "Please fill the address"
+msgstr ""
+
+#: woocommerce/notices/error.php:51
+msgid "Please add extra address"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:59
+#: woocommerce/compatibility/2.6/single-product/add-to-cart/variable.php:55
+msgid "Clear selection"
+msgstr ""
+
+#. Name of the theme
+msgid "Avada Child"
+msgstr ""
+
+#. Description of the theme
+msgid "Child theme for Avada theme"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeFusion"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://theme-fusion.com"
+msgstr ""

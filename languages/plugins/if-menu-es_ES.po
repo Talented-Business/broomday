@@ -1,0 +1,313 @@
+# Translation of Plugins - If Menu - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - If Menu - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-11 12:43:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - If Menu - Development (trunk)\n"
+
+#: if-menu.php:207
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: if-menu.php:201
+msgid "Let administrators preview hidden menu items on website (useful for testing)"
+msgstr "Permite a los administradores previsualizar elementos ocultos del menú en la web (útil para pruebas)"
+
+#: if-menu.php:199
+msgid "Enable If Menu peek"
+msgstr "Activar vistazo de If Menu"
+
+#: if-menu.php:196
+msgid "If Menu peek"
+msgstr "Vistazo de If Menu"
+
+#: if-menu.php:190
+msgid "Settings"
+msgstr "Ajustes"
+
+#: if-menu.php:183
+msgid "hide menu item if rule passes"
+msgstr "ocultar elemento del menú si pasa la regla"
+
+#: if-menu.php:182
+msgid "show menu item only if vsibility rule passes"
+msgstr "mostrar elemento del menú solo si pasa la regla de visibilidad"
+
+#: if-menu.php:180
+msgid "Visibity rules can have 2 states:"
+msgstr "Las reglas de visibilidad pueden tener 2 estados:"
+
+#: if-menu.php:179
+msgid "Visibility rule type"
+msgstr "Tipo de regla de visibilidad"
+
+#: if-menu.php:176
+msgid "Theme / plugin developers can extend the plugin by adding custom visibility rules"
+msgstr "Los desarrolladores de temas/plugins pueden ampliar el plugin añadiendo reglas de visibilidad personalizadas"
+
+#: if-menu.php:174
+msgid "Language Is RTL"
+msgstr "El idioma es RTL"
+
+#: if-menu.php:173
+msgid "Device Is Mobile"
+msgstr "El dispositivo es móvil"
+
+#: if-menu.php:172
+msgid "Page type: Front page, Single page, Single post"
+msgstr "Tipo de página: Portada, página, entrada"
+
+#: if-menu.php:171
+msgid "User roles: Admin, Editor, Author, etc"
+msgstr "Perfiles de usuario: Admin, editor, autor, etc"
+
+#: if-menu.php:170
+msgid "User state: User is logged in"
+msgstr "Estado de usuario: El usuario está conectado"
+
+#: if-menu.php:168
+msgid "Basic set of visibility rules"
+msgstr "Conjunto básico de reglas de visiblidad"
+
+#: if-menu.php:163
+msgid "Manage your menus"
+msgstr "Gestiona tus menús"
+
+#: if-menu.php:161
+msgid "Thanks for using <strong>If Menu</strong>! This plugin allows you to hide or only show menu items with visibility rules, ex: <code>Display menu item if User is logged in</code> or <code>Hide menu item if Using mobile device</code>"
+msgstr "¡Gracias por usar <strong>If Menu</strong>! Este plugin te permite ocultar o mostrar elementos de menú mediante reglas de visibilidad, ej: <code>Mostrar un elemento del menú si el usuario está conectado</code> o <code>Ocultar un elemento del menú si se está usando un dispositivo móvil</code>"
+
+#: if-menu.php:114
+msgid "If Menu peek - this menu item should be hidden"
+msgstr "Vistazo de If Menu - este elemento de menú debería estar oculto"
+
+#: conditions.php:80
+msgid "Language"
+msgstr "Idioma"
+
+#: conditions.php:78
+msgid "Is RTL"
+msgstr "Es RTL"
+
+#. Author URI of the plugin/theme
+msgid "https://layered.studio"
+msgstr "https://layered.studio"
+
+#. Author of the plugin/theme
+msgid "Layered"
+msgstr "En capas"
+
+#: if-menu.php:290
+msgid "and 1 more rule"
+msgid_plural "and %d more rules"
+msgstr[0] "y 1 regla más"
+msgstr[1] "y %d reglas más"
+
+#: if-menu.php:240
+msgid "Change menu item visibility"
+msgstr "Cambiar visibilidad del elemento del menú"
+
+#: conditions.php:71
+msgid "Device"
+msgstr "Dispositivo"
+
+#: conditions.php:48 conditions.php:55 conditions.php:62
+msgid "Page type"
+msgstr "Tipo de página"
+
+#: conditions.php:18 conditions.php:28 conditions.php:38
+msgid "User state & roles"
+msgstr "Perfiles y estado de los usuarios"
+
+#: conditions.php:13
+msgid "User is %s"
+msgstr "El usuario es %s"
+
+#. Description of the plugin/theme
+msgid "Show/hide menu items with conditional statements"
+msgstr "Mostrar/ocultar elementos del menú con declaraciones condicionales"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/if-menu/"
+msgstr "https://es.wordpress.org/plugins/if-menu/"
+
+#. #-#-#-#-#  if-menu-code.pot (If Menu 0.7.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: if-menu.php:45 if-menu.php:159
+msgid "If Menu"
+msgstr "If Menu"
+
+#: if-menu.php:288
+msgid "%s if %s"
+msgstr "%s si %s"
+
+#: if-menu.php:266
+msgid "OR"
+msgstr "O"
+
+#: if-menu.php:265
+msgid "AND"
+msgstr "Y"
+
+#: if-menu.php:252
+msgid "if"
+msgstr "si"
+
+#: if-menu.php:183 if-menu.php:250
+msgid "Hide"
+msgstr "Ocultar"
+
+#: if-menu.php:182 if-menu.php:249
+msgid "Show"
+msgstr "Mostrar"
+
+#: if-menu.php:137
+msgid "<strong>If Menu</strong> detected a conflict with another plugin or theme and may not work as expected. <a href=\"%s\" target=\"_blank\">Read more about the issue here</a>"
+msgstr "<strong>If Menu</strong> detectó un conflicto con otro plugin o tema y no puede funcionar como se esperaría. <a href=\"%s\" target=\"_blank\">Lee más sobre el problema aquí</a>"
+
+#: if-menu-nav-menu.php:149
+msgid "Open link in a new window/tab"
+msgstr "Abrir enlace en una nueva ventana/pestaña"
+
+#: if-menu-nav-menu.php:118 if-menu-nav-menu.php:120
+msgid "Edit Menu Item"
+msgstr "Editar elemento del menú"
+
+#: if-menu-nav-menu-4.5.php:210 if-menu-nav-menu-4.7.php:200
+#: if-menu-nav-menu.php:206
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: if-menu-nav-menu-4.5.php:209 if-menu-nav-menu-4.7.php:199
+#: if-menu-nav-menu.php:205
+msgid "Remove"
+msgstr "Borrar"
+
+#: if-menu-nav-menu-4.5.php:196 if-menu-nav-menu-4.7.php:186
+#: if-menu-nav-menu.php:192
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: if-menu-nav-menu-4.5.php:189 if-menu-nav-menu-4.7.php:180
+#: if-menu-nav-menu.php:185
+msgid "To the top"
+msgstr "Al principio"
+
+#: if-menu-nav-menu-4.5.php:186 if-menu-nav-menu-4.7.php:177
+#: if-menu-nav-menu.php:182
+msgid "Down one"
+msgstr "Uno abajo"
+
+#: if-menu-nav-menu-4.5.php:185 if-menu-nav-menu-4.7.php:176
+#: if-menu-nav-menu.php:181
+msgid "Up one"
+msgstr "Uno arriba"
+
+#: if-menu-nav-menu-4.5.php:184 if-menu-nav-menu-4.7.php:175
+#: if-menu-nav-menu.php:180
+msgid "Move"
+msgstr "Mover"
+
+#: if-menu-nav-menu-4.5.php:172 if-menu-nav-menu-4.7.php:164
+#: if-menu-nav-menu.php:168
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr "La descripción se mostrará en el menú si el tema actual es compatible con ello."
+
+#: if-menu-nav-menu-4.5.php:170 if-menu-nav-menu-4.7.php:162
+#: if-menu-nav-menu.php:166
+msgid "Description"
+msgstr "Descripción"
+
+#: if-menu-nav-menu-4.5.php:164 if-menu-nav-menu-4.7.php:156
+#: if-menu-nav-menu.php:160
+msgid "Link Relationship (XFN)"
+msgstr "Relación con el enlace (XFN)"
+
+#: if-menu-nav-menu-4.5.php:158 if-menu-nav-menu-4.7.php:150
+#: if-menu-nav-menu.php:154
+msgid "CSS Classes (optional)"
+msgstr "Clases CSS (opcional)"
+
+#: if-menu-nav-menu-4.5.php:153 if-menu-nav-menu-4.7.php:145
+msgid "Open link in a new tab"
+msgstr "Abrir enlace en nueva pestaña"
+
+#: if-menu-nav-menu-4.5.php:146 if-menu-nav-menu-4.7.php:138
+#: if-menu-nav-menu.php:142
+msgid "Title Attribute"
+msgstr "Atributo del título"
+
+#: if-menu-nav-menu-4.5.php:140 if-menu-nav-menu-4.7.php:132
+#: if-menu-nav-menu.php:136
+msgid "Navigation Label"
+msgstr "Etiqueta de navegación"
+
+#: if-menu-nav-menu-4.5.php:133 if-menu-nav-menu-4.7.php:125
+#: if-menu-nav-menu.php:129
+msgid "URL"
+msgstr "URL"
+
+#: if-menu-nav-menu-4.5.php:124 if-menu-nav-menu-4.7.php:116
+msgid "Edit"
+msgstr "Editar"
+
+#: if-menu-nav-menu-4.5.php:124 if-menu-nav-menu-4.7.php:116
+msgid "Edit menu item"
+msgstr "Editar elemento del menú"
+
+#: if-menu-nav-menu-4.5.php:120 if-menu-nav-menu-4.7.php:112
+#: if-menu-nav-menu.php:116
+msgid "Move down"
+msgstr "Mover abajo"
+
+#: if-menu-nav-menu-4.5.php:107 if-menu-nav-menu-4.7.php:99
+#: if-menu-nav-menu.php:103
+msgid "Move up"
+msgstr "Mover arriba"
+
+#: if-menu-nav-menu-4.5.php:86 if-menu-nav-menu-4.7.php:78
+#: if-menu-nav-menu.php:81
+msgid "sub item"
+msgstr "subelemento"
+
+#. translators: %s: title of menu item in draft status
+#: if-menu-nav-menu-4.5.php:71 if-menu-nav-menu-4.7.php:66
+#: if-menu-nav-menu.php:66
+msgid "%s (Pending)"
+msgstr "%s (pendiente)"
+
+#. translators: %s: title of menu item which is invalid
+#: if-menu-nav-menu-4.5.php:67 if-menu-nav-menu-4.7.php:62
+#: if-menu-nav-menu.php:62
+msgid "%s (Invalid)"
+msgstr "%s (no válido)"
+
+#: conditions.php:34
+msgid "User is logged in for current site"
+msgstr "El usuario está conectado en el sitio actual"
+
+#: conditions.php:69
+msgid "Mobile"
+msgstr "Móvil"
+
+#: conditions.php:60
+msgid "Page"
+msgstr "Página"
+
+#: conditions.php:53
+msgid "Single Post"
+msgstr "Entrada"
+
+#: conditions.php:46
+msgid "Front Page"
+msgstr "Portada"
+
+#: conditions.php:26
+msgid "User is logged in"
+msgstr "El usuario está conectado"

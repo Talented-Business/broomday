@@ -1,0 +1,14 @@
+{
+  "name": "prospress/woocommerce-subscribe-all-the-things",
+  "description": "Mini-extension for WooCommerce Subscriptions that allows you to add subscription options to non-subscription product types.",
+  "homepage": "https://github.com/prospress/woocommerce-subscribe-all-the-things",
+  "type": "wordpress-plugin",
+  "license": "GPL-3.0",
+  "require": {
+    "composer/installers": "~1.0"
+  },
+  "require-dev": {
+  },
+  "scripts": {
+  }
+}

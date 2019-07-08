@@ -1,0 +1,2609 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: recoverabandoncart\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-03 18:37+0530\n"
+"PO-Revision-Date: 2018-10-03 18:37+0530\n"
+"Last-Translator: FantasticPlugins <contact@fantasticplugins.com>\n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: recoverabandoncart.php:53
+#: recoverabandoncart.php:60
+msgid "You are not allowed to perform this action!!!"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:44
+#: inc/class-fp-rac-register-post-type.php:51
+msgid "Cart List Table"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:45
+msgid "Recovered Abandoned Cart"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:47
+msgid "Add New Cart List"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:48
+msgid "Add New Affiliate"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:49
+#: inc/class-fp-rac-register-post-type.php:50
+msgid "Edit Cart List"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:52
+msgid "New Cart List"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:53
+#: inc/class-fp-rac-register-post-type.php:54
+msgid "View Cart List"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:55
+msgid "Search Cart List"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:56
+msgid "No Cart List found"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:57
+msgid "No Cart List found in trash"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:59
+msgid "Here you can able to see list of Cart List"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:90
+#: inc/class-fp-rac-register-post-type.php:91
+#: inc/class-fp-rac-register-post-type.php:93
+msgid "Email Log"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:94
+msgid "Add Email Log"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:95
+#: inc/class-fp-rac-register-post-type.php:96
+msgid "Edit Email Log"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:97
+msgid "New Email Log"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:98
+msgid "View Email log"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:99
+msgid "View Email Log"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:100
+msgid "Search Email log"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:101
+msgid "No Email Log found"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:102
+msgid "No Email Log found in trash"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:104
+msgid "Here you can able to see list of Email Log"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:134
+msgid "Email Templates"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:135
+msgid "Email Template"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:137
+#: inc/class-fp-rac-register-post-type.php:138
+#: inc/class-fp-rac-register-post-type.php:141
+msgid "New Email Template"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:139
+#: inc/class-fp-rac-register-post-type.php:140
+msgid "Edit Email Template"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:142
+#: inc/class-fp-rac-register-post-type.php:143
+msgid "View Email Template"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:144
+msgid "Search Email Template"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:145
+msgid "No Email Template(s) found"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:146
+msgid "No Email Template(s) found in trash"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:148
+msgid "Here you can able to see list of Email Templates"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:177
+msgid "Recovered Orders  Log"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:178
+msgid "Recovered Orders"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:180
+msgid "Recovered Order"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:181
+msgid "Add New Recovered Order"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:182
+#: inc/class-fp-rac-register-post-type.php:183
+msgid "Edit Recovered Order"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:184
+msgid "New Recovered Order"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:185
+#: inc/class-fp-rac-register-post-type.php:186
+msgid "View Recovered Order"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:187
+msgid "Search Recovered Order"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:188
+msgid "No Recovered Orders found"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:189
+msgid "No Recovered Orders found in trash"
+msgstr ""
+
+#: inc/class-fp-rac-register-post-type.php:191
+msgid "Here you can able to see list of Recovered Order"
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:79
+msgid "Not a valid e-mail address"
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:121
+msgid "Successfully Unsubscribed..."
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:122
+msgid "Successfully Subscribed..."
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:236
+msgid "Please enter a value greater than "
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:306
+msgid "Please enter email id"
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:307
+msgid "Please Enter any Value"
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:308
+msgid "Please select any Product/Category"
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:325
+msgid "Do you want to change the status of this cart to Recovered?"
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:326
+msgid "save"
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:341
+msgid "Orders found and added to Abandon List"
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:342
+msgid "No Orders found"
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:355
+msgid "Mail has been Sent, but this doesn't mean mail will be delivered Successfully. Check Wordpress Codex for More info on Mail"
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:356
+msgid "Mail not Sent."
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:357
+msgid "For WooCommerce 2.3 or higher version mail() function will not load the woocommerce default template. This option will be deprecated"
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:360
+msgid "Are you sure you want to proceed with the updation? Based on data available, it may take some time to update"
+msgstr ""
+
+#: inc/class-fp-rac-enqueue-scripts-file.php:362
+msgid "Update Completed"
+msgstr ""
+
+#: inc/fp-rac-compatibility-functions.php:116
+msgid "Purchasing this product will provide access to "
+msgstr ""
+
+#: inc/fp-rac-compatibility-functions.php:118
+msgid "Purchasing this Variation will provide access to "
+msgstr ""
+
+#: inc/class-fp-rac-lightbox-handler.php:55
+#: inc/class-fp-rac-lightbox-handler.php:110
+msgid "S.No"
+msgstr ""
+
+#: inc/class-fp-rac-lightbox-handler.php:56
+#: inc/class-fp-rac-lightbox-handler.php:111
+msgid "Product Name"
+msgstr ""
+
+#: inc/class-fp-rac-lightbox-handler.php:57
+msgid "Abandoned Count"
+msgstr ""
+
+#: inc/class-fp-rac-lightbox-handler.php:112
+msgid "Recovered Count"
+msgstr ""
+
+#: inc/class-fp-rac-cart-data-from-mail.php:76
+#: inc/class-fp-rac-cart-data-from-mail.php:191
+#: inc/class-fp-rac-cart-data-from-mail.php:259
+msgid "Seems your cart has been already Recovered/Order Placed"
+msgstr ""
+
+#: inc/class-fp-rac-unsubscribe-function.php:211
+#: inc/class-fp-rac-unsubscribe-function.php:255
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:864
+msgid "Unsubscribe"
+msgstr ""
+
+#: inc/class-fp-rac-polish-product-info.php:170
+msgid "Balance Payable Amount"
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:9
+msgid "This includes the basics of what personal data your store may be collecting, storing and sharing. Depending on what settings are enabled and which additional plugins are used, the specific information shared by your store will vary."
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:10
+msgid "What the Plugin Does"
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:11
+msgid "- When a user adds a product to cart and doesn't complete their purchase within a specified time, their cart will be considered as abandoned"
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:12
+msgid "- An email will be sent to the user who has abandoned the cart. The user can complete the purchase by clicking the purchase link provided in the email"
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:13
+msgid "- The user can unsubscribe from the abandoned cart emails using the unsubscribe link provided in the emails."
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:14
+msgid "What we collect and store"
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:15
+msgid "- Email ID"
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:16
+msgid "For logged in users, their registered email id will be recorded. For guests, email id will be recorded from the email id field on the checkout page. The email id obtained will be used for sending abandoned cart emails."
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:17
+msgid "- User First Name and Last Name"
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:18
+msgid "For logged in users, their first name and last name will be obtained from their profile. For guests, their first name and last name will be obtained from the first name and last name fields on the checkout page. The name obtained will be used in the abandoned cart emails."
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:19
+msgid "- Phone Number"
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:20
+msgid "For guests, their phone number will be recorded from the phone number field on the checkout page."
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:21
+msgid "- Cookies"
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:22
+msgid "We use cookies to"
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:23
+msgid "- Track the orders which were recovered using the purchase link provided in the abandoned cart emails."
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:24
+msgid "- Capture the carts abandoned by guests"
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:25
+msgid "- IP Address"
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:26
+msgid "We record the IP address of guests to differentiate one guest user from an another user"
+msgstr ""
+
+#: inc/admin/fp_rac_privacy.php:35
+msgid "Recover Abandoned Cart"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:51
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:44
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:53
+#: inc/admin/menu/class-fp-rac-recovered-order-submenu.php:45
+msgid "ID"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:52
+msgid "Template Name"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:53
+msgid "From Name"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:54
+msgid "From Email"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:55
+msgid "Subject"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:56
+msgid "Message"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:57
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:58
+msgid "Status"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:58
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:919
+msgid "Email Sent"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:59
+msgid "Carts Recovered"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:164
+msgid "Deactivate"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:166
+msgid "Activate"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:213
+msgid "Duplicate"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:366
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:369
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:293
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:296
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:543
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:546
+#: inc/admin/menu/class-fp-rac-recovered-order-submenu.php:328
+#: inc/admin/menu/class-fp-rac-recovered-order-submenu.php:331
+msgid "Error in moving to Trash."
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:385
+msgid "No Email Template to duplicate has been supplied!"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:404
+msgid "Email Template creation failed, could not find original Email Template:"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:451
+msgid "Save"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:453
+msgid "Send Test Email"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:455
+msgid "Coupon Creation Settings"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:548
+msgid "Load Message from existing Template"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:558
+msgid "Send Manual Email"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:559
+msgid "Mail Sent Successfully"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:568
+msgid "Test Email"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:572
+msgid "Send Test"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:574
+msgid "Mail Sent"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:575
+msgid "Shortcodes replaced by Sample Data"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:588
+msgid "Enter Template Name"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:24
+msgid "Reports"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:25
+msgid "Settings"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:44
+msgid "Sorting"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:45
+msgid "Display Table in"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:47
+msgid "Ascending Order"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:48
+msgid "Descending Order"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:104
+msgid "General Settings"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:105
+msgid "Advanced Settings"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:106
+msgid "Check Previous Orders"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:107
+msgid "Coupon in Email"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:108
+msgid "Troubleshoot"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:109
+msgid "Shortcodes"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:110
+msgid "Support"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:132
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:233
+msgid "Your settings have been saved."
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:235
+msgid "Your settings have been Restored."
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:251
+msgid "wp_cron is disabled in your Site <br />Recover Abandoned Cart will not be able to send Cart Abandoned Emails to Users Automatically<br />To enable wp_cron, edit the config.php of your Wordpress installation and search for 'define('DISABLE_WP_CRON', 'true');' and set the value as false"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:276
+msgid "Automatic emailing has been disabled for Members/Guests!!!"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:282
+msgid "Cron has not been set for sending Automatic Emails!!!"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:283
+msgid "Try Deactivating the plugin and activating it again."
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:54
+msgid "Abandoned Cart Reports"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:59
+msgid "Number of Abandoned Carts Captured"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:73
+msgid "Number of Total Emails Sent"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:87
+msgid "Number of Total Email Links Clicked"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:101
+msgid "Number of Carts Recovered"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:116
+msgid "Total Sales Amount Recovered"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:135
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:139
+msgid "Frequently Abandoned Products"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:141
+msgid "Products which are frequently abandoned by the user"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:147
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:151
+msgid "Frequently Recovered Products"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:153
+msgid "Products which are frequently recovered by the user"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:159
+msgid "Clear Reports"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:159
+msgid "Are you sure to clear the reports ?"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:294
+msgid "Reports Graph"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:300
+msgid "Filter"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:45
+msgid "Email ID"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:46
+msgid "Date Time"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:47
+msgid "Template Used"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:48
+msgid "Abandon Cart ID"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:110
+msgid "Template Info not Available"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:118
+msgid "Cart List ID not Available"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:150
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:190
+msgid "From Date"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:151
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:191
+msgid "To Date"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:54
+msgid "Cart Details / Cart Total"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:55
+msgid "User Name / First Last Name"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:56
+msgid "Email ID / Phone Number"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:57
+msgid "Abandoned Date / Time"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:59
+msgid "Email Template / Email Status / Cart Link in Email"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:60
+msgid "Recovered Order ID"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:61
+msgid "Coupon Used"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:62
+msgid "Payment Status"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:63
+msgid "Email Status"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:177
+msgid "All"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:178
+msgid "Subscribed"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:179
+msgid "Unsubscribed"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:249
+msgid "Send Manual Email for all Carts"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:255
+msgid "Export as CSV"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:259
+msgid "Update Status"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:273
+msgid "Send Email"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:572
+msgid "Back to Cart List"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:582
+msgid "No Cart List to send email!"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:682
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:724
+msgid "Product Details not Available"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:763
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:776
+msgid "Guest"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:780
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:848
+msgid "Order Details not Available"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:812
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:819
+msgid "Double Click to Change an Editable"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:861
+msgid "Email ID has been Unsubscribed"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:862
+msgid "Subscribe"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:895
+msgid "Mark as Recovered"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:921
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:924
+msgid "Email Not Sent"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:931
+msgid "Cart Link Clicked"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:934
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:938
+msgid "Cart Link Not Clicked"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:953
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:985
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:995
+msgid "Not Yet"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:971
+msgid "Success"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:973
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:976
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:982
+msgid "Not Used"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:979
+msgid "Order details not available"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:995
+msgid "Completed"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:1012
+msgid "Stop Emailing"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:1014
+msgid "Start Emailing"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:1019
+msgid "Recovered"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:1022
+msgid "Trashed"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-recovered-order-submenu.php:46
+msgid "Order ID"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-recovered-order-submenu.php:47
+msgid "Recovered Sales Total"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-recovered-order-submenu.php:48
+msgid "Date"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-coupon-handler.php:86
+msgid "Other Coupons"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-coupon-handler.php:87
+msgid "Recover Abandoned Cart Coupons"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:27
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:29
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:31
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:33
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:35
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:37
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:43
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:45
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:47
+msgid "Abandoned cart email"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:28
+msgid "Abandoned cart can be loaded using this link from email"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:30
+msgid "Shows abandoned cart date"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:32
+msgid "Shows abandoned cart time"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:34
+msgid "Displays the product name in the email subject"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:36
+msgid "Shows receiver first name"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:38
+msgid "Shows receiver last name"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:39
+msgid "Admin order recovered notification email"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:40
+msgid "Order ID can be inserted in the admin notification email for reference"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:41
+msgid "Admin order line items in recovered notification email"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:42
+msgid "Order line items will be displayed in admin notification email for information"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:44
+msgid "Shows product info table"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:46
+msgid "Coupon code will be generated automatically and included in the email with a coupon options based on the settings from Coupon In Email tab"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:48
+msgid "Shows unsubscribe link"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:49
+msgid "Pages"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:50
+msgid "Manual unsubscription of abandon cart emails done in this page"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:57
+msgid "Shortcode"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:60
+msgid "Context where Shortcode is valid"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:63
+msgid "Purpose"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:36
+msgid "Add Old WooCommerce Orders to Cart List which are in"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:38
+msgid "On hold status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:39
+msgid "Pending payment status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:40
+msgid "Failed status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:41
+msgid "Cancelled status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:45
+msgid "Time Duration"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:48
+msgid "All time"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:49
+msgid "Specific"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:54
+msgid "Specific Time"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:56
+msgid "From"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:58
+msgid "To"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:64
+msgid "Check for Abandoned Cart"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:26
+msgid "Troubleshoot Settings"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:31
+msgid "Email Function to Use"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:32
+msgid "Please Select which mail function to use while sending notification"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:43
+msgid "Use Email Troubleshoot"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:44
+msgid "Please enable this option if you want to send Emails using Fifth Parameter "
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:49
+msgid "Enable"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:49
+msgid "Disable"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:55
+msgid "Use Email as Fifth Parameter"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:63
+msgid "MIME Version 1.0 Parameter"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:68
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:79
+msgid "Include"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:68
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:79
+msgid "Exclude"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:74
+msgid "Reply-To Parameter"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:86
+msgid "Troubleshoot Performance Settings"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:91
+msgid "Load Recover Abandoned Cart Scripts/Styles in"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:92
+msgid "\"Footer of the Site\" option is experimental and if your theme doesn't contain wp_footer hook then it won't work"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:97
+msgid "Header of the site"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:97
+msgid "Footer of the site(Experimental)"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:104
+msgid "Ajax Chunking Settings"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:109
+msgid "Chunk Count Per Ajax Call"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:110
+msgid "Applicable for \"Check Previous Orders\" tab"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:121
+msgid "Cron Troubleshoot Settings"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:127
+msgid "What Cron will be Used"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:132
+msgid "wp_cron"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:132
+msgid "server_cron"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:139
+msgid "Abandon Cart List Status Management Settings"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:144
+msgid "Update Status of Captured Carts when Cart List Table is Accessed"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:154
+msgid "Display Update Status Button in Cart List Table for Updating the Captured Carts Status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:208
+msgid "Manual Data Updation"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:211
+msgid "Update User Data for Previous Orders"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:213
+msgid "Update"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:223
+msgid "Test Email Settings"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:226
+msgid "Email Format"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:229
+msgid "Plain Text"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:230
+msgid "HTML"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:236
+msgid "Send Test Email to"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:28
+msgid "Product Info Table Settings"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:34
+msgid "Border for Table"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:42
+msgid "Display Variations for Variable Product"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:43
+msgid "If \"Show\" is selected, variation name will be displayed if the product is a variable product)"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:46
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:58
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:575
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:598
+msgid "Show"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:46
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:58
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:574
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:597
+msgid "Hide"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:53
+msgid "SKU"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:56
+msgid "If enabled, SKU will be displayed next to product name in abandoned cart emails and cart list"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:64
+msgid "Product Name Column"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:73
+msgid "Product Name Label"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:81
+msgid "Product Image Column"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:90
+msgid "Product Image Label"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:98
+msgid "Product Quantity Column"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:107
+msgid "Product Quantity Label"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:115
+msgid "Product Price Column"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:124
+msgid "Product Price Label"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:132
+msgid "Subtotal, Shipping, Tax, Total Rows"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:141
+msgid "Subtotal Label"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:150
+msgid "Total Label"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:159
+msgid "Shipping Row"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:169
+msgid "Shipping Label"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:178
+msgid "Tax Row"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:188
+msgid "Tax Label"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:197
+msgid "Display Product Price Including Tax in Emails"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:198
+msgid "If enabled, product price will be displayed including tax and if disabled, product price will be displayed excluding tax"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:207
+msgid "Email Template Cart Link Settings"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:212
+msgid "Cart Link Type"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:213
+msgid "Customize the cart link in email template"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:220
+msgid "Hyperlink"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:221
+msgid "URL"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:222
+msgid "Button"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:223
+msgid "Image"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:228
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:238
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:248
+msgid "Cart Link Color"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:261
+msgid "Image Height"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:272
+msgid "Image Width"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:283
+msgid "Page to be Redirected on Clicking the Cart Link in Abandoned Cart Emails"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:284
+msgid "Please Select the page that you want to redirect after clicking the Cart Link in email"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:289
+msgid "Cart page"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:289
+msgid "Checkout page"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:294
+msgid "Clear the Cart Content when Cart Link is Clicked"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:303
+msgid "Shortcode Customization in Email Template"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:308
+msgid "Date Format"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:318
+msgid "Time Format"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:328
+msgid "Shortcode in Email Subject Label"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:329
+msgid "If the cart list contains more than one product, the label entered here will be displayed along with the name of the first product when using the shortcode {rac.productname} in abandoned cart email subject"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:338
+msgid "Unsubscription Settings"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:344
+msgid "Display Unsubscription option on My Account Page"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:345
+msgid "If enabled, unsubscribe option will be displayed in \"My Account Page\""
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:354
+msgid "Customize Unsubscription Heading"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:355
+msgid "Customize the heading appeared in My Account Page"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:365
+msgid "Customize Unsubscription Text"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:366
+msgid "Customize the Message appeared in My Account Page"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:377
+msgid "Link in Email Footer"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:378
+msgid "Note: "
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:378
+msgid "If unsubscription link is not visible in footer of email, then consider using the shortcode <b>{rac.unsubscribe}</b> in text editor for each email template"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:384
+msgid "If enabled, unsubscription link will be appended to the email footer"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:388
+msgid "Enter Unsubscription Message which is visible in Email Footer"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:398
+msgid "Unsubscription Link Text in Email Template will"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:399
+msgid "Choose how the Unsubscription Link from Recovered Abandon Cart will be displayed in emails "
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:404
+msgid "Replace WooCommerce footer text"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:405
+msgid "Append to WooCommerce footer text"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:412
+msgid "Link Anchor Text"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:413
+msgid "Enter the text to be replaced for {rac_unsubscribe} shortcode"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:422
+msgid "Unsubscribe Anchor Color"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:432
+msgid "Type"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:433
+msgid "Please Select the Unsubscription Type"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:444
+msgid "Redirect URL for Automatic Unsubscription"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:445
+msgid "Enter Redirect Url to redirect when click the Automatic unsubscription link"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:455
+msgid "Redirect URL for Manual Unsubscription"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:456
+msgid "Enter Redirect Url to redirect when click the Manual unsubscription link"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:466
+msgid "Already Unsubscribed Text"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:467
+msgid "Enter Already Unsubscribed Text"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:476
+msgid "Unsubscribed Successfully Text"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:477
+msgid "Enter Unsubscribed Successfully Text"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:486
+msgid "Confirm Unsubscription Text"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:487
+msgid "Enter Confirm Unsubscription Text"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:497
+msgid "Message Text Color"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:498
+msgid "Choose Unsubscription Message Text color"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:508
+msgid "Message Background color"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:509
+msgid "Choose Background color for Unsubscription Message"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:519
+msgid "Unsubscription Email Text color"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:520
+msgid "Choose Unsubscription Email Text color"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:530
+msgid "Confirm Unsubscription Text color"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:531
+msgid "Choose Confirm Unsubscription Text color"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:542
+msgid "Add to cart popup settings for Guest"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:548
+msgid "Enable Add to cart popup"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:549
+msgid "Enabling this option will display popup to get email address when click Add to cart button"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:557
+msgid "Is Email Address Mandatory for Add to Cart"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:558
+msgid "Enabling this option will force guest to enter email address"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:567
+msgid "To Show or Hide First name and last name in Guest add to cart Pop Up"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:580
+msgid "Is First/Last Name Mandatory for Add to Cart"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:581
+msgid "Enabling this option will Force Guest Users to Enter their First Name and Last Name"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:590
+msgid "To Show or Hide Contact number in Guest add to cart Pop Up"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:603
+msgid "Is Phone Number Mandatory for Add to Cart"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:604
+msgid "Enabling this option will Force Guest Users to Enter their Contact Number"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:613
+msgid "Popup Heading"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:615
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:616
+msgid "Please enter your Details"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:622
+msgid "First Name Label"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:624
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:625
+msgid "Enter your First Name"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:631
+msgid "Last Name Label"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:633
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:634
+msgid "Enter your Last Name"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:640
+msgid "Phone Number Label"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:642
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:643
+msgid "Enter Your Contact Number"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:649
+msgid "Email Address Label"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:651
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:652
+msgid "Enter your Email Address"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:658
+msgid "Add to cart button Text"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:660
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:661
+msgid "Add to cart"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:667
+msgid "Cancel button Text"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:669
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:670
+msgid "Cancel"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:677
+msgid "Error Message Localization"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:682
+msgid "Error Message for Empty First Name field"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:684
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:685
+msgid "Please Enter your First Name"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:691
+msgid "Error Message for Empty Last Name field"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:693
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:694
+msgid "Please Enter your Last Name"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:700
+msgid "Error Message for Empty Contact Number field"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:702
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:703
+msgid "Please Enter your Contact Number"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:709
+msgid "Error Message for Invalid Contact Number"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:711
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:712
+msgid "Please Enter valid Contact Number"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:718
+msgid "Error Message for Empty Email field"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:720
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:721
+msgid "Please Enter your Email Address"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:727
+msgid "Error Message for Invalid Email Address"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:729
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:730
+msgid "Please Enter your Valid Email Address"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:737
+msgid "Personal Data Export Settings for GDPR Compliance"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:742
+msgid "Personal Data Export Label"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:744
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:745
+msgid "Cart Captured for Recovery"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:795
+msgid "Product Info Table Column Positioning"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:799
+msgid "Product Image"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:799
+#: inc/emails/class-fp-rac-admin-notification-email.php:38
+msgid "Quantity"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:799
+msgid "Total"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:822
+msgid "Cart Link Image"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:829
+msgid "Choose Image"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:830
+msgid "Upload Image"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:37
+msgid "NEW"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:38
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:42
+msgid "ABANDON"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:39
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:43
+msgid "RECOVERED"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:47
+msgid "Time Settings"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:56
+msgid "Email Cron Settings"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:68
+msgid "Cart List Settings"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:73
+msgid "When Multiple Cart Entries are about to be Captured for the Same Email ID then"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:76
+msgid "Capture all the carts"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:77
+msgid "Remove old carts and capture new cart"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:78
+msgid "Don't capture any new cart"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:86
+msgid "Remove Carts with \"NEW\" Status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:87
+msgid "Enabling this option will remove New Carts by same Users"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:96
+msgid "Remove Carts with \"ABANDON\" Status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:97
+msgid "Enabling this option will remove Abandon Carts by same Users"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:106
+msgid "Restrict Cart List Capturing when Old Carts of the User is in any One of the Following Status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:118
+msgid "Create an Entry in Cart List Table when the Order reaches \"Failed\" status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:119
+msgid "If enabled, an entry will be added in \"Cart List\" when the order reaches \"Failed\" status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:127
+msgid "Create an Entry in Cart List Table when the User Cancels the Order from the Third Party Payment Page"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:128
+msgid "If enabled, an entry will be added in \"Cart List\" when the user cancels the order from the third party payment pages"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:136
+msgid "Prevent Adding Additional Cart Entry when the Order is Cancelled by the Same User"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:137
+msgid "Enabling this option will Prevent adding \"New\" cart when order cancelled in cart page"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:145
+msgid "Remove Carts after x Days"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:146
+msgid "If \"Yes\" is selected, you can remove captured carts with specific status after specific number of days"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:157
+msgid "Remove Carts after"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:158
+msgid "day(s)"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:167
+msgid "Remove Carts with the Following Status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:168
+msgid "carts will be removed from cart list table based on selected status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:180
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:311
+msgid "Custom Restriction Settings"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:181
+msgid "Selected User Roles and Names To Restrict Entry in Cart List"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:186
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:317
+msgid "User Role"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:187
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:318
+msgid "Name"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:197
+msgid "Cart List Capturing is"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:202
+msgid "Not allowed for selected User Role(s)/User Name(s)"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:203
+msgid "Allowed for selected User Role(s)/User Name(s)"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:211
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:342
+msgid "Select User Role"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:212
+msgid "Enter the First Three Characters of User Role"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:224
+msgid "Select Users"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:225
+msgid "Enter the First Three Characters of User Name"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:259
+msgid "Email Settings"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:264
+msgid "Send Email to Members"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:265
+msgid "If enabled, emails will be send to members"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:273
+msgid "Send Email to Guests"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:274
+msgid "If enabled, emails will be send to guests"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:282
+msgid "Email Sending Method"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:286
+msgid "Based on abandoned cart time"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:286
+msgid "Based on previous email sent time"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:292
+msgid "Email Sending Priority "
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:296
+msgid "Email duration"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:296
+msgid "Email sequence"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:302
+msgid "Restrict Automatic Abandoned Cart Emails if Captured Cart Contains a Product which was already Purchased"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:303
+msgid "If enabled, automatic abandoned cart emails will not be sent if captured cart contains a product which was already purchased"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:312
+msgid "Select User Roles, Names and Email ID To Stop EMail Sending"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:320
+msgid "Email Provider"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:328
+msgid "Abandoned Cart Emails are"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:333
+msgid "Not sent for the selected option"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:334
+msgid "Sent for the selected option"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:354
+msgid "User Name Selected"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:355
+msgid "Enter the First Three Character of User Name"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:365
+msgid "Custom Mail ID Selected"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:366
+msgid "Enter Mail ID per line which will be excluded to receive a mail from Recover Abandon Cart"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:377
+msgid "Restrict Email Providers"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:378
+msgid "Enter the email providers seperated by comma. Do not enter any special characters"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:390
+msgid "Recover Status Settings"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:395
+msgid "Change All the New/Abandon Cart Lists of a User when they Place on Order in the Site"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:396
+msgid "Recover Cart List based on Order Status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:409
+msgid "Allow Manual Orders to Recover Cart List"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:410
+msgid "Enable this Option will help to recover cart list based on manually created orders."
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:421
+msgid "New Status to Recovered Status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:422
+msgid "Based on Order Status change New Status to Recovered Status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:433
+msgid "Abandon Status to Recovered Status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:434
+msgid "Based on Order Status change Abandon Status to Recovered Status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:445
+msgid "Change Status of the Captured Cart Entry to Recovered when Order status becomes"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:446
+msgid "Status of captured cart entry will be changed to \"Recovered\" if the order status of placed order reaches any one of the selected status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:459
+msgid "Admin Notification Settings"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:464
+msgid "Notify Admin by Email when an Order is Recovered"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:472
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:540
+msgid "Admin Email ID"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:481
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:549
+msgid "Sender Option"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:489
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:557
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:490
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:558
+msgid "Local"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:513
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:581
+msgid "Email Subject"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:522
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:590
+msgid "Email Message"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:532
+msgid "Notify Admin by Email when the cart is abandoned"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:601
+msgid "Guest Cart Settings"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:606
+msgid "Remove Guests Cart when the Order Status Changes to Pending"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:607
+msgid "Guest Cart Captured on place order will be in cart list, it will be removed when order become Pending"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:615
+msgid "Remove Guests Cart when the Order Status Changes to Failed"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:616
+msgid "Guest Cart Captured on place order will be in cart list, it will be removed when order become Failed"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:624
+msgid "Remove Guests Cart when the Order Status Changes to On-Hold"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:625
+msgid "Guest Cart Captured on place order will be in cart list, it will be removed when order become On-Hold"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:633
+msgid "Remove Guests Cart when the Order Status Changes to Processing"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:634
+msgid "Guest Cart Captured on place order will be in cart list, it will be removed when order become Processing"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:642
+msgid "Remove Guests Cart when the Order Status Changes to Completed"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:643
+msgid "Guest Cart Captured on place order will be in cart list, it will be removed when order become Completed"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:651
+msgid "Remove Guests Cart when the Order Status Changes to Refunded"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:652
+msgid "Guest Cart Captured on place order will be in cart list, it will be removed when order become Refunded"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:660
+msgid "Remove Guests Cart when the Order Status Changes to Cancelled"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:661
+msgid "Guest Cart Captured on place order will be in cart list, it will be removed when order become Cancelled"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:723
+msgid "Reset"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:743
+msgid "Email Job hook"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:744
+msgid "Next Run"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:750
+msgid "rac_cron_job"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:763
+msgid "Cron is not set"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:770
+msgid "Note: Please don/'t consider 'Next Run' if you are using server cron on your site"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:797
+msgid "Time to consider Cart as Abandoned for Members"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:799
+msgid "This setting controls the minimum waiting time for members after which a cart will be considered as abandoned"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:812
+msgid "Time to consider Cart as Abandoned for Guests"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:814
+msgid "This setting controls the minimum waiting time for guests after which a cart will be considered as abandoned"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:836
+msgid "Email Cron Job Running Time"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:838
+msgid "This setting controls the recurrence duration of cron job to run. Used for sending automatic abandoned cart emails. Note: Set to a lesser duration in order to send emails more frequently"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:28
+msgid "Coupon Code Creation Global Settings"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:33
+msgid "Coupon Creation Mode"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:34
+msgid "\"Default\" - same coupon code will be sent in all templates unless the user has used the coupon. \"Configure on Each Template\" - coupons with different values can be configured for each template"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:39
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:53
+msgid "Default"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:40
+msgid "Configure on Each Template"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:47
+msgid "Coupon code Prefix Type"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:48
+msgid "Select Prefix Text in Coupon Code"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:54
+msgid "Custom"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:61
+msgid "Coupon Code Prefix"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:62
+msgid "Enter Custom Prefix Text for Coupon Code"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:72
+msgid "Discount Type"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:73
+msgid "Please Select which type of discount should be applied"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:78
+msgid "Amount"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:78
+msgid "Percentage"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:84
+msgid "Value"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:85
+#, php-format
+msgid "Enter the value to reduce in currency or % based on the Type of Discount Selected without any Symbols"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:95
+msgid "Validity in Days"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:96
+msgid "Enter a value(days in number) for how long the Coupon should be Active"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:106
+msgid "Minimum Amount for Coupon Usage"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:114
+msgid "Maximum Amount for Coupon Usage"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:123
+msgid "Individual Use Only"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:125
+msgid "Check this box if the coupon cannot be used in conjunction with other coupons."
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:133
+msgid "Exclude sale items"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:135
+msgid "Check this box if the coupon should not apply to items on sale. Per-item coupons will only work if the item is not on sale. Per-cart coupons will only work if there are items in the cart that are not on sale"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:142
+msgid "Allow Free Shipping"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:144
+msgid "Check this box if the coupon grants free shipping. A free shipping method must be enabled in your shipping zone and be set to require \"a valid free shipping coupon\" (see the \"Free Shipping Requires\" setting)."
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:158
+msgid "Include Category"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:159
+msgid "Select the Categories to which the coupons from abandoned cart emails can be applied"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:170
+msgid "Exclude Category"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:171
+msgid "Select the Categories to which the coupons from abandoned cart emails cannot be applied"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:183
+msgid "Coupon Code Deletion Settings"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:188
+msgid "Delete Coupons once Used"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:189
+msgid "If enabled, coupons which are automatically created by Recover Abandoned Cart plugin will be deleted once the coupon is used"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:197
+msgid "Delete Coupon when"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:201
+msgid "User Place the Order"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:201
+msgid "Placed Order reaches Specific Status"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:208
+msgid "Delete Coupon when Order Status becomes"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:220
+msgid "Delete Coupons once Expired"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:221
+msgid "If enabled, coupons which are automatically created by Recover Abandoned Cart plugin will be deleted once the coupon is expired"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracsupport-tab.php:21
+msgid "Welcome Page"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracsupport-tab.php:23
+msgid "For more information on Recover Abadoned Cart please check the <a href=\""
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracsupport-tab.php:27
+msgid "Contact Support"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracsupport-tab.php:29
+msgid "For support, feature request or any help, please <a href=\"http://support.fantasticplugins.com/\">register and open a support ticket on our site.</a> <br> "
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracsupport-tab.php:33
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracsupport-tab.php:35
+msgid "Please check the documentation as we have lots of information there. The documentation file can be found inside the documentation folder which you will find when you unzip the downloaded zip file."
+msgstr ""
+
+#: inc/emails/class-fp-rac-admin-notification-email.php:37
+msgid "Product"
+msgstr ""
+
+#: inc/emails/class-fp-rac-admin-notification-email.php:39
+msgid "Price"
+msgstr ""
+
+#: inc/api/rac-common-function-for-multi-select-search.php:46
+#: inc/api/rac-common-function-for-multi-select-search.php:75
+msgid "Search for a customer&hellip;"
+msgstr ""
+
+#: inc/api/rac-common-function-for-multi-select-search.php:135
+#: inc/api/rac-common-function-for-multi-select-search.php:161
+#: inc/api/rac-common-function-for-multi-select-search.php:220
+#: inc/api/rac-common-function-for-multi-select-search.php:242
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: inc/background-updater/fp-rac-main-background-process.php:102
+msgid "Click here"
+msgstr ""
+
+#: inc/background-updater/fp-rac-main-background-process.php:114
+msgid "Recover Abandoned Cart Data Update - Your database is being updated in the background."
+msgstr ""
+
+#: inc/background-updater/fp-rac-main-background-process.php:136
+msgid "Upgrade to v"
+msgstr ""
+
+#: inc/compatibility/rac-settings-backward-compatibility.php:89
+msgid "Width"
+msgstr ""
+
+#: inc/compatibility/rac-settings-backward-compatibility.php:96
+msgid "Height"
+msgstr ""
+
+#: inc/compatibility/rac-settings-backward-compatibility.php:103
+msgid "Hard Crop"
+msgstr ""
+
+#: inc/compatibility/rac-settings-backward-compatibility.php:218
+msgid "Select a page&hellip;"
+msgstr ""
+
+#: inc/compatibility/rac-settings-backward-compatibility.php:236
+msgid "Choose a country&hellip;"
+msgstr ""
+
+#: inc/compatibility/rac-settings-backward-compatibility.php:251
+msgid "Choose countries&hellip;"
+msgstr ""
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:83
+#: inc/compatibility/fp-rac-personal-data-handler.php:91
+msgid "Cart Id"
+msgstr ""
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:84
+#: inc/compatibility/fp-rac-personal-data-handler.php:92
+msgid "Captured on"
+msgstr ""
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:85
+#: inc/compatibility/fp-rac-personal-data-handler.php:93
+msgid "Email"
+msgstr ""
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:86
+#: inc/compatibility/fp-rac-personal-data-handler.php:94
+msgid "Mobile No."
+msgstr ""
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:87
+msgid "User ID"
+msgstr ""
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:95
+msgid "IP Address"
+msgstr ""
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:96
+msgid "First Name"
+msgstr ""
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:97
+msgid "Last Name"
+msgstr ""
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:103
+msgid "Captured Carts"
+msgstr ""
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:171
+#, php-format
+msgid "Removed personal data from Cartlist %s."
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:99
+msgid "Total No.of Orders"
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:100
+msgid "Total Amount Spent on Site"
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:101
+msgid "Abandoned Cart Total"
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:102
+msgid "Cart Abandoned Date"
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:103
+msgid "Abandoned Cart Quantity"
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:104
+msgid "User Role(s)"
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:105
+msgid "Product(s) in Cart"
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:115
+msgid "WooCommerce Template"
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:116
+msgid "HTML Template"
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:126
+msgid "All Products"
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:127
+#: templates/email-template/coupon.php:91
+msgid "Include Products"
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:128
+#: templates/email-template/coupon.php:100
+msgid "Exclude Products"
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:129
+msgid "All Categories"
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:130
+#: templates/email-template/templates.php:264
+#: templates/email-template/coupon.php:109
+msgid "Include Categories"
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:131
+#: templates/email-template/templates.php:277
+#: templates/email-template/coupon.php:118
+msgid "Exclude Categories"
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:141
+msgid "Activated"
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:142
+msgid "Deactivated"
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:151
+msgid "Minutes"
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:152
+msgid "Hours"
+msgstr ""
+
+#: inc/email-template/class-fp-rac-email-template.php:153
+msgid "Days"
+msgstr ""
+
+#: templates/email-template/templates.php:86
+msgid "Template Status"
+msgstr ""
+
+#: templates/email-template/templates.php:99
+msgid "Segmentation"
+msgstr ""
+
+#: templates/email-template/templates.php:112
+msgid "Minimum Order Total"
+msgstr ""
+
+#: templates/email-template/templates.php:122
+msgid "Maximum Order Total  : "
+msgstr ""
+
+#: templates/email-template/templates.php:132
+msgid "Minimum Order Amount :"
+msgstr ""
+
+#: templates/email-template/templates.php:142
+msgid "Maximum Order Amount :"
+msgstr ""
+
+#: templates/email-template/templates.php:152
+msgid "Minimum Cart Amount :"
+msgstr ""
+
+#: templates/email-template/templates.php:162
+msgid "Maximum Cart Amount :"
+msgstr ""
+
+#: templates/email-template/templates.php:172
+msgid "From Abadon Date :"
+msgstr ""
+
+#: templates/email-template/templates.php:182
+msgid "To Abadon Date :"
+msgstr ""
+
+#: templates/email-template/templates.php:192
+msgid "Minimum Cart Quantity :"
+msgstr ""
+
+#: templates/email-template/templates.php:202
+msgid "Maximum Cart Quantity :"
+msgstr ""
+
+#: templates/email-template/templates.php:213
+msgid "Serach a User Role"
+msgstr ""
+
+#: templates/email-template/templates.php:224
+msgid "Product Selection"
+msgstr ""
+
+#: templates/email-template/templates.php:266
+#: templates/email-template/templates.php:278
+#: templates/email-template/coupon.php:112
+#: templates/email-template/coupon.php:121
+msgid "Serach a User Category"
+msgstr ""
+
+#: templates/email-template/templates.php:292
+msgid "Email Template Type"
+msgstr ""
+
+#: templates/email-template/templates.php:302
+msgid "Header Image For HTML Template"
+msgstr ""
+
+#: templates/email-template/templates.php:305
+msgid "Media Uploader."
+msgstr ""
+
+#: templates/email-template/templates.php:314
+msgid "Email Sender Option"
+msgstr ""
+
+#: templates/email-template/templates.php:316
+msgid "woocommerce"
+msgstr ""
+
+#: templates/email-template/templates.php:317
+msgid "local"
+msgstr ""
+
+#: templates/email-template/templates.php:348
+msgid "Bcc"
+msgstr ""
+
+#: templates/email-template/templates.php:389
+msgid "Cart Link Anchor Text"
+msgstr ""
+
+#: templates/email-template/coupon.php:5
+msgid "Coupon Value is Fetched From"
+msgstr ""
+
+#: templates/email-template/coupon.php:7
+msgid "\"Global Settings\" - coupon will be created based on the value configured in the coupon creation global settings. \"Current Email Template\" - coupon will be created based on the value configured in this email template."
+msgstr ""
+
+#: templates/email-template/coupon.php:9
+msgid "Global Settings"
+msgstr ""
+
+#: templates/email-template/coupon.php:10
+msgid "Current Email Template"
+msgstr ""
+
+#: templates/email-template/coupon.php:16
+msgid "Coupon Code Prefix Type"
+msgstr ""
+

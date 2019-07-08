@@ -1,0 +1,9 @@
+2019-05-23T09:54:02+00:00 DEBUG Success: NMI charge complete (Charge ID: 4708188931)
+2019-05-23T09:58:38+00:00 DEBUG Success: NMI charge complete (Charge ID: 4708194957)
+2019-05-23T12:11:54+00:00 DEBUG Success: NMI charge complete (Charge ID: 4708268653)
+2019-05-23T12:24:16+00:00 DEBUG Gateway Error: Duplicate transaction REFID:1196594665
+2019-05-23T12:24:17+00:00 DEBUG Gateway Error: Duplicate transaction REFID:1196594666
+2019-05-23T12:24:17+00:00 DEBUG Gateway Error: Duplicate transaction REFID:1196594667
+2019-05-23T12:31:36+00:00 DEBUG Gateway Error: Duplicate transaction REFID:1196594875
+2019-05-23T12:31:36+00:00 DEBUG Gateway Error: Duplicate transaction REFID:1196594876
+2019-05-23T12:31:36+00:00 DEBUG Gateway Error: Duplicate transaction REFID:1196594877

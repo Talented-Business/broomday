@@ -1,0 +1,33 @@
+#bulk-email-box {
+  background: white none repeat scroll 0 0;
+  box-shadow: 1px 1px 2px;
+  box-sizing: border-box;
+  padding: 20px;
+  width: 80%;
+}
+
+#customer_ids
+{
+	width:100%;
+	min-width: 350px;
+}
+.mce-tinymce.mce-container.mce-panel
+{
+	border:1px solid #e6e6e6;
+}
+h4
+{
+	margin-top: 40px;
+	margin-bottom: 10px;
+	font-size: 25px;
+	padding: 7px;
+	color: white;
+	background: #efefef;
+	color: #96588a;
+	padding: 10px;
+	border-radius: 3px;
+}
+.wccm_no_margin_top
+{
+	margin-top: 20px !important;
+}

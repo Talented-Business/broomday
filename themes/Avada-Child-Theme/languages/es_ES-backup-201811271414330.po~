@@ -1,0 +1,340 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Avada Child\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-19 06:14+0000\n"
+"PO-Revision-Date: 2018-01-16 15:57+0000\n"
+"Last-Translator: test test <rdk@leo.com.pa>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: woocommerce/notices/error.php:42
+msgid "Please enter your cell no"
+msgstr "Por favor ingrese su celular"
+
+#: woocommerce/notices/error.php:46
+msgid "Please enter correct location"
+msgstr ""
+"Por favor seleccione una dirección válida en el mapa de Google y mueva el "
+"pin para marcar su ubicación."
+
+#: functions.php:174
+msgid "Tell Us About Your Job"
+msgstr "Tamaño del Hogar"
+
+#: functions.php:181 tpl-availableorder.php:490
+#: woocommerce/checkout/review-order.php:27
+msgid "Bedrooms"
+msgstr "Dormitorios"
+
+#: functions.php:191 woocommerce/checkout/review-order.php:39
+msgid "Bathrooms"
+msgstr "Baños"
+
+#: functions.php:207
+msgid "Select Duration"
+msgstr "Escoger Duración"
+
+#: functions.php:208
+msgid ""
+"You select less hours than recommended, is possible the worker didnt finish "
+"the required services"
+msgstr ""
+"Has seleccionado menos horas que lo recomendado. Es posible no se complete "
+"la limpieza a tiempo."
+
+#: functions.php:210
+msgid "Select Hours"
+msgstr "Escoger Horas"
+
+#: functions.php:214
+msgid "We recommend"
+msgstr "Recomendamos"
+
+#: functions.php:214
+msgid "hours"
+msgstr "horas"
+
+#: functions.php:219 woocommerce/emails/email-order-details.php:41
+msgid "Booking Date"
+msgstr "Fecha de Servicio"
+
+#: functions.php:240
+msgid "Select Date"
+msgstr "Escoger Fecha"
+
+#: functions.php:272
+msgid "Enter your email"
+msgstr "Ingresa tu Email"
+
+#: functions.php:765
+msgid "Appointment must start after 7:00 AM and end before 11:00 PM"
+msgstr "Las citas deben empezar a las 7:am y terminar antes de las 11:00pm"
+
+#: functions.php:856 tpl-assignedjob.php:509
+msgid "Bathroom"
+msgstr "Baños"
+
+#: functions.php:859 tpl-assignedjob.php:505
+msgid "Bedroom"
+msgstr "Dormitorios"
+
+#: functions.php:1046
+msgid "GET STARTED"
+msgstr "COTIZAR AHORA"
+
+#: functions.php:1577
+msgid "Book Service"
+msgstr "Reservar Limpieza"
+
+#. Name of the template
+msgid "Closed Jobs"
+msgstr "Trabajos Cerrados"
+
+#: tpl-closedjobs.php:415
+msgid "You have not closed jobs at this moment."
+msgstr ""
+"No tienes trabajos terminados en este momento. Visita las oportunidades y "
+"empieza a ganar dinero con Bukerz."
+
+#. Name of the template
+msgid "Order Confirm Mail"
+msgstr "Email de Confirmación"
+
+#. Name of the template
+msgid "Login"
+msgstr "Acceso"
+
+#. Name of the template
+msgid "Asigned Jobs"
+msgstr "Trabajos Asignados"
+
+#: tpl-assignedjob.php:474
+msgid "Customer Name"
+msgstr "Nombre del Cliente"
+
+#: tpl-assignedjob.php:478
+msgid "Hours Hired"
+msgstr "Horas"
+
+#: tpl-assignedjob.php:479
+msgid "Total Hours"
+msgstr "Horas Totales"
+
+#: tpl-assignedjob.php:482 tpl-availableorder.php:471
+msgid "As Scheduled"
+msgstr "Programación"
+
+#: tpl-assignedjob.php:485 tpl-availableorder.php:474
+#: woocommerce/checkout/review-order.php:50
+msgid "Date"
+msgstr "Fecha"
+
+#: tpl-assignedjob.php:489 tpl-availableorder.php:478
+#: woocommerce/checkout/review-order.php:62
+msgid "Time"
+msgstr "Hora"
+
+#: tpl-assignedjob.php:497 tpl-availableorder.php:482
+#: woocommerce/emails/email-order-details.php:45
+msgid "Address"
+msgstr "Dirección"
+
+#: tpl-assignedjob.php:502 tpl-availableorder.php:487
+#: woocommerce/checkout/review-order.php:15
+msgid "Order Details"
+msgstr "Detalles de Orden"
+
+#: tpl-assignedjob.php:513
+msgid "Extra"
+msgstr "Extra"
+
+#: tpl-assignedjob.php:531 tpl-assignedjob.php:542
+msgid "Cellphone"
+msgstr "Móvil"
+
+#: tpl-assignedjob.php:536
+msgid "Close Job"
+msgstr "Cerrar Trabajo"
+
+#: tpl-assignedjob.php:576
+msgid ""
+"You have not assigned job at this moment. Please visit Available Jobs "
+"section to get new works"
+msgstr ""
+"No tienes oportunidades asignadas en este momento. Por favor visitar la "
+"sección de trabajos disponibles para nuevas oportunidades."
+
+#: tpl-assignedjob.php:596
+msgid ""
+"Close the job you confirm you finish the work  <br/>correctly according our "
+"agreement. "
+msgstr ""
+"Cierra el trabajo para confirmar que has terminado <br/> de acuerdo a "
+"nuestro contrato."
+
+#: tpl-assignedjob.php:603
+msgid "Password"
+msgstr "Contraseña"
+
+#: tpl-assignedjob.php:607
+msgid "Comments"
+msgstr "Comentarios"
+
+#: tpl-assignedjob.php:613
+msgid "Submit"
+msgstr "Enviar"
+
+#. Name of the template
+msgid "Employee Mail"
+msgstr "Email al Empleado"
+
+#. Name of the template
+msgid "Service"
+msgstr "Servicio"
+
+#. Name of the template
+msgid "Available Jobs"
+msgstr "Trabajos Disponibles"
+
+#: tpl-availableorder.php:468 woocommerce/checkout/review-order.php:73
+msgid "Hours"
+msgstr "Horas"
+
+#: tpl-availableorder.php:499
+msgid "Bathrroms"
+msgstr "Baños"
+
+#: tpl-availableorder.php:508
+msgid "Extras"
+msgstr "Extras"
+
+#: tpl-availableorder.php:561
+msgid ""
+"You have not available jobs in your area at this moment. Please check later"
+msgstr ""
+"No hay oportunidades disponibles en tu area en este momento. Por favor "
+"verifique luego."
+
+#: woocommerce/emails/email-order-details.php:33
+msgid "Order details"
+msgstr "Detalles de Orden"
+
+#: woocommerce/emails/email-order-details.php:42
+msgid "Full Name"
+msgstr "Nombre Completo"
+
+#: woocommerce/emails/email-order-details.php:43
+msgid "Phone"
+msgstr "Teléfonos"
+
+#: woocommerce/emails/email-order-details.php:44
+msgid "Email"
+msgstr "Email"
+
+#: woocommerce/emails/email-order-details.php:46
+msgid "Extra Address"
+msgstr "Referencias Adicionales"
+
+#: woocommerce/emails/email-customer-details.php:27
+msgid "Customer details"
+msgstr "Información de Cliente"
+
+#: woocommerce/emails/customer-completed-order.php:28
+#, php-format
+msgid ""
+"Hi there. Your recent order on %s has been completed. Your order details are "
+"shown below for your reference:"
+msgstr ""
+"Hola! Tu orden en %s ha sido completada. Los detalles de tu orden se "
+"muestran a continuación:"
+
+#: woocommerce/checkout/form-coupon.php:36
+msgid "Enter Coupon"
+msgstr "Ingresa tu Cupón"
+
+#: woocommerce/checkout/thankyou.php:46
+msgid ""
+"Please Review information below is correct,if you want to modify your order "
+"details or booking date fell free to contact us."
+msgstr ""
+"Por favor revise que la información de su orden es correcta. Si desea "
+"realizar modificaciones por favor contáctenos."
+
+#: woocommerce/checkout/thankyou.php:65
+msgid "Full Name:"
+msgstr "Nombre completo:"
+
+#: woocommerce/checkout/thankyou.php:70
+msgid "Booking Date:"
+msgstr "Fecha de Servicio:"
+
+#: woocommerce/checkout/thankyou.php:74
+msgid "Phone:"
+msgstr "Teléfono:"
+
+#: woocommerce/checkout/thankyou.php:83
+msgid "Address:"
+msgstr "Dirección:"
+
+#: woocommerce/checkout/thankyou.php:88
+msgid "Extra Address:"
+msgstr "Referencias Adicionales:"
+
+#: woocommerce/checkout/form-billing.php:33
+msgid "Customer Info"
+msgstr "Información del cliente"
+
+#: woocommerce/checkout/review-order.php:70
+msgid "Hours hired"
+msgstr "Horas"
+
+#: woocommerce/checkout/review-order.php:92
+msgid "Extra Services"
+msgstr "Extra Servicios"
+
+#: woocommerce/notices/error.php:30
+msgid "Please enter your name"
+msgstr "Por favor ingrese su nombre"
+
+#: woocommerce/notices/error.php:33
+msgid "Please enter your lastname"
+msgstr "Por favor ingrese su apellido"
+
+#: woocommerce/notices/error.php:36
+msgid "Please enter your phone"
+msgstr "Por favor ingrese su teléfono"
+
+#: woocommerce/notices/error.php:39
+msgid "Please add extra address"
+msgstr "Por favor agregue las referencias adicionales, No. de casa o Apto."
+
+#: woocommerce/notices/error.php:49
+msgid "Please accept terms to continue"
+msgstr "Por favor acepte los términos y condiciones para continuar"
+
+#: woocommerce/single-product/add-to-cart/variable.php:59
+#: woocommerce/compatibility/2.6/single-product/add-to-cart/variable.php:55
+msgid "Clear selection"
+msgstr "Limpiar selección"
+
+#. Name of the theme
+msgid "Avada Child"
+msgstr "Avada Child"
+
+#. Description of the theme
+msgid "Child theme for Avada theme"
+msgstr "Child theme for Avada"
+
+#. Author of the theme
+msgid "ThemeFusion"
+msgstr "Themefusion"
+
+#. Author URI of the theme
+msgid "https://theme-fusion.com"
+msgstr "https://theme-fusion.com"

@@ -1,0 +1,106 @@
+.woocommerce_category_box{
+width: 100%;
+
+}
+
+.woocommerce_category_box .woocommerce_category_listings_box{
+width: 100%;
+
+}
+.woocommerce_category_box .woocommerce_category_listings_box .single_list{
+float: left;
+margin: 20px 5px 20px 5px;
+border: 1px solid #EEE;
+
+background: #fafafa;
+cursor: pointer;
+font-weight: bold;
+width: 217px;
+text-align: center;
+height: 180px;
+}
+.woocommerce_category_box .woocommerce_category_listings_box .single_list:hover{
+background: #2D833A;
+}
+
+.woocommerce_category_box .woocommerce_category_listings_box .single_list .category_name {
+font-family: Helvetica, sans-serif;
+background: #f6f6f6;
+color: green;
+text-align: left;
+position: relative;
+}
+.woocommerce_category_box .woocommerce_category_listings_box .single_list:hover .category_name
+color: #FFF;
+}
+
+.woocommerce_category_box .woocommerce_category_listings_box .single_list i {
+color: #16a968;
+position: absolute;
+right: 5px;
+top: 13px;
+font-style: normal;
+}
+
+.woocommerce_category_box .woocommerce_category_listings_box .single_list .category_name {
+padding: 10px;
+color: #16a968;
+}
+.woocommerce_category_box .woocommerce_category_listings_box .single_list:hover .category_name{
+	color:#fff;
+	background: #5a9a58;
+}
+i.pull-right {
+float: right;font-style: normal;font-size: 16px;font-size: 21px;
+line-height: 16px;
+
+}
+.woocommerce_category_box .woocommerce_category_listings_box .single_list img{max-width: 206px;
+max-height: 103px;box-shadow: 1px 1px 4px 0px #DDD;margin: 10px;}
+
+.woocommerce_category_listing_box{
+border: 2px solid #F7F7F7;
+margin-bottom: 10px;
+padding: 0;
+}
+.woocommerce_category_listing_box .widgettitle{
+	padding: 5px 10px 5px 5px;
+color: #FFF  !important;
+background: #747474 !important;
+background: -moz-linear-gradient(top, #747474 0%, #585858 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#747474), color-stop(100%,#585858));
+background: -webkit-linear-gradient(top, #747474 0%,#585858 100%);
+background: -o-linear-gradient(top, #747474 0%,#585858 100%);
+background: -ms-linear-gradient(top, #747474 0%,#585858 100%);
+background: linear-gradient(to bottom, #747474 0%,#585858 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#747474', endColorstr='#585858',GradientType=0 );
+}
+.woocommerce_category_listing_box .woocommerce_category_listing li {
+list-style: none;
+margin: 0;
+padding: 0;
+
+}
+
+
+.woocommerce_category_listing_box .woocommerce_category_listing li a {
+display: block;
+padding: 3px 0 3px 10px;text-decoration: none;
+color: #0099cc
+}
+
+.woocommerce_category_listing_box .woocommerce_category_listing li.active_list,.woocommerce_category_listing_box .woocommerce_category_listing li.active_list:hover {
+background: #0099cc;
+
+}
+.woocommerce_category_listing_box .woocommerce_category_listing li.active_list a,.woocommerce_category_listing_box .woocommerce_category_listing li.active_list a:hover{
+color:#fff;	
+}
+
+.woocommerce_category_listing_box .woocommerce_category_listing li a:hover {
+color: #000;
+text-decoration: none;
+}
+.woocommerce_category_listing_box .woocommerce_category_listing li:hover {
+background: #EEE;
+}

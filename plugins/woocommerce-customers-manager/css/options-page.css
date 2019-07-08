@@ -1,0 +1,74 @@
+/* #edit-slug-box
+{
+display:none;
+} */
+input[type=text]
+{
+	min-width: 350px;
+}
+label
+{
+	display:block;
+	clear:both;
+	font-weight: bold;
+}
+#options-container
+{
+	 background: white none repeat scroll 0 0;
+    box-shadow: 1px 1px 2px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    padding: 30px;
+    width: 80%;
+}
+/* h3
+{
+	border-bottom: 1px solid #e6e6e6;
+	padding-bottom: 10px;
+} */
+.spacer
+{
+	width:100%;
+	display:block;
+	height:20px;
+}
+
+#save_button
+{
+	margin-top: 30px;
+}
+.warning_message
+{
+	display:inline-block;
+	clear:both;
+	color:white;
+	background:red;
+	padding: 5px;
+	font-weight: bold;
+}
+#do_not_convert_if_email_is_already_associated_option_box
+{
+	display: none;
+	margin-top: 20px;
+}
+.wccm_section_title 
+{
+	margin-top: 50px;
+	margin-bottom: 10px;
+	font-size: 25px;
+	padding: 7px;
+	color: white;
+	background: #efefef;
+	color: #96588a;
+	padding: 10px;
+	border-radius: 3px;
+}
+.wccm_no_margin_top
+{
+	margin-top: 0px !important;
+}
+#wccm_email_new_user_body
+{
+	width: 500px;
+	height: 200px;
+}

@@ -1,0 +1,701 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WooCommerce Network Merchants (NMI) Gateway "
+"(Enterprise)\n"
+"POT-Creation-Date: 2018-11-27 18:54+0530\n"
+"PO-Revision-Date: 2018-11-27 18:54+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: woocommerce-gateway-nmi.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-wc-gateway-nmi-addons-echeck.php:70
+#: includes/class-wc-gateway-nmi-addons-echeck.php:212
+#: includes/class-wc-gateway-nmi-echeck.php:327
+msgid "Invalid payment method. Please input a new account number."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-addons-echeck.php:86
+msgid "Account details cannot be left incomplete."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-addons-echeck.php:125
+#: includes/class-wc-gateway-nmi-addons-echeck.php:126
+#: includes/class-wc-gateway-nmi-addons-echeck.php:260
+#: includes/class-wc-gateway-nmi-addons-echeck.php:261
+#: includes/class-wc-gateway-nmi-addons-echeck.php:424
+#: includes/class-wc-gateway-nmi-addons.php:133
+#: includes/class-wc-gateway-nmi-addons.php:134
+#: includes/class-wc-gateway-nmi-addons.php:274
+#: includes/class-wc-gateway-nmi-addons.php:275
+#: includes/class-wc-gateway-nmi-addons.php:456
+#: includes/class-wc-gateway-nmi-echeck.php:437
+#: includes/class-wc-gateway-nmi-echeck.php:438
+#: includes/class-wc-gateway-nmi-echeck.php:590
+#: includes/class-wc-gateway-nmi-echeck.php:655
+#: includes/class-wc-gateway-nmi-echeck.php:698
+#: includes/class-wc-gateway-nmi-echeck.php:699
+#: includes/class-wc-gateway-nmi.php:499 includes/class-wc-gateway-nmi.php:500
+#: includes/class-wc-gateway-nmi.php:657 includes/class-wc-gateway-nmi.php:727
+#: includes/class-wc-gateway-nmi.php:777 includes/class-wc-gateway-nmi.php:778
+#, php-format
+msgid "Gateway Error: %s"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-addons-echeck.php:223
+msgid "eCheck account details cannot be left incomplete."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-addons-echeck.php:314
+#: includes/class-wc-gateway-nmi-addons-echeck.php:620
+#: includes/class-wc-gateway-nmi-addons.php:328
+#: includes/class-wc-gateway-nmi-addons.php:662
+#, php-format
+msgid "NMI Transaction Failed (%s)"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-addons-echeck.php:367
+#: includes/class-wc-gateway-nmi-addons.php:381
+msgid "Customer not found"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-addons-echeck.php:370
+#: includes/class-wc-gateway-nmi-addons-echeck.php:564
+#: includes/class-wc-gateway-nmi-addons.php:384
+#: includes/class-wc-gateway-nmi-addons.php:596
+#: includes/class-wc-gateway-nmi-echeck.php:369
+#: includes/class-wc-gateway-nmi.php:411
+#, php-format
+msgid "%s - Order %s"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-addons-echeck.php:415
+#: includes/class-wc-gateway-nmi-addons-echeck.php:615
+#: includes/class-wc-gateway-nmi-addons.php:432
+#: includes/class-wc-gateway-nmi-addons.php:648
+#: includes/class-wc-gateway-nmi-echeck.php:418
+#: includes/class-wc-gateway-nmi.php:463 woocommerce-gateway-nmi.php:146
+#, php-format
+msgid "NMI charge complete (Charge ID: %s)"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-addons-echeck.php:464
+#, php-format
+msgid "Via eCheck account ending in %s"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-addons-echeck.php:496
+#, php-format
+msgid "Via account number ending in %s"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-addons.php:70
+#: includes/class-wc-gateway-nmi-addons.php:220
+#: includes/class-wc-gateway-nmi.php:364
+msgid "Invalid payment method. Please input a new card number."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-addons.php:88
+#: includes/class-wc-gateway-nmi-addons.php:231
+#: includes/class-wc-gateway-nmi.php:376
+msgid "Credit card details cannot be left incomplete."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-addons.php:93
+#: includes/class-wc-gateway-nmi-addons.php:236
+#: includes/class-wc-gateway-nmi.php:381
+#, php-format
+msgid ""
+"Card type being used is not one of supported types in plugin settings: %s"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-addons.php:94
+#: includes/class-wc-gateway-nmi-addons.php:237
+#: includes/class-wc-gateway-nmi.php:382
+msgid "Card Type Not Accepted"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-addons.php:442
+#: includes/class-wc-gateway-nmi-addons.php:656
+#: includes/class-wc-gateway-nmi.php:477
+#, php-format
+msgid ""
+"NMI charge authorized (Charge ID: %s). Process order to take payment, or "
+"cancel to remove the pre-authorization."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-addons.php:496
+#: includes/class-wc-gateway-nmi-addons.php:528
+#, php-format
+msgid "Via %s card ending in %s"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:29
+msgid "Network Merchants (NMI) - eCheck"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:30
+msgid ""
+"Network Merchants (NMI) works by adding eCheck fields on the checkout and "
+"then sending the details to NMI for verification. It fully supports "
+"WooCommerce Subscriptions and WooCommerce Pre-Orders plugins."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:71
+#, php-format
+msgid ""
+"<br /><br /><strong>TEST MODE ENABLED</strong><br /> In test mode, you can "
+"use the routing number and account number 123123123 or check the "
+"documentation \"<a href=\"%s\">NMI Direct Post API</a>\"."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:92
+#: includes/class-wc-gateway-nmi.php:126
+#, php-format
+msgid "NMI error: Please enter your Username <a href=\"%s\">here</a>"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:96
+#: includes/class-wc-gateway-nmi.php:130
+#, php-format
+msgid "NMI error: Please enter your Password <a href=\"%s\">here</a>"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:102
+#: includes/class-wc-gateway-nmi.php:136
+msgid "NMI error: Your Username and Password match. Please check and re-enter."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:108
+#, php-format
+msgid ""
+"Network Merchants eCheck (NMI) is enabled, but a SSL certificate is not "
+"detected. Your checkout may not be secure! Please ensure your server has a "
+"valid <a href=\"%1$s\" target=\"_blank\">SSL certificate</a>"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:112
+#: includes/class-wc-gateway-nmi.php:146
+#, php-format
+msgid "NMI supports only these currencies: %s"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:143
+#: includes/class-wc-gateway-nmi.php:177
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:144
+msgid "Enable NMI - eCheck"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:150
+#: includes/class-wc-gateway-nmi.php:184
+msgid "Title"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:152
+#: includes/class-wc-gateway-nmi.php:186
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:153
+msgid "eCheck (NMI)"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:156
+#: includes/class-wc-gateway-nmi.php:190
+msgid "Description"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:158
+#: includes/class-wc-gateway-nmi.php:192
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:159
+msgid "Pay with your echeck details via NMI."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:162
+#: includes/class-wc-gateway-nmi.php:196
+msgid "Test mode"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:163
+#: includes/class-wc-gateway-nmi.php:197
+msgid "Enable Test Mode"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:165
+#: includes/class-wc-gateway-nmi.php:199
+msgid ""
+"Place the payment gateway in test mode. This will display test information "
+"on the checkout page and enable processing in non HTTPS mode."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:169
+#: includes/class-wc-gateway-nmi.php:203
+msgid "Gateway Username"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:171
+#: includes/class-wc-gateway-nmi.php:205
+msgid "Get your Gateway Username from your NMI account."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:175
+#: includes/class-wc-gateway-nmi.php:209
+msgid "Gateway Password"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:177
+#: includes/class-wc-gateway-nmi.php:211
+msgid "Get your Gateway Password from your NMI account."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:181
+msgid "Saved Account"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:182
+msgid "Enable Payment via Saved Account"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:184
+msgid ""
+"If enabled, users will be able to pay with a saved account during checkout. "
+"eCheck details are saved on NMI servers, not on your store."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:188
+#: includes/class-wc-gateway-nmi.php:240
+msgid "Logging"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:189
+#: includes/class-wc-gateway-nmi.php:241
+msgid "Log debug messages"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:191
+#: includes/class-wc-gateway-nmi.php:243
+#, php-format
+msgid ""
+"Save debug messages to the WooCommerce System Status log file <code>%s</"
+"code>."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:195
+#: includes/class-wc-gateway-nmi.php:247
+msgid "Gateway Debug"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:196
+#: includes/class-wc-gateway-nmi.php:248
+msgid "Log gateway requests and response to the WooCommerce System Status log."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:198
+msgid ""
+"<strong>CAUTION! Enabling this option will write gateway requests including "
+"eCheck details to the logs.</strong> Do not turn this on unless you have a "
+"problem processing eCheck. You must only ever enable it temporarily for "
+"troubleshooting or to send requested information to the plugin author. It "
+"must be disabled straight away after the issues are resolved and the plugin "
+"logs should be deleted."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:198
+#: includes/class-wc-gateway-nmi.php:250
+#, php-format
+msgid "<a href=\"%s\">Click here</a> to check and delete the full log file."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:202
+#: includes/class-wc-gateway-nmi.php:254
+msgid "Line Items"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:203
+#: includes/class-wc-gateway-nmi.php:255
+msgid "Enable Line Items"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:205
+#: includes/class-wc-gateway-nmi.php:257
+msgid "Add line item data to description sent to the gateway (eg. Item x qty)."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:209
+#: includes/class-wc-gateway-nmi.php:277
+msgid "Receipt"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:210
+#: includes/class-wc-gateway-nmi.php:278
+msgid "Send Gateway Receipt"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:212
+#: includes/class-wc-gateway-nmi.php:280
+msgid "If enabled, the customer will be sent an email receipt from NMI."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:258
+msgid "Account Holder Name"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:263
+msgid "Account number"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:268
+msgid "Account Type"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:270
+msgid "Checking"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:271
+msgid "Saving"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:276
+msgid "Account Holder Type"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:278
+msgid "Personal"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:279
+msgid "Business"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:339
+msgid "eCheck details cannot be left incomplete."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:518
+#: includes/class-wc-gateway-nmi.php:580
+#, php-format
+msgid "Refunded %s - Refund ID: %s - Reason: %s"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:534
+#: includes/class-wc-gateway-nmi-echeck.php:603
+#: includes/class-wc-gateway-nmi.php:598 includes/class-wc-gateway-nmi.php:672
+#, php-format
+msgid "Customer: %s %s"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:589
+#: includes/class-wc-gateway-nmi-echeck.php:654
+#: includes/class-wc-gateway-nmi.php:656 includes/class-wc-gateway-nmi.php:726
+msgid "Unable to add customer"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi-echeck.php:692
+msgid "There was a problem adding the echeck account."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:29 includes/class-wc-nmi-privacy.php:11
+msgid "Network Merchants (NMI)"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:30
+msgid ""
+"Network Merchants (NMI) works by adding credit card fields on the checkout "
+"and then sending the details to NMI for verification. It fully supports "
+"WooCommerce Subscriptions and WooCommerce Pre-Orders plugins."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:74
+#, php-format
+msgid ""
+"<br /><br /><strong>TEST MODE ENABLED</strong><br /> In test mode, you can "
+"use the card number 4111111111111111 with any CVC and a valid expiration "
+"date or check the documentation \"<a href=\"%s\">NMI Direct Post API</a>\" "
+"for more card numbers."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:142
+#, php-format
+msgid ""
+"Network Merchants (NMI) is enabled, but a SSL certificate is not detected. "
+"Your checkout may not be secure! Please ensure your server has a valid <a "
+"href=\"%1$s\" target=\"_blank\">SSL certificate</a>"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:178
+msgid "Enable NMI"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:187
+msgid "Credit card (NMI)"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:193
+msgid "Pay with your credit card via NMI."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:215
+msgid "Capture"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:216
+msgid "Capture charge immediately"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:218
+msgid ""
+"Whether or not to immediately capture the charge. When unchecked, the charge "
+"issues an authorization and will need to be captured later."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:222
+msgid "Saved Cards"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:223
+msgid "Enable Payment via Saved Cards"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:225
+msgid ""
+"If enabled, users will be able to pay with a saved card during checkout. "
+"Card details are saved on NMI servers, not on your store."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:229
+msgid "Add Customer Method"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:231
+#, php-format
+msgid ""
+"Choose the API Method to use when adding customers to the gateway vault. The "
+"\"auth\" method will authorize the customer's card for %s 1.00 and will "
+"quickly void it when it is added to the vault so you must only select it in "
+"case your processor does not support \"validate\". If you have trouble "
+"signing up for subscriptions, adding or saving payment methods using "
+"\"validate\" then give \"auth\" a try."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:233
+msgid "validate"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:234
+msgid "auth"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:250
+msgid ""
+"<strong>CAUTION! Enabling this option will write gateway requests including "
+"card numbers and CVV to the logs.</strong> Do not turn this on unless you "
+"have a problem processing credit cards. You must only ever enable it "
+"temporarily for troubleshooting or to send requested information to the "
+"plugin author. It must be disabled straight away after the issues are "
+"resolved and the plugin logs should be deleted."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:261
+msgid "Allowed Card types"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:264
+msgid "Select the card types you want to allow payments from."
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:267
+msgid "Visa"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:268
+msgid "MasterCard"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:269
+msgid "Discover"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:270
+msgid "American Express"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:271
+msgid "Diners Club"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:272
+msgid "JCB"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:273
+msgid "Maestro"
+msgstr ""
+
+#: includes/class-wc-gateway-nmi.php:771
+msgid "There was a problem adding the card."
+msgstr ""
+
+#: includes/class-wc-nmi-privacy.php:13
+msgid "WooCommerce Network Merchants (NMI) Order Data"
+msgstr ""
+
+#: includes/class-wc-nmi-privacy.php:16
+msgid "WooCommerce Network Merchants (NMI) Subscriptions Data"
+msgstr ""
+
+#: includes/class-wc-nmi-privacy.php:19 includes/class-wc-nmi-privacy.php:21
+msgid "WooCommerce Network Merchants (NMI) Customer Data"
+msgstr ""
+
+#: includes/class-wc-nmi-privacy.php:22
+msgid "WooCommerce Network Merchants (NMI) Data"
+msgstr ""
+
+#: includes/class-wc-nmi-privacy.php:36
+msgid "Retain Network Merchants (NMI) Data"
+msgstr ""
+
+#: includes/class-wc-nmi-privacy.php:37
+msgid ""
+"Retains any Network Merchants (NMI) data such as Network Merchants (NMI) "
+"customer ID, charge ID."
+msgstr ""
+
+#: includes/class-wc-nmi-privacy.php:40
+msgid "N/A"
+msgstr ""
+
+#: includes/class-wc-nmi-privacy.php:82
+#, php-format
+msgid ""
+"By using this extension, you may be storing personal data or sharing data "
+"with an external service. <a href=\"%s\" target=\"_blank\">Learn more about "
+"how this works, including what you may want to include in your privacy "
+"policy.</a>"
+msgstr ""
+
+#: includes/class-wc-nmi-privacy.php:105
+msgid "Orders"
+msgstr ""
+
+#: includes/class-wc-nmi-privacy.php:109 includes/class-wc-nmi-privacy.php:174
+msgid "Network Merchants (NMI) payment id"
+msgstr ""
+
+#: includes/class-wc-nmi-privacy.php:113 includes/class-wc-nmi-privacy.php:178
+#: includes/class-wc-nmi-privacy.php:213
+msgid "Network Merchants (NMI) customer id"
+msgstr ""
+
+#: includes/class-wc-nmi-privacy.php:170
+msgid "Subscriptions"
+msgstr ""
+
+#: includes/class-wc-nmi-privacy.php:209
+msgid "Customer Data"
+msgstr ""
+
+#: includes/class-wc-nmi-privacy.php:249
+msgid "Network Merchants (NMI) User Data Erased."
+msgstr ""
+
+#: includes/class-wc-nmi-privacy.php:324 includes/class-wc-nmi-privacy.php:359
+#, php-format
+msgid ""
+"Order ID %d is less than set retention days. Personal data retained. "
+"(Network Merchants (NMI))"
+msgstr ""
+
+#: includes/class-wc-nmi-privacy.php:328
+#, php-format
+msgid ""
+"Order ID %d contains an active Subscription. Personal data retained. "
+"(Network Merchants (NMI))"
+msgstr ""
+
+#: includes/class-wc-nmi-privacy.php:343
+msgid "Network Merchants (NMI) Subscription Data Erased."
+msgstr ""
+
+#: includes/class-wc-nmi-privacy.php:370
+msgid "Network Merchants (NMI) personal data erased."
+msgstr ""
+
+#: includes/nmi_sdk/lib/NMI.php:202
+#, php-format
+msgid "Unrecognized response from the gateway: %s"
+msgstr ""
+
+#: includes/nmi_sdk/lib/NMI.php:216
+msgid "Your card has been declined."
+msgstr ""
+
+#: includes/nmi_sdk/lib/NMI.php:226
+msgid "Error connecting to the gateway"
+msgstr ""
+
+#: woocommerce-gateway-nmi.php:58
+msgid "Settings"
+msgstr ""
+
+#: woocommerce-gateway-nmi.php:59
+msgid "Support"
+msgstr ""
+
+#: woocommerce-gateway-nmi.php:144
+msgid "Unable to capture charge!"
+msgstr ""
+
+#: woocommerce-gateway-nmi.php:181
+msgid "Unable to refund charge!"
+msgstr ""
+
+#: woocommerce-gateway-nmi.php:183
+#, php-format
+msgid "NMI charge refunded (Charge ID: %s)"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Network Merchants (NMI) Gateway (Enterprise)"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://pledgedplugins.com/products/nmi-network-merchants-payment-gateway-"
+"woocommerce/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A payment gateway for NMI. An NMI account and a server with cURL, SSL "
+"support, and a valid SSL certificate is required (for security reasons) for "
+"this gateway to function. Requires WC 3.0.0+"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pledged Plugins"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://pledgedplugins.com"
+msgstr ""

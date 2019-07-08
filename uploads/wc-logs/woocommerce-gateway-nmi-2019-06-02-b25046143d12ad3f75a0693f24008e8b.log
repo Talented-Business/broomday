@@ -1,0 +1,7 @@
+2019-06-02T21:53:15+00:00 DEBUG Success: NMI charge complete (Charge ID: 4725665035)
+2019-06-02T22:01:46+00:00 DEBUG Info: Beginning processing payment for order 16484 for the amount of 23.10
+2019-06-02T22:01:51+00:00 DEBUG Success: NMI charge complete (Charge ID: 4725672960)
+2019-06-02T22:05:32+00:00 DEBUG Info: Beginning processing payment for order 16492 for the amount of 25.90
+2019-06-02T22:05:35+00:00 DEBUG Success: NMI charge complete (Charge ID: 4725676624)
+2019-06-02T22:09:08+00:00 DEBUG Info: Beginning processing payment for order 16500 for the amount of 28.70
+2019-06-02T22:09:13+00:00 DEBUG Success: NMI charge complete (Charge ID: 4725680672)

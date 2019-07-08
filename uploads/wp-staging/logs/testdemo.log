@@ -1,0 +1,1260 @@
+[INFO]-[2018/10/15 08:45:30] DB Copy: Creating table wpstg3_ab_appointments
+[INFO]-[2018/10/15 08:45:30] DB Copy: Creating table wpstg3_ab_appointments
+[INFO]-[2018/10/15 08:45:31] DB Copy: Creating table wpstg3_ab_categories
+[INFO]-[2018/10/15 08:45:31] DB Copy: wpstg2_ab_categories as wpstg3_ab_categories from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:31] DB Copy: Creating table wpstg3_ab_categories
+[INFO]-[2018/10/15 08:45:31] DB Copy: wpstg2_ab_categories as wpstg3_ab_categories from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:31] DB Copy: Creating table wpstg3_ab_coupon_services
+[INFO]-[2018/10/15 08:45:31] DB Copy: Creating table wpstg3_ab_coupon_services
+[INFO]-[2018/10/15 08:45:32] DB Copy: Creating table wpstg3_ab_coupons
+[INFO]-[2018/10/15 08:45:32] DB Copy: Creating table wpstg3_ab_coupons
+[INFO]-[2018/10/15 08:45:32] DB Copy: Creating table wpstg3_ab_customer_appointments
+[INFO]-[2018/10/15 08:45:32] DB Copy: Creating table wpstg3_ab_customer_appointments
+[INFO]-[2018/10/15 08:45:33] DB Copy: Creating table wpstg3_ab_customers
+[INFO]-[2018/10/15 08:45:33] DB Copy: Creating table wpstg3_ab_customers
+[INFO]-[2018/10/15 08:45:33] DB Copy: Creating table wpstg3_ab_holidays
+[INFO]-[2018/10/15 08:45:33] DB Copy: Creating table wpstg3_ab_holidays
+[INFO]-[2018/10/15 08:45:34] DB Copy: Creating table wpstg3_ab_notifications
+[INFO]-[2018/10/15 08:45:34] DB Copy: wpstg2_ab_notifications as wpstg3_ab_notifications from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:34] DB Copy: Creating table wpstg3_ab_notifications
+[INFO]-[2018/10/15 08:45:34] DB Copy: wpstg2_ab_notifications as wpstg3_ab_notifications from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:34] DB Copy: Creating table wpstg3_ab_payments
+[INFO]-[2018/10/15 08:45:34] DB Copy: Creating table wpstg3_ab_payments
+[INFO]-[2018/10/15 08:45:34] DB Copy: Creating table wpstg3_ab_schedule_item_breaks
+[INFO]-[2018/10/15 08:45:34] DB Copy: Creating table wpstg3_ab_schedule_item_breaks
+[INFO]-[2018/10/15 08:45:35] DB Copy: Creating table wpstg3_ab_sent_notifications
+[INFO]-[2018/10/15 08:45:35] DB Copy: Creating table wpstg3_ab_sent_notifications
+[INFO]-[2018/10/15 08:45:35] DB Copy: Creating table wpstg3_ab_series
+[INFO]-[2018/10/15 08:45:35] DB Copy: Creating table wpstg3_ab_series
+[INFO]-[2018/10/15 08:45:36] DB Copy: Creating table wpstg3_ab_services
+[INFO]-[2018/10/15 08:45:36] DB Copy: wpstg2_ab_services as wpstg3_ab_services from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:36] DB Copy: Creating table wpstg3_ab_services
+[INFO]-[2018/10/15 08:45:36] DB Copy: wpstg2_ab_services as wpstg3_ab_services from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:36] DB Copy: Creating table wpstg3_ab_staff
+[INFO]-[2018/10/15 08:45:36] DB Copy: wpstg2_ab_staff as wpstg3_ab_staff from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:36] DB Copy: Creating table wpstg3_ab_staff
+[INFO]-[2018/10/15 08:45:36] DB Copy: wpstg2_ab_staff as wpstg3_ab_staff from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:37] DB Copy: Creating table wpstg3_ab_staff_schedule_items
+[INFO]-[2018/10/15 08:45:37] DB Copy: wpstg2_ab_staff_schedule_items as wpstg3_ab_staff_schedule_items from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:37] DB Copy: Creating table wpstg3_ab_staff_schedule_items
+[INFO]-[2018/10/15 08:45:37] DB Copy: wpstg2_ab_staff_schedule_items as wpstg3_ab_staff_schedule_items from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:37] DB Copy: Creating table wpstg3_ab_staff_services
+[INFO]-[2018/10/15 08:45:37] DB Copy: Creating table wpstg3_ab_staff_services
+[INFO]-[2018/10/15 08:45:38] DB Copy: Creating table wpstg3_commentmeta
+[INFO]-[2018/10/15 08:45:38] DB Copy: Creating table wpstg3_commentmeta
+[INFO]-[2018/10/15 08:45:38] DB Copy: Creating table wpstg3_comments
+[INFO]-[2018/10/15 08:45:38] DB Copy: wpstg2_comments as wpstg3_comments from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:38] DB Copy: Creating table wpstg3_comments
+[INFO]-[2018/10/15 08:45:38] DB Copy: wpstg2_comments as wpstg3_comments from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:38] DB Copy: Creating table wpstg3_links
+[INFO]-[2018/10/15 08:45:38] DB Copy: Creating table wpstg3_links
+[INFO]-[2018/10/15 08:45:39] DB Copy: Creating table wpstg3_mo_openid_linked_user
+[INFO]-[2018/10/15 08:45:39] DB Copy: Creating table wpstg3_mo_openid_linked_user
+[INFO]-[2018/10/15 08:45:39] DB Copy: Creating table wpstg3_options
+[INFO]-[2018/10/15 08:45:39] DB Copy: wpstg2_options as wpstg3_options from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:39] DB Copy: Creating table wpstg3_options
+[INFO]-[2018/10/15 08:45:39] DB Copy: wpstg2_options as wpstg3_options from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:40] DB Copy: Creating table wpstg3_pmxi_files
+[INFO]-[2018/10/15 08:45:40] DB Copy: Creating table wpstg3_pmxi_files
+[INFO]-[2018/10/15 08:45:40] DB Copy: Creating table wpstg3_pmxi_history
+[INFO]-[2018/10/15 08:45:40] DB Copy: Creating table wpstg3_pmxi_history
+[INFO]-[2018/10/15 08:45:41] DB Copy: Creating table wpstg3_pmxi_imports
+[INFO]-[2018/10/15 08:45:41] DB Copy: Creating table wpstg3_pmxi_imports
+[INFO]-[2018/10/15 08:45:41] DB Copy: Creating table wpstg3_pmxi_posts
+[INFO]-[2018/10/15 08:45:41] DB Copy: Creating table wpstg3_pmxi_posts
+[INFO]-[2018/10/15 08:45:42] DB Copy: Creating table wpstg3_pmxi_templates
+[INFO]-[2018/10/15 08:45:42] DB Copy: Creating table wpstg3_pmxi_templates
+[INFO]-[2018/10/15 08:45:42] DB Copy: Creating table wpstg3_postmeta
+[INFO]-[2018/10/15 08:45:42] DB Copy: wpstg2_postmeta as wpstg3_postmeta from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:42] DB Copy: Creating table wpstg3_postmeta
+[INFO]-[2018/10/15 08:45:42] DB Copy: wpstg2_postmeta as wpstg3_postmeta from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:43] DB Copy: wpstg2_postmeta as wpstg3_postmeta from 10000 to 20000 records
+[INFO]-[2018/10/15 08:45:43] DB Copy: wpstg2_postmeta as wpstg3_postmeta from 10000 to 20000 records
+[INFO]-[2018/10/15 08:45:43] DB Copy: wpstg2_postmeta as wpstg3_postmeta from 20000 to 30000 records
+[INFO]-[2018/10/15 08:45:43] DB Copy: wpstg2_postmeta as wpstg3_postmeta from 20000 to 30000 records
+[INFO]-[2018/10/15 08:45:44] DB Copy: Creating table wpstg3_posts
+[INFO]-[2018/10/15 08:45:44] DB Copy: wpstg2_posts as wpstg3_posts from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:44] DB Copy: Creating table wpstg3_posts
+[INFO]-[2018/10/15 08:45:44] DB Copy: wpstg2_posts as wpstg3_posts from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:44] DB Copy: Creating table wpstg3_reservation
+[INFO]-[2018/10/15 08:45:44] DB Copy: wpstg2_reservation as wpstg3_reservation from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:44] DB Copy: Creating table wpstg3_reservation
+[INFO]-[2018/10/15 08:45:44] DB Copy: wpstg2_reservation as wpstg3_reservation from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:51] DB Copy: Creating table wpstg3_term_relationships
+[INFO]-[2018/10/15 08:45:51] DB Copy: wpstg2_term_relationships as wpstg3_term_relationships from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:51] DB Copy: Creating table wpstg3_term_relationships
+[INFO]-[2018/10/15 08:45:51] DB Copy: wpstg2_term_relationships as wpstg3_term_relationships from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:52] DB Copy: Creating table wpstg3_term_taxonomy
+[INFO]-[2018/10/15 08:45:52] DB Copy: wpstg2_term_taxonomy as wpstg3_term_taxonomy from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:52] DB Copy: Creating table wpstg3_term_taxonomy
+[INFO]-[2018/10/15 08:45:52] DB Copy: wpstg2_term_taxonomy as wpstg3_term_taxonomy from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:52] DB Copy: Creating table wpstg3_termmeta
+[INFO]-[2018/10/15 08:45:52] DB Copy: wpstg2_termmeta as wpstg3_termmeta from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:52] DB Copy: Creating table wpstg3_termmeta
+[INFO]-[2018/10/15 08:45:52] DB Copy: wpstg2_termmeta as wpstg3_termmeta from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:53] DB Copy: Creating table wpstg3_terms
+[INFO]-[2018/10/15 08:45:53] DB Copy: wpstg2_terms as wpstg3_terms from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:53] DB Copy: Creating table wpstg3_terms
+[INFO]-[2018/10/15 08:45:53] DB Copy: wpstg2_terms as wpstg3_terms from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:53] DB Copy: Creating table wpstg3_usermeta
+[INFO]-[2018/10/15 08:45:53] DB Copy: wpstg2_usermeta as wpstg3_usermeta from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:53] DB Copy: Creating table wpstg3_usermeta
+[INFO]-[2018/10/15 08:45:53] DB Copy: wpstg2_usermeta as wpstg3_usermeta from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:54] DB Copy: Creating table wpstg3_users
+[INFO]-[2018/10/15 08:45:54] DB Copy: wpstg2_users as wpstg3_users from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:54] DB Copy: Creating table wpstg3_users
+[INFO]-[2018/10/15 08:45:54] DB Copy: wpstg2_users as wpstg3_users from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:54] DB Copy: Creating table wpstg3_wfBadLeechers
+[INFO]-[2018/10/15 08:45:54] DB Copy: Creating table wpstg3_wfBadLeechers
+[INFO]-[2018/10/15 08:45:55] DB Copy: Creating table wpstg3_wfBlockedCommentLog
+[INFO]-[2018/10/15 08:45:55] DB Copy: Creating table wpstg3_wfBlockedCommentLog
+[INFO]-[2018/10/15 08:45:55] DB Copy: Creating table wpstg3_wfBlockedIPLog
+[INFO]-[2018/10/15 08:45:55] DB Copy: wpstg2_wfBlockedIPLog as wpstg3_wfBlockedIPLog from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:55] DB Copy: Creating table wpstg3_wfBlockedIPLog
+[INFO]-[2018/10/15 08:45:55] DB Copy: wpstg2_wfBlockedIPLog as wpstg3_wfBlockedIPLog from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:56] DB Copy: Creating table wpstg3_wfBlocks7
+[INFO]-[2018/10/15 08:45:56] DB Copy: Creating table wpstg3_wfBlocks7
+[INFO]-[2018/10/15 08:45:56] DB Copy: Creating table wpstg3_wfConfig
+[INFO]-[2018/10/15 08:45:56] DB Copy: wpstg2_wfConfig as wpstg3_wfConfig from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:56] DB Copy: Creating table wpstg3_wfConfig
+[INFO]-[2018/10/15 08:45:56] DB Copy: wpstg2_wfConfig as wpstg3_wfConfig from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:56] DB Copy: Creating table wpstg3_wfCrawlers
+[INFO]-[2018/10/15 08:45:56] DB Copy: wpstg2_wfCrawlers as wpstg3_wfCrawlers from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:56] DB Copy: Creating table wpstg3_wfCrawlers
+[INFO]-[2018/10/15 08:45:56] DB Copy: wpstg2_wfCrawlers as wpstg3_wfCrawlers from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:57] DB Copy: Creating table wpstg3_wfFileChanges
+[INFO]-[2018/10/15 08:45:57] DB Copy: Creating table wpstg3_wfFileChanges
+[INFO]-[2018/10/15 08:45:57] DB Copy: Creating table wpstg3_wfFileMods
+[INFO]-[2018/10/15 08:45:57] DB Copy: wpstg2_wfFileMods as wpstg3_wfFileMods from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:57] DB Copy: Creating table wpstg3_wfFileMods
+[INFO]-[2018/10/15 08:45:57] DB Copy: wpstg2_wfFileMods as wpstg3_wfFileMods from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:58] DB Copy: Creating table wpstg3_wfHits
+[INFO]-[2018/10/15 08:45:58] DB Copy: wpstg2_wfHits as wpstg3_wfHits from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:58] DB Copy: Creating table wpstg3_wfHits
+[INFO]-[2018/10/15 08:45:58] DB Copy: wpstg2_wfHits as wpstg3_wfHits from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:58] DB Copy: Creating table wpstg3_wfHoover
+[INFO]-[2018/10/15 08:45:58] DB Copy: Creating table wpstg3_wfHoover
+[INFO]-[2018/10/15 08:45:59] DB Copy: Creating table wpstg3_wfIssues
+[INFO]-[2018/10/15 08:45:59] DB Copy: wpstg2_wfIssues as wpstg3_wfIssues from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:59] DB Copy: Creating table wpstg3_wfIssues
+[INFO]-[2018/10/15 08:45:59] DB Copy: wpstg2_wfIssues as wpstg3_wfIssues from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:59] DB Copy: Creating table wpstg3_wfKnownFileList
+[INFO]-[2018/10/15 08:45:59] DB Copy: wpstg2_wfKnownFileList as wpstg3_wfKnownFileList from 0 to 10000 records
+[INFO]-[2018/10/15 08:45:59] DB Copy: Creating table wpstg3_wfKnownFileList
+[INFO]-[2018/10/15 08:45:59] DB Copy: wpstg2_wfKnownFileList as wpstg3_wfKnownFileList from 0 to 10000 records
+[INFO]-[2018/10/15 08:46:00] DB Copy: Creating table wpstg3_wfLeechers
+[INFO]-[2018/10/15 08:46:00] DB Copy: wpstg2_wfLeechers as wpstg3_wfLeechers from 0 to 10000 records
+[INFO]-[2018/10/15 08:46:00] DB Copy: Creating table wpstg3_wfLeechers
+[INFO]-[2018/10/15 08:46:00] DB Copy: wpstg2_wfLeechers as wpstg3_wfLeechers from 0 to 10000 records
+[INFO]-[2018/10/15 08:46:00] DB Copy: Creating table wpstg3_wfLiveTrafficHuman
+[INFO]-[2018/10/15 08:46:00] DB Copy: wpstg2_wfLiveTrafficHuman as wpstg3_wfLiveTrafficHuman from 0 to 10000 records
+[INFO]-[2018/10/15 08:46:00] DB Copy: Creating table wpstg3_wfLiveTrafficHuman
+[INFO]-[2018/10/15 08:46:00] DB Copy: wpstg2_wfLiveTrafficHuman as wpstg3_wfLiveTrafficHuman from 0 to 10000 records
+[INFO]-[2018/10/15 08:46:01] DB Copy: Creating table wpstg3_wfLocs
+[INFO]-[2018/10/15 08:46:01] DB Copy: wpstg2_wfLocs as wpstg3_wfLocs from 0 to 10000 records
+[INFO]-[2018/10/15 08:46:01] DB Copy: Creating table wpstg3_wfLocs
+[INFO]-[2018/10/15 08:46:01] DB Copy: wpstg2_wfLocs as wpstg3_wfLocs from 0 to 10000 records
+[INFO]-[2018/10/15 08:46:01] DB Copy: Creating table wpstg3_wfLogins
+[INFO]-[2018/10/15 08:46:01] DB Copy: wpstg2_wfLogins as wpstg3_wfLogins from 0 to 10000 records
+[INFO]-[2018/10/15 08:46:01] DB Copy: Creating table wpstg3_wfLogins
+[INFO]-[2018/10/15 08:46:01] DB Copy: wpstg2_wfLogins as wpstg3_wfLogins from 0 to 10000 records
+[INFO]-[2018/10/15 08:46:02] DB Copy: Creating table wpstg3_wfNet404s
+[INFO]-[2018/10/15 08:46:02] DB Copy: Creating table wpstg3_wfNet404s
+[INFO]-[2018/10/15 08:46:02] DB Copy: Creating table wpstg3_wfNotifications
+[INFO]-[2018/10/15 08:46:02] DB Copy: wpstg2_wfNotifications as wpstg3_wfNotifications from 0 to 10000 records
+[INFO]-[2018/10/15 08:46:02] DB Copy: Creating table wpstg3_wfNotifications
+[INFO]-[2018/10/15 08:46:02] DB Copy: wpstg2_wfNotifications as wpstg3_wfNotifications from 0 to 10000 records
+[INFO]-[2018/10/15 08:46:02] DB Copy: Creating table wpstg3_wfPendingIssues
+[INFO]-[2018/10/15 08:46:02] DB Copy: Creating table wpstg3_wfPendingIssues
+[INFO]-[2018/10/15 08:46:03] DB Copy: Creating table wpstg3_wfReverseCache
+[INFO]-[2018/10/15 08:46:03] DB Copy: wpstg2_wfReverseCache as wpstg3_wfReverseCache from 0 to 10000 records
+[INFO]-[2018/10/15 08:46:03] DB Copy: Creating table wpstg3_wfReverseCache
+[INFO]-[2018/10/15 08:46:03] DB Copy: wpstg2_wfReverseCache as wpstg3_wfReverseCache from 0 to 10000 records
+[INFO]-[2018/10/15 08:46:03] DB Copy: Creating table wpstg3_wfSNIPCache
+[INFO]-[2018/10/15 08:46:03] DB Copy: Creating table wpstg3_wfSNIPCache
+[INFO]-[2018/10/15 08:46:04] DB Copy: Creating table wpstg3_wfScanners
+[INFO]-[2018/10/15 08:46:04] DB Copy: Creating table wpstg3_wfScanners
+[INFO]-[2018/10/15 08:46:04] DB Copy: Creating table wpstg3_wfStatus
+[INFO]-[2018/10/15 08:46:04] DB Copy: wpstg2_wfStatus as wpstg3_wfStatus from 0 to 10000 records
+[INFO]-[2018/10/15 08:46:04] DB Copy: Creating table wpstg3_wfStatus
+[INFO]-[2018/10/15 08:46:04] DB Copy: wpstg2_wfStatus as wpstg3_wfStatus from 0 to 10000 records
+[INFO]-[2018/10/15 08:46:05] DB Copy: Creating table wpstg3_wfVulnScanners
+[INFO]-[2018/10/15 08:46:05] DB Copy: Creating table wpstg3_wfVulnScanners
+[INFO]-[2018/10/15 08:46:05] DB Copy: Creating table wpstg3_woocommerce_api_keys
+[INFO]-[2018/10/15 08:46:05] DB Copy: Creating table wpstg3_woocommerce_api_keys
+[INFO]-[2018/10/15 08:46:06] DB Copy: Creating table wpstg3_woocommerce_attribute_taxonomies
+[INFO]-[2018/10/15 08:46:06] DB Copy: Creating table wpstg3_woocommerce_attribute_taxonomies
+[INFO]-[2018/10/15 08:46:06] DB Copy: Creating table wpstg3_woocommerce_downloadable_product_permissions
+[INFO]-[2018/10/15 08:46:06] DB Copy: Creating table wpstg3_woocommerce_downloadable_product_permissions
+[INFO]-[2018/10/15 08:46:06] DB Copy: Creating table wpstg3_woocommerce_log
+[INFO]-[2018/10/15 08:46:06] DB Copy: Creating table wpstg3_woocommerce_log
+[INFO]-[2018/10/15 08:46:07] DB Copy: Creating table wpstg3_woocommerce_order_itemmeta
+[INFO]-[2018/10/15 08:46:07] DB Copy: wpstg2_woocommerce_order_itemmeta as wpstg3_woocommerce_order_itemmeta from 0 to 10000 records
+[INFO]-[2018/10/15 08:46:07] DB Copy: Creating table wpstg3_woocommerce_order_itemmeta
+[INFO]-[2018/10/15 08:46:07] DB Copy: wpstg2_woocommerce_order_itemmeta as wpstg3_woocommerce_order_itemmeta from 0 to 10000 records
+[INFO]-[2018/10/15 08:46:07] DB Copy: Creating table wpstg3_woocommerce_order_items
+[INFO]-[2018/10/15 08:46:07] DB Copy: wpstg2_woocommerce_order_items as wpstg3_woocommerce_order_items from 0 to 10000 records
+[INFO]-[2018/10/15 08:46:07] DB Copy: Creating table wpstg3_woocommerce_order_items
+[INFO]-[2018/10/15 08:46:07] DB Copy: wpstg2_woocommerce_order_items as wpstg3_woocommerce_order_items from 0 to 10000 records
+[INFO]-[2018/10/15 08:46:08] DB Copy: Creating table wpstg3_woocommerce_payment_tokenmeta
+[INFO]-[2018/10/15 08:46:08] DB Copy: Creating table wpstg3_woocommerce_payment_tokenmeta
+[INFO]-[2018/10/15 08:46:08] DB Copy: Creating table wpstg3_woocommerce_payment_tokens
+[INFO]-[2018/10/15 08:46:08] DB Copy: Creating table wpstg3_woocommerce_payment_tokens
+[INFO]-[2018/10/15 08:46:09] DB Copy: Creating table wpstg3_woocommerce_sessions
+[INFO]-[2018/10/15 08:46:09] DB Copy: wpstg2_woocommerce_sessions as wpstg3_woocommerce_sessions from 0 to 10000 records
+[INFO]-[2018/10/15 08:46:09] DB Copy: Creating table wpstg3_woocommerce_sessions
+[INFO]-[2018/10/15 08:46:09] DB Copy: wpstg2_woocommerce_sessions as wpstg3_woocommerce_sessions from 0 to 10000 records
+[INFO]-[2018/10/15 08:46:09] DB Copy: Creating table wpstg3_woocommerce_shipping_zone_locations
+[INFO]-[2018/10/15 08:46:09] DB Copy: Creating table wpstg3_woocommerce_shipping_zone_locations
+[INFO]-[2018/10/15 08:46:10] DB Copy: Creating table wpstg3_woocommerce_shipping_zone_methods
+[INFO]-[2018/10/15 08:46:10] DB Copy: Creating table wpstg3_woocommerce_shipping_zone_methods
+[INFO]-[2018/10/15 08:46:10] DB Copy: Creating table wpstg3_woocommerce_shipping_zones
+[INFO]-[2018/10/15 08:46:10] DB Copy: Creating table wpstg3_woocommerce_shipping_zones
+[INFO]-[2018/10/15 08:46:11] DB Copy: Creating table wpstg3_woocommerce_tax_rate_locations
+[INFO]-[2018/10/15 08:46:11] DB Copy: Creating table wpstg3_woocommerce_tax_rate_locations
+[INFO]-[2018/10/15 08:46:11] DB Copy: Creating table wpstg3_woocommerce_tax_rates
+[INFO]-[2018/10/15 08:46:11] DB Copy: Creating table wpstg3_woocommerce_tax_rates
+[INFO]-[2018/10/15 08:46:12] DB Copy: Creating table wpstg3_yoast_seo_links
+[INFO]-[2018/10/15 08:46:12] DB Copy: wpstg2_yoast_seo_links as wpstg3_yoast_seo_links from 0 to 10000 records
+[INFO]-[2018/10/15 08:46:12] DB Copy: Creating table wpstg3_yoast_seo_links
+[INFO]-[2018/10/15 08:46:12] DB Copy: wpstg2_yoast_seo_links as wpstg3_yoast_seo_links from 0 to 10000 records
+[INFO]-[2018/10/15 08:46:12] DB Copy: Creating table wpstg3_yoast_seo_meta
+[INFO]-[2018/10/15 08:46:12] DB Copy: wpstg2_yoast_seo_meta as wpstg3_yoast_seo_meta from 0 to 10000 records
+[INFO]-[2018/10/15 08:46:12] DB Copy: Creating table wpstg3_yoast_seo_meta
+[INFO]-[2018/10/15 08:46:12] DB Copy: wpstg2_yoast_seo_meta as wpstg3_yoast_seo_meta from 0 to 10000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/15 08:46:13] DB Processing:  Table wpstg3_ab_categories 0 to 5000 records
+[INFO]-[2018/10/15 08:46:13] DB Processing:  Table wpstg3_ab_categories 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/15 08:46:16] DB Processing:  Table wpstg3_ab_notifications 0 to 5000 records
+[INFO]-[2018/10/15 08:46:16] DB Processing:  Table wpstg3_ab_notifications 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/15 08:46:18] DB Processing:  Table wpstg3_ab_services 0 to 5000 records
+[INFO]-[2018/10/15 08:46:18] DB Processing:  Table wpstg3_ab_services 0 to 5000 records
+[INFO]-[2018/10/15 08:46:19] DB Processing:  Table wpstg3_ab_staff 0 to 5000 records
+[INFO]-[2018/10/15 08:46:19] DB Processing:  Table wpstg3_ab_staff 0 to 5000 records
+[INFO]-[2018/10/15 08:46:19] DB Processing:  Table wpstg3_ab_staff_schedule_items 0 to 5000 records
+[INFO]-[2018/10/15 08:46:19] DB Processing:  Table wpstg3_ab_staff_schedule_items 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/15 08:46:21] DB Processing:  Table wpstg3_comments 0 to 5000 records
+[INFO]-[2018/10/15 08:46:21] DB Processing:  Table wpstg3_comments 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/15 08:46:23] DB Processing:  Table wpstg3_options 0 to 5000 records
+[INFO]-[2018/10/15 08:46:23] DB Processing:  Table wpstg3_options 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/15 08:46:25] DB Processing:  Table wpstg3_postmeta 0 to 5000 records
+[INFO]-[2018/10/15 08:46:25] DB Processing:  Table wpstg3_postmeta 0 to 5000 records
+[INFO]-[2018/10/15 08:46:26] DB Processing:  Table wpstg3_postmeta 5000 to 10000 records
+[INFO]-[2018/10/15 08:46:26] DB Processing:  Table wpstg3_postmeta 5000 to 10000 records
+[INFO]-[2018/10/15 08:46:26] DB Processing:  Table wpstg3_postmeta 10000 to 15000 records
+[INFO]-[2018/10/15 08:46:26] DB Processing:  Table wpstg3_postmeta 10000 to 15000 records
+[INFO]-[2018/10/15 08:46:27] DB Processing:  Table wpstg3_postmeta 15000 to 20000 records
+[INFO]-[2018/10/15 08:46:27] DB Processing:  Table wpstg3_postmeta 15000 to 20000 records
+[INFO]-[2018/10/15 08:46:28] DB Processing:  Table wpstg3_postmeta 20000 to 25000 records
+[INFO]-[2018/10/15 08:46:28] DB Processing:  Table wpstg3_postmeta 20000 to 25000 records
+[INFO]-[2018/10/15 08:46:28] DB Processing:  Table wpstg3_posts 0 to 5000 records
+[INFO]-[2018/10/15 08:46:28] DB Processing:  Table wpstg3_posts 0 to 5000 records
+[INFO]-[2018/10/15 08:46:29] DB Processing:  Table wpstg3_reservation 0 to 5000 records
+[INFO]-[2018/10/15 08:46:29] DB Processing:  Table wpstg3_reservation 0 to 5000 records
+[INFO]-[2018/10/15 08:46:30] DB Processing:  Table wpstg3_term_relationships 0 to 5000 records
+[INFO]-[2018/10/15 08:46:30] DB Processing:  Table wpstg3_term_relationships 0 to 5000 records
+[INFO]-[2018/10/15 08:46:30] DB Processing:  Table wpstg3_term_taxonomy 0 to 5000 records
+[INFO]-[2018/10/15 08:46:30] DB Processing:  Table wpstg3_term_taxonomy 0 to 5000 records
+[INFO]-[2018/10/15 08:46:30] DB Processing:  Table wpstg3_termmeta 0 to 5000 records
+[INFO]-[2018/10/15 08:46:30] DB Processing:  Table wpstg3_termmeta 0 to 5000 records
+[INFO]-[2018/10/15 08:46:31] DB Processing:  Table wpstg3_terms 0 to 5000 records
+[INFO]-[2018/10/15 08:46:31] DB Processing:  Table wpstg3_terms 0 to 5000 records
+[INFO]-[2018/10/15 08:46:31] DB Processing:  Table wpstg3_usermeta 0 to 5000 records
+[INFO]-[2018/10/15 08:46:31] DB Processing:  Table wpstg3_usermeta 0 to 5000 records
+[INFO]-[2018/10/15 08:46:32] DB Processing:  Table wpstg3_users 0 to 5000 records
+[INFO]-[2018/10/15 08:46:32] DB Processing:  Table wpstg3_users 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/15 08:46:33] DB Processing:  Table wpstg3_wfBlockedIPLog 0 to 5000 records
+[INFO]-[2018/10/15 08:46:33] DB Processing:  Table wpstg3_wfBlockedIPLog 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/15 08:46:34] DB Processing:  Table wpstg3_wfConfig 0 to 5000 records
+[INFO]-[2018/10/15 08:46:34] DB Processing:  Table wpstg3_wfConfig 0 to 5000 records
+[INFO]-[2018/10/15 08:46:35] DB Processing:  Table wpstg3_wfCrawlers 0 to 5000 records
+[INFO]-[2018/10/15 08:46:35] DB Processing:  Table wpstg3_wfCrawlers 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/15 08:46:35] DB Processing:  Table wpstg3_wfFileMods 0 to 5000 records
+[INFO]-[2018/10/15 08:46:35] DB Processing:  Table wpstg3_wfFileMods 0 to 5000 records
+[INFO]-[2018/10/15 08:46:36] DB Processing:  Table wpstg3_wfFileMods 5000 to 10000 records
+[INFO]-[2018/10/15 08:46:36] DB Processing:  Table wpstg3_wfFileMods 5000 to 10000 records
+[INFO]-[2018/10/15 08:46:37] DB Processing:  Table wpstg3_wfHits 0 to 5000 records
+[INFO]-[2018/10/15 08:46:37] DB Processing:  Table wpstg3_wfHits 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/15 08:46:38] DB Processing:  Table wpstg3_wfIssues 0 to 5000 records
+[INFO]-[2018/10/15 08:46:38] DB Processing:  Table wpstg3_wfIssues 0 to 5000 records
+[INFO]-[2018/10/15 08:46:38] DB Processing:  Table wpstg3_wfKnownFileList 0 to 5000 records
+[INFO]-[2018/10/15 08:46:38] DB Processing:  Table wpstg3_wfKnownFileList 0 to 5000 records
+[INFO]-[2018/10/15 08:46:39] DB Processing:  Table wpstg3_wfKnownFileList 5000 to 10000 records
+[INFO]-[2018/10/15 08:46:39] DB Processing:  Table wpstg3_wfKnownFileList 5000 to 10000 records
+[INFO]-[2018/10/15 08:46:39] DB Processing:  Table wpstg3_wfLeechers 0 to 5000 records
+[INFO]-[2018/10/15 08:46:39] DB Processing:  Table wpstg3_wfLeechers 0 to 5000 records
+[INFO]-[2018/10/15 08:46:40] DB Processing:  Table wpstg3_wfLiveTrafficHuman 0 to 5000 records
+[INFO]-[2018/10/15 08:46:40] DB Processing:  Table wpstg3_wfLiveTrafficHuman 0 to 5000 records
+[INFO]-[2018/10/15 08:46:40] DB Processing:  Table wpstg3_wfLocs 0 to 5000 records
+[INFO]-[2018/10/15 08:46:40] DB Processing:  Table wpstg3_wfLocs 0 to 5000 records
+[INFO]-[2018/10/15 08:46:41] DB Processing:  Table wpstg3_wfLogins 0 to 5000 records
+[INFO]-[2018/10/15 08:46:41] DB Processing:  Table wpstg3_wfLogins 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/15 08:46:41] DB Processing:  Table wpstg3_wfNotifications 0 to 5000 records
+[INFO]-[2018/10/15 08:46:41] DB Processing:  Table wpstg3_wfNotifications 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/15 08:46:42] DB Processing:  Table wpstg3_wfReverseCache 0 to 5000 records
+[INFO]-[2018/10/15 08:46:42] DB Processing:  Table wpstg3_wfReverseCache 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/15 08:46:44] DB Processing:  Table wpstg3_wfStatus 0 to 5000 records
+[INFO]-[2018/10/15 08:46:44] DB Processing:  Table wpstg3_wfStatus 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/15 08:46:48] DB Processing:  Table wpstg3_woocommerce_order_itemmeta 0 to 5000 records
+[INFO]-[2018/10/15 08:46:48] DB Processing:  Table wpstg3_woocommerce_order_itemmeta 0 to 5000 records
+[INFO]-[2018/10/15 08:46:49] DB Processing:  Table wpstg3_woocommerce_order_itemmeta 5000 to 10000 records
+[INFO]-[2018/10/15 08:46:49] DB Processing:  Table wpstg3_woocommerce_order_itemmeta 5000 to 10000 records
+[INFO]-[2018/10/15 08:46:49] DB Processing:  Table wpstg3_woocommerce_order_items 0 to 5000 records
+[INFO]-[2018/10/15 08:46:49] DB Processing:  Table wpstg3_woocommerce_order_items 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/15 08:46:51] DB Processing:  Table wpstg3_woocommerce_sessions 0 to 5000 records
+[INFO]-[2018/10/15 08:46:51] DB Processing:  Table wpstg3_woocommerce_sessions 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/15 08:46:53] DB Processing:  Table wpstg3_yoast_seo_links 0 to 5000 records
+[INFO]-[2018/10/15 08:46:53] DB Processing:  Table wpstg3_yoast_seo_links 0 to 5000 records
+[INFO]-[2018/10/15 08:46:54] DB Processing:  Table wpstg3_yoast_seo_meta 0 to 5000 records
+[INFO]-[2018/10/15 08:46:54] DB Processing:  Table wpstg3_yoast_seo_meta 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/15 08:46:55] Scanning / for files
+[INFO]-[2018/10/15 08:46:55] Scanning / for files
+[INFO]-[2018/10/15 08:46:55] Scanning /wp-content for its sub-directories and files
+[INFO]-[2018/10/15 08:46:55] Scanning /wp-content for its sub-directories and files
+[INFO]-[2018/10/15 08:46:56] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2018/10/15 08:46:56] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2018/10/15 08:46:57] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2018/10/15 08:46:57] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2018/10/15 08:46:58] Copying files...
+[INFO]-[2018/10/15 08:46:58] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/error_log -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/error_log
+[INFO]-[2018/10/15 08:46:59] Total 50 files processed
+[INFO]-[2018/10/15 08:46:58] Copying files...
+[INFO]-[2018/10/15 08:46:58] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/error_log -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/error_log
+[INFO]-[2018/10/15 08:46:59] Total 50 files processed
+[INFO]-[2018/10/15 08:47:00] Total 100 files processed
+[INFO]-[2018/10/15 08:47:00] Total 100 files processed
+[INFO]-[2018/10/15 08:47:01] Total 150 files processed
+[INFO]-[2018/10/15 08:47:01] Total 150 files processed
+[INFO]-[2018/10/15 08:47:01] Total 200 files processed
+[INFO]-[2018/10/15 08:47:01] Total 200 files processed
+[INFO]-[2018/10/15 08:47:02] Total 250 files processed
+[INFO]-[2018/10/15 08:47:02] Total 250 files processed
+[INFO]-[2018/10/15 08:47:02] Total 300 files processed
+[INFO]-[2018/10/15 08:47:02] Total 300 files processed
+[INFO]-[2018/10/15 08:47:03] Total 350 files processed
+[INFO]-[2018/10/15 08:47:03] Total 350 files processed
+[INFO]-[2018/10/15 08:47:03] Total 400 files processed
+[INFO]-[2018/10/15 08:47:03] Total 400 files processed
+[INFO]-[2018/10/15 08:47:03] Total 450 files processed
+[INFO]-[2018/10/15 08:47:03] Total 450 files processed
+[INFO]-[2018/10/15 08:47:04] Total 500 files processed
+[INFO]-[2018/10/15 08:47:04] Total 500 files processed
+[INFO]-[2018/10/15 08:47:05] Total 550 files processed
+[INFO]-[2018/10/15 08:47:05] Total 550 files processed
+[INFO]-[2018/10/15 08:47:06] Total 600 files processed
+[INFO]-[2018/10/15 08:47:06] Total 600 files processed
+[INFO]-[2018/10/15 08:47:06] Total 650 files processed
+[INFO]-[2018/10/15 08:47:06] Total 650 files processed
+[INFO]-[2018/10/15 08:47:07] Total 700 files processed
+[INFO]-[2018/10/15 08:47:07] Total 700 files processed
+[INFO]-[2018/10/15 08:47:08] Total 750 files processed
+[INFO]-[2018/10/15 08:47:08] Total 750 files processed
+[INFO]-[2018/10/15 08:47:08] Total 800 files processed
+[INFO]-[2018/10/15 08:47:08] Total 800 files processed
+[INFO]-[2018/10/15 08:47:09] Total 850 files processed
+[INFO]-[2018/10/15 08:47:09] Total 850 files processed
+[INFO]-[2018/10/15 08:47:10] Total 900 files processed
+[INFO]-[2018/10/15 08:47:10] Total 900 files processed
+[INFO]-[2018/10/15 08:47:11] Total 950 files processed
+[INFO]-[2018/10/15 08:47:11] Total 950 files processed
+[INFO]-[2018/10/15 08:47:11] Total 1000 files processed
+[INFO]-[2018/10/15 08:47:11] Total 1000 files processed
+[INFO]-[2018/10/15 08:47:14] Total 1050 files processed
+[INFO]-[2018/10/15 08:47:14] Total 1050 files processed
+[INFO]-[2018/10/15 08:47:14] Total 1100 files processed
+[INFO]-[2018/10/15 08:47:14] Total 1100 files processed
+[INFO]-[2018/10/15 08:47:15] Total 1150 files processed
+[INFO]-[2018/10/15 08:47:15] Total 1150 files processed
+[INFO]-[2018/10/15 08:47:16] Total 1200 files processed
+[INFO]-[2018/10/15 08:47:16] Total 1200 files processed
+[INFO]-[2018/10/15 08:47:16] Total 1250 files processed
+[INFO]-[2018/10/15 08:47:16] Total 1250 files processed
+[INFO]-[2018/10/15 08:47:17] Total 1300 files processed
+[INFO]-[2018/10/15 08:47:17] Total 1300 files processed
+[INFO]-[2018/10/15 08:47:18] Total 1350 files processed
+[INFO]-[2018/10/15 08:47:18] Total 1350 files processed
+[INFO]-[2018/10/15 08:47:18] Total 1400 files processed
+[INFO]-[2018/10/15 08:47:18] Total 1400 files processed
+[INFO]-[2018/10/15 08:47:19] Total 1450 files processed
+[INFO]-[2018/10/15 08:47:19] Total 1450 files processed
+[INFO]-[2018/10/15 08:47:21] Total 1500 files processed
+[INFO]-[2018/10/15 08:47:21] Total 1500 files processed
+[INFO]-[2018/10/15 08:47:22] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/wp-content/themes/Avada/avada-plugins.zip -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/wp-content/themes/Avada/avada-plugins.zip
+[INFO]-[2018/10/15 08:47:23] Total 1550 files processed
+[INFO]-[2018/10/15 08:47:22] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/wp-content/themes/Avada/avada-plugins.zip -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/wp-content/themes/Avada/avada-plugins.zip
+[INFO]-[2018/10/15 08:47:23] Total 1550 files processed
+[INFO]-[2018/10/15 08:47:24] Total 1600 files processed
+[INFO]-[2018/10/15 08:47:24] Total 1600 files processed
+[INFO]-[2018/10/15 08:47:24] Total 1650 files processed
+[INFO]-[2018/10/15 08:47:24] Total 1650 files processed
+[INFO]-[2018/10/15 08:47:25] Total 1700 files processed
+[INFO]-[2018/10/15 08:47:25] Total 1700 files processed
+[INFO]-[2018/10/15 08:47:25] Total 1750 files processed
+[INFO]-[2018/10/15 08:47:25] Total 1750 files processed
+[INFO]-[2018/10/15 08:47:26] Total 1800 files processed
+[INFO]-[2018/10/15 08:47:26] Total 1800 files processed
+[INFO]-[2018/10/15 08:47:26] Total 1850 files processed
+[INFO]-[2018/10/15 08:47:26] Total 1850 files processed
+[INFO]-[2018/10/15 08:47:27] Total 1900 files processed
+[INFO]-[2018/10/15 08:47:27] Total 1900 files processed
+[INFO]-[2018/10/15 08:47:27] Total 1950 files processed
+[INFO]-[2018/10/15 08:47:27] Total 1950 files processed
+[INFO]-[2018/10/15 08:47:28] Total 2000 files processed
+[INFO]-[2018/10/15 08:47:28] Total 2000 files processed
+[INFO]-[2018/10/15 08:47:29] Total 2050 files processed
+[INFO]-[2018/10/15 08:47:29] Total 2050 files processed
+[INFO]-[2018/10/15 08:47:30] Total 2100 files processed
+[INFO]-[2018/10/15 08:47:30] Total 2100 files processed
+[INFO]-[2018/10/15 08:47:31] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/wp-content/uploads/2017/05/hi5-1.jpg -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/wp-content/uploads/2017/05/hi5-1.jpg
+[INFO]-[2018/10/15 08:47:31] Total 2150 files processed
+[INFO]-[2018/10/15 08:47:31] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/wp-content/uploads/2017/05/hi5-1.jpg -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/wp-content/uploads/2017/05/hi5-1.jpg
+[INFO]-[2018/10/15 08:47:31] Total 2150 files processed
+[INFO]-[2018/10/15 08:47:32] Total 2200 files processed
+[INFO]-[2018/10/15 08:47:32] Total 2200 files processed
+[INFO]-[2018/10/15 08:47:33] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/wp-content/uploads/2017/05/hi5.jpg -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/wp-content/uploads/2017/05/hi5.jpg
+[INFO]-[2018/10/15 08:47:34] Total 2250 files processed
+[INFO]-[2018/10/15 08:47:33] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/wp-content/uploads/2017/05/hi5.jpg -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/wp-content/uploads/2017/05/hi5.jpg
+[INFO]-[2018/10/15 08:47:34] Total 2250 files processed
+[INFO]-[2018/10/15 08:47:36] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/wp-content/uploads/2017/10/contratacionsep-01.jpg -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/wp-content/uploads/2017/10/contratacionsep-01.jpg
+[INFO]-[2018/10/15 08:47:37] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/wp-content/uploads/2017/10/encuentra24-01.jpg -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/wp-content/uploads/2017/10/encuentra24-01.jpg
+[INFO]-[2018/10/15 08:47:38] Total 2300 files processed
+[INFO]-[2018/10/15 08:47:36] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/wp-content/uploads/2017/10/contratacionsep-01.jpg -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/wp-content/uploads/2017/10/contratacionsep-01.jpg
+[INFO]-[2018/10/15 08:47:37] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/wp-content/uploads/2017/10/encuentra24-01.jpg -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/wp-content/uploads/2017/10/encuentra24-01.jpg
+[INFO]-[2018/10/15 08:47:38] Total 2300 files processed
+[INFO]-[2018/10/15 08:47:39] Total 2350 files processed
+[INFO]-[2018/10/15 08:47:39] Total 2350 files processed
+[INFO]-[2018/10/15 08:47:40] Total 2400 files processed
+[INFO]-[2018/10/15 08:47:40] Total 2400 files processed
+[INFO]-[2018/10/15 08:47:40] Total 2450 files processed
+[INFO]-[2018/10/15 08:47:40] Total 2450 files processed
+[INFO]-[2018/10/15 08:47:41] Total 2500 files processed
+[INFO]-[2018/10/15 08:47:41] Total 2500 files processed
+[INFO]-[2018/10/15 08:47:42] Total 2550 files processed
+[INFO]-[2018/10/15 08:47:42] Total 2550 files processed
+[INFO]-[2018/10/15 08:47:44] Total 2600 files processed
+[INFO]-[2018/10/15 08:47:44] Total 2600 files processed
+[INFO]-[2018/10/15 08:47:45] Total 2650 files processed
+[INFO]-[2018/10/15 08:47:45] Total 2650 files processed
+[INFO]-[2018/10/15 08:47:46] Total 2700 files processed
+[INFO]-[2018/10/15 08:47:46] Total 2700 files processed
+[INFO]-[2018/10/15 08:47:47] Total 2750 files processed
+[INFO]-[2018/10/15 08:47:47] Total 2750 files processed
+[INFO]-[2018/10/15 08:47:47] Total 2800 files processed
+[INFO]-[2018/10/15 08:47:47] Total 2800 files processed
+[INFO]-[2018/10/15 08:47:48] Total 2850 files processed
+[INFO]-[2018/10/15 08:47:48] Total 2850 files processed
+[INFO]-[2018/10/15 08:47:49] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/wp-content/uploads/2016/10/Sin-título-2-01.jpg -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/wp-content/uploads/2016/10/Sin-título-2-01.jpg
+[INFO]-[2018/10/15 08:47:52] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/wp-content/uploads/2016/10/2222222-01.jpg -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/wp-content/uploads/2016/10/2222222-01.jpg
+[INFO]-[2018/10/15 08:47:54] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/wp-content/uploads/2016/10/2222222-01-1.jpg -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/wp-content/uploads/2016/10/2222222-01-1.jpg
+[INFO]-[2018/10/15 08:47:56] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/wp-content/uploads/GeoIPv6.dat -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/wp-content/uploads/GeoIPv6.dat
+[INFO]-[2018/10/15 08:47:56] Total 2900 files processed
+[INFO]-[2018/10/15 08:47:49] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/wp-content/uploads/2016/10/Sin-título-2-01.jpg -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/wp-content/uploads/2016/10/Sin-título-2-01.jpg
+[INFO]-[2018/10/15 08:47:52] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/wp-content/uploads/2016/10/2222222-01.jpg -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/wp-content/uploads/2016/10/2222222-01.jpg
+[INFO]-[2018/10/15 08:47:54] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/wp-content/uploads/2016/10/2222222-01-1.jpg -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/wp-content/uploads/2016/10/2222222-01-1.jpg
+[INFO]-[2018/10/15 08:47:56] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/wp-content/uploads/GeoIPv6.dat -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/wp-content/uploads/GeoIPv6.dat
+[INFO]-[2018/10/15 08:47:56] Total 2900 files processed
+[INFO]-[2018/10/15 08:47:57] Total 2950 files processed
+[INFO]-[2018/10/15 08:47:57] Total 2950 files processed
+[INFO]-[2018/10/15 08:47:58] Total 3000 files processed
+[INFO]-[2018/10/15 08:47:58] Total 3000 files processed
+[INFO]-[2018/10/15 08:47:59] Total 3050 files processed
+[INFO]-[2018/10/15 08:47:59] Total 3050 files processed
+[INFO]-[2018/10/15 08:47:59] Total 3100 files processed
+[INFO]-[2018/10/15 08:47:59] Total 3100 files processed
+[INFO]-[2018/10/15 08:48:00] Total 3150 files processed
+[INFO]-[2018/10/15 08:48:00] Total 3150 files processed
+[INFO]-[2018/10/15 08:48:00] Total 3200 files processed
+[INFO]-[2018/10/15 08:48:00] Total 3200 files processed
+[INFO]-[2018/10/15 08:48:01] Total 3250 files processed
+[INFO]-[2018/10/15 08:48:01] Total 3250 files processed
+[INFO]-[2018/10/15 08:48:01] Total 3300 files processed
+[INFO]-[2018/10/15 08:48:01] Total 3300 files processed
+[INFO]-[2018/10/15 08:48:02] Total 3350 files processed
+[INFO]-[2018/10/15 08:48:02] Total 3350 files processed
+[INFO]-[2018/10/15 08:48:02] Total 3400 files processed
+[INFO]-[2018/10/15 08:48:02] Total 3400 files processed
+[INFO]-[2018/10/15 08:48:03] Total 3450 files processed
+[INFO]-[2018/10/15 08:48:03] Total 3450 files processed
+[INFO]-[2018/10/15 08:48:03] Total 3500 files processed
+[INFO]-[2018/10/15 08:48:03] Total 3500 files processed
+[INFO]-[2018/10/15 08:48:04] Total 3550 files processed
+[INFO]-[2018/10/15 08:48:04] Total 3550 files processed
+[INFO]-[2018/10/15 08:48:04] Total 3600 files processed
+[INFO]-[2018/10/15 08:48:04] Total 3600 files processed
+[INFO]-[2018/10/15 08:48:05] Total 3650 files processed
+[INFO]-[2018/10/15 08:48:05] Total 3650 files processed
+[INFO]-[2018/10/15 08:48:05] Total 3700 files processed
+[INFO]-[2018/10/15 08:48:05] Total 3700 files processed
+[INFO]-[2018/10/15 08:48:06] Total 3750 files processed
+[INFO]-[2018/10/15 08:48:06] Total 3750 files processed
+[INFO]-[2018/10/15 08:48:06] Total 3800 files processed
+[INFO]-[2018/10/15 08:48:06] Total 3800 files processed
+[INFO]-[2018/10/15 08:48:07] Total 3850 files processed
+[INFO]-[2018/10/15 08:48:07] Total 3850 files processed
+[INFO]-[2018/10/15 08:48:08] Total 3900 files processed
+[INFO]-[2018/10/15 08:48:08] Total 3900 files processed
+[INFO]-[2018/10/15 08:48:08] Total 3950 files processed
+[INFO]-[2018/10/15 08:48:08] Total 3950 files processed
+[INFO]-[2018/10/15 08:48:09] Total 4000 files processed
+[INFO]-[2018/10/15 08:48:09] Total 4000 files processed
+[INFO]-[2018/10/15 08:48:09] Total 4050 files processed
+[INFO]-[2018/10/15 08:48:09] Total 4050 files processed
+[INFO]-[2018/10/15 08:48:10] Total 4100 files processed
+[INFO]-[2018/10/15 08:48:10] Total 4100 files processed
+[INFO]-[2018/10/15 08:48:11] Total 4150 files processed
+[INFO]-[2018/10/15 08:48:11] Total 4150 files processed
+[INFO]-[2018/10/15 08:48:11] Total 4200 files processed
+[INFO]-[2018/10/15 08:48:11] Total 4200 files processed
+[INFO]-[2018/10/15 08:48:12] Total 4250 files processed
+[INFO]-[2018/10/15 08:48:12] Total 4250 files processed
+[INFO]-[2018/10/15 08:48:12] Total 4300 files processed
+[INFO]-[2018/10/15 08:48:12] Total 4300 files processed
+[INFO]-[2018/10/15 08:48:13] Total 4350 files processed
+[INFO]-[2018/10/15 08:48:13] Total 4350 files processed
+[INFO]-[2018/10/15 08:48:13] Total 4400 files processed
+[INFO]-[2018/10/15 08:48:13] Total 4400 files processed
+[INFO]-[2018/10/15 08:48:14] Total 4450 files processed
+[INFO]-[2018/10/15 08:48:14] Total 4450 files processed
+[INFO]-[2018/10/15 08:48:14] Total 4500 files processed
+[INFO]-[2018/10/15 08:48:14] Total 4500 files processed
+[INFO]-[2018/10/15 08:48:15] Total 4550 files processed
+[INFO]-[2018/10/15 08:48:15] Total 4550 files processed
+[INFO]-[2018/10/15 08:48:15] Total 4600 files processed
+[INFO]-[2018/10/15 08:48:15] Total 4600 files processed
+[INFO]-[2018/10/15 08:48:16] Total 4650 files processed
+[INFO]-[2018/10/15 08:48:16] Total 4650 files processed
+[INFO]-[2018/10/15 08:48:17] Total 4700 files processed
+[INFO]-[2018/10/15 08:48:17] Total 4700 files processed
+[INFO]-[2018/10/15 08:48:18] Total 4750 files processed
+[INFO]-[2018/10/15 08:48:18] Total 4750 files processed
+[INFO]-[2018/10/15 08:48:18] Total 4800 files processed
+[INFO]-[2018/10/15 08:48:18] Total 4800 files processed
+[INFO]-[2018/10/15 08:48:19] Total 4850 files processed
+[INFO]-[2018/10/15 08:48:19] Total 4850 files processed
+[INFO]-[2018/10/15 08:48:19] Total 4900 files processed
+[INFO]-[2018/10/15 08:48:19] Total 4900 files processed
+[INFO]-[2018/10/15 08:48:21] Total 4950 files processed
+[INFO]-[2018/10/15 08:48:21] Total 4950 files processed
+[INFO]-[2018/10/15 08:48:22] Total 5000 files processed
+[INFO]-[2018/10/15 08:48:22] Total 5000 files processed
+[INFO]-[2018/10/15 08:48:23] Total 5050 files processed
+[INFO]-[2018/10/15 08:48:23] Total 5050 files processed
+[INFO]-[2018/10/15 08:48:23] Total 5100 files processed
+[INFO]-[2018/10/15 08:48:23] Total 5100 files processed
+[INFO]-[2018/10/15 08:48:24] Total 5150 files processed
+[INFO]-[2018/10/15 08:48:24] Total 5150 files processed
+[INFO]-[2018/10/15 08:48:24] Total 5200 files processed
+[INFO]-[2018/10/15 08:48:24] Total 5200 files processed
+[INFO]-[2018/10/15 08:48:25] Total 5250 files processed
+[INFO]-[2018/10/15 08:48:25] Total 5250 files processed
+[INFO]-[2018/10/15 08:48:25] Total 5300 files processed
+[INFO]-[2018/10/15 08:48:25] Total 5300 files processed
+[INFO]-[2018/10/15 08:48:26] Total 5350 files processed
+[INFO]-[2018/10/15 08:48:26] Total 5350 files processed
+[INFO]-[2018/10/15 08:48:26] Total 5400 files processed
+[INFO]-[2018/10/15 08:48:26] Total 5400 files processed
+[INFO]-[2018/10/15 08:48:27] Total 5450 files processed
+[INFO]-[2018/10/15 08:48:27] Total 5450 files processed
+[INFO]-[2018/10/15 08:48:27] Total 5500 files processed
+[INFO]-[2018/10/15 08:48:27] Total 5500 files processed
+[INFO]-[2018/10/15 08:48:29] Total 5550 files processed
+[INFO]-[2018/10/15 08:48:29] Total 5550 files processed
+[INFO]-[2018/10/15 08:48:29] Total 5600 files processed
+[INFO]-[2018/10/15 08:48:29] Total 5600 files processed
+[INFO]-[2018/10/15 08:48:29] Total 5650 files processed
+[INFO]-[2018/10/15 08:48:29] Total 5650 files processed
+[INFO]-[2018/10/15 08:48:30] Total 5700 files processed
+[INFO]-[2018/10/15 08:48:30] Total 5700 files processed
+[INFO]-[2018/10/15 08:48:31] Total 5750 files processed
+[INFO]-[2018/10/15 08:48:31] Total 5750 files processed
+[INFO]-[2018/10/15 08:48:32] Total 5800 files processed
+[INFO]-[2018/10/15 08:48:32] Total 5800 files processed
+[INFO]-[2018/10/15 08:48:32] Total 5850 files processed
+[INFO]-[2018/10/15 08:48:32] Total 5850 files processed
+[INFO]-[2018/10/15 08:48:34] Total 5900 files processed
+[INFO]-[2018/10/15 08:48:34] Total 5900 files processed
+[INFO]-[2018/10/15 08:48:35] Total 5950 files processed
+[INFO]-[2018/10/15 08:48:35] Total 5950 files processed
+[INFO]-[2018/10/15 08:48:36] Total 6000 files processed
+[INFO]-[2018/10/15 08:48:36] Total 6000 files processed
+[INFO]-[2018/10/15 08:48:37] Total 6050 files processed
+[INFO]-[2018/10/15 08:48:37] Total 6050 files processed
+[INFO]-[2018/10/15 08:48:39] Total 6100 files processed
+[INFO]-[2018/10/15 08:48:39] Total 6100 files processed
+[INFO]-[2018/10/15 08:48:39] Total 6150 files processed
+[INFO]-[2018/10/15 08:48:39] Total 6150 files processed
+[INFO]-[2018/10/15 08:48:40] Total 6200 files processed
+[INFO]-[2018/10/15 08:48:40] Total 6200 files processed
+[INFO]-[2018/10/15 08:48:40] Total 6250 files processed
+[INFO]-[2018/10/15 08:48:40] Total 6250 files processed
+[INFO]-[2018/10/15 08:48:41] Total 6300 files processed
+[INFO]-[2018/10/15 08:48:41] Total 6300 files processed
+[INFO]-[2018/10/15 08:48:42] Total 6350 files processed
+[INFO]-[2018/10/15 08:48:42] Total 6350 files processed
+[INFO]-[2018/10/15 08:48:43] Total 6400 files processed
+[INFO]-[2018/10/15 08:48:43] Total 6400 files processed
+[INFO]-[2018/10/15 08:48:44] Total 6450 files processed
+[INFO]-[2018/10/15 08:48:44] Total 6450 files processed
+[INFO]-[2018/10/15 08:48:45] Total 6500 files processed
+[INFO]-[2018/10/15 08:48:45] Total 6500 files processed
+[INFO]-[2018/10/15 08:48:45] Total 6550 files processed
+[INFO]-[2018/10/15 08:48:45] Total 6550 files processed
+[INFO]-[2018/10/15 08:48:46] Total 6600 files processed
+[INFO]-[2018/10/15 08:48:46] Total 6600 files processed
+[INFO]-[2018/10/15 08:48:46] Total 6650 files processed
+[INFO]-[2018/10/15 08:48:46] Total 6650 files processed
+[INFO]-[2018/10/15 08:48:47] Total 6700 files processed
+[INFO]-[2018/10/15 08:48:47] Total 6700 files processed
+[INFO]-[2018/10/15 08:48:48] Total 6750 files processed
+[INFO]-[2018/10/15 08:48:48] Total 6750 files processed
+[INFO]-[2018/10/15 08:48:49] Total 6800 files processed
+[INFO]-[2018/10/15 08:48:49] Total 6800 files processed
+[INFO]-[2018/10/15 08:48:49] Total 6850 files processed
+[INFO]-[2018/10/15 08:48:49] Total 6850 files processed
+[INFO]-[2018/10/15 08:48:50] Total 6900 files processed
+[INFO]-[2018/10/15 08:48:50] Total 6900 files processed
+[INFO]-[2018/10/15 08:48:50] Total 6950 files processed
+[INFO]-[2018/10/15 08:48:50] Total 6950 files processed
+[INFO]-[2018/10/15 08:48:51] Total 7000 files processed
+[INFO]-[2018/10/15 08:48:51] Total 7000 files processed
+[INFO]-[2018/10/15 08:48:52] Total 7050 files processed
+[INFO]-[2018/10/15 08:48:52] Total 7050 files processed
+[INFO]-[2018/10/15 08:48:52] Total 7100 files processed
+[INFO]-[2018/10/15 08:48:52] Total 7100 files processed
+[INFO]-[2018/10/15 08:48:53] Total 7150 files processed
+[INFO]-[2018/10/15 08:48:53] Total 7150 files processed
+[INFO]-[2018/10/15 08:48:54] Total 7200 files processed
+[INFO]-[2018/10/15 08:48:54] Total 7200 files processed
+[INFO]-[2018/10/15 08:48:54] Total 7250 files processed
+[INFO]-[2018/10/15 08:48:54] Total 7250 files processed
+[INFO]-[2018/10/15 08:48:55] Total 7300 files processed
+[INFO]-[2018/10/15 08:48:55] Total 7300 files processed
+[INFO]-[2018/10/15 08:48:55] Total 7350 files processed
+[INFO]-[2018/10/15 08:48:55] Total 7350 files processed
+[INFO]-[2018/10/15 08:48:56] Total 7400 files processed
+[INFO]-[2018/10/15 08:48:56] Total 7400 files processed
+[INFO]-[2018/10/15 08:48:57] Total 7450 files processed
+[INFO]-[2018/10/15 08:48:57] Total 7450 files processed
+[INFO]-[2018/10/15 08:48:57] Total 7500 files processed
+[INFO]-[2018/10/15 08:48:57] Total 7500 files processed
+[INFO]-[2018/10/15 08:48:58] Total 7550 files processed
+[INFO]-[2018/10/15 08:48:58] Total 7550 files processed
+[INFO]-[2018/10/15 08:48:58] Total 7600 files processed
+[INFO]-[2018/10/15 08:48:58] Total 7600 files processed
+[INFO]-[2018/10/15 08:48:59] Total 7650 files processed
+[INFO]-[2018/10/15 08:48:59] Total 7650 files processed
+[INFO]-[2018/10/15 08:48:59] Total 7700 files processed
+[INFO]-[2018/10/15 08:48:59] Total 7700 files processed
+[INFO]-[2018/10/15 08:49:00] Total 7750 files processed
+[INFO]-[2018/10/15 08:49:00] Total 7750 files processed
+[INFO]-[2018/10/15 08:49:01] Total 7800 files processed
+[INFO]-[2018/10/15 08:49:01] Total 7800 files processed
+[INFO]-[2018/10/15 08:49:03] Total 7850 files processed
+[INFO]-[2018/10/15 08:49:03] Total 7850 files processed
+[INFO]-[2018/10/15 08:49:03] Total 7900 files processed
+[INFO]-[2018/10/15 08:49:03] Total 7900 files processed
+[INFO]-[2018/10/15 08:49:04] Total 7950 files processed
+[INFO]-[2018/10/15 08:49:04] Total 7950 files processed
+[INFO]-[2018/10/15 08:49:04] Total 8000 files processed
+[INFO]-[2018/10/15 08:49:04] Total 8000 files processed
+[INFO]-[2018/10/15 08:49:05] Total 8050 files processed
+[INFO]-[2018/10/15 08:49:05] Total 8050 files processed
+[INFO]-[2018/10/15 08:49:05] Total 8100 files processed
+[INFO]-[2018/10/15 08:49:05] Total 8100 files processed
+[INFO]-[2018/10/15 08:49:06] Total 8150 files processed
+[INFO]-[2018/10/15 08:49:06] Total 8150 files processed
+[INFO]-[2018/10/15 08:49:07] Total 8200 files processed
+[INFO]-[2018/10/15 08:49:07] Total 8200 files processed
+[INFO]-[2018/10/15 08:49:08] Total 8250 files processed
+[INFO]-[2018/10/15 08:49:08] Total 8250 files processed
+[INFO]-[2018/10/15 08:49:09] Total 8300 files processed
+[INFO]-[2018/10/15 08:49:09] Total 8300 files processed
+[INFO]-[2018/10/15 08:49:10] Total 8350 files processed
+[INFO]-[2018/10/15 08:49:10] Total 8350 files processed
+[INFO]-[2018/10/15 08:49:11] Total 8400 files processed
+[INFO]-[2018/10/15 08:49:11] Total 8400 files processed
+[INFO]-[2018/10/15 08:49:12] Total 8450 files processed
+[INFO]-[2018/10/15 08:49:12] Total 8450 files processed
+[INFO]-[2018/10/15 08:49:13] Total 8500 files processed
+[INFO]-[2018/10/15 08:49:13] Total 8500 files processed
+[INFO]-[2018/10/15 08:49:13] Total 8550 files processed
+[INFO]-[2018/10/15 08:49:13] Total 8550 files processed
+[INFO]-[2018/10/15 08:49:14] Total 8600 files processed
+[INFO]-[2018/10/15 08:49:14] Total 8600 files processed
+[INFO]-[2018/10/15 08:49:15] Total 8650 files processed
+[INFO]-[2018/10/15 08:49:15] Total 8650 files processed
+[INFO]-[2018/10/15 08:49:17] Total 8700 files processed
+[INFO]-[2018/10/15 08:49:17] Total 8700 files processed
+[INFO]-[2018/10/15 08:49:18] Total 8750 files processed
+[INFO]-[2018/10/15 08:49:18] Total 8750 files processed
+[INFO]-[2018/10/15 08:49:19] Total 8800 files processed
+[INFO]-[2018/10/15 08:49:19] Total 8800 files processed
+[INFO]-[2018/10/15 08:49:21] Total 8850 files processed
+[INFO]-[2018/10/15 08:49:21] Total 8850 files processed
+[INFO]-[2018/10/15 08:49:21] Total 8900 files processed
+[INFO]-[2018/10/15 08:49:21] Total 8900 files processed
+[INFO]-[2018/10/15 08:49:23] Total 8950 files processed
+[INFO]-[2018/10/15 08:49:23] Total 8950 files processed
+[INFO]-[2018/10/15 08:49:24] Total 9000 files processed
+[INFO]-[2018/10/15 08:49:24] Total 9000 files processed
+[INFO]-[2018/10/15 08:49:25] Total 9050 files processed
+[INFO]-[2018/10/15 08:49:25] Total 9050 files processed
+[INFO]-[2018/10/15 08:49:26] Total 9100 files processed
+[INFO]-[2018/10/15 08:49:26] Total 9100 files processed
+[INFO]-[2018/10/15 08:49:26] Total 9150 files processed
+[INFO]-[2018/10/15 08:49:26] Total 9150 files processed
+[INFO]-[2018/10/15 08:49:27] Total 9200 files processed
+[INFO]-[2018/10/15 08:49:27] Total 9200 files processed
+[INFO]-[2018/10/15 08:49:27] Total 9250 files processed
+[INFO]-[2018/10/15 08:49:27] Total 9250 files processed
+[INFO]-[2018/10/15 08:49:28] Total 9300 files processed
+[INFO]-[2018/10/15 08:49:28] Total 9300 files processed
+[INFO]-[2018/10/15 08:49:28] Total 9350 files processed
+[INFO]-[2018/10/15 08:49:28] Total 9350 files processed
+[INFO]-[2018/10/15 08:49:30] Total 9400 files processed
+[INFO]-[2018/10/15 08:49:30] Total 9400 files processed
+[INFO]-[2018/10/15 08:49:30] Total 9450 files processed
+[INFO]-[2018/10/15 08:49:30] Total 9450 files processed
+[INFO]-[2018/10/15 08:49:32] Total 9500 files processed
+[INFO]-[2018/10/15 08:49:32] Total 9500 files processed
+[INFO]-[2018/10/15 08:49:32] Total 9550 files processed
+[INFO]-[2018/10/15 08:49:32] Total 9550 files processed
+[INFO]-[2018/10/15 08:49:34] Total 9600 files processed
+[INFO]-[2018/10/15 08:49:34] Total 9600 files processed
+[INFO]-[2018/10/15 08:49:35] Total 9650 files processed
+[INFO]-[2018/10/15 08:49:35] Total 9650 files processed
+[INFO]-[2018/10/15 08:49:36] Total 9700 files processed
+[INFO]-[2018/10/15 08:49:36] Total 9700 files processed
+[INFO]-[2018/10/15 08:49:37] Total 9750 files processed
+[INFO]-[2018/10/15 08:49:37] Total 9750 files processed
+[INFO]-[2018/10/15 08:49:38] Total 9800 files processed
+[INFO]-[2018/10/15 08:49:38] Total 9800 files processed
+[INFO]-[2018/10/15 08:49:39] Total 9850 files processed
+[INFO]-[2018/10/15 08:49:39] Total 9850 files processed
+[INFO]-[2018/10/15 08:49:39] Total 9900 files processed
+[INFO]-[2018/10/15 08:49:39] Total 9900 files processed
+[INFO]-[2018/10/15 08:49:41] Total 9950 files processed
+[INFO]-[2018/10/15 08:49:41] Total 9950 files processed
+[INFO]-[2018/10/15 08:49:42] Total 10000 files processed
+[INFO]-[2018/10/15 08:49:42] Total 10000 files processed
+[INFO]-[2018/10/15 08:49:43] Total 10050 files processed
+[INFO]-[2018/10/15 08:49:43] Total 10050 files processed
+[INFO]-[2018/10/15 08:49:43] Total 10100 files processed
+[INFO]-[2018/10/15 08:49:43] Total 10100 files processed
+[INFO]-[2018/10/15 08:49:44] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/wp-content/plugins/woocommerce.zip -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/wp-content/plugins/woocommerce.zip
+[INFO]-[2018/10/15 08:49:45] Total 10150 files processed
+[INFO]-[2018/10/15 08:49:44] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/wp-content/plugins/woocommerce.zip -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/wp-content/plugins/woocommerce.zip
+[INFO]-[2018/10/15 08:49:45] Total 10150 files processed
+[INFO]-[2018/10/15 08:49:48] Total 10200 files processed
+[INFO]-[2018/10/15 08:49:48] Total 10200 files processed
+[INFO]-[2018/10/15 08:49:48] Total 10250 files processed
+[INFO]-[2018/10/15 08:49:48] Total 10250 files processed
+[INFO]-[2018/10/15 08:49:49] Total 10300 files processed
+[INFO]-[2018/10/15 08:49:49] Total 10300 files processed
+[INFO]-[2018/10/15 08:49:49] Total 10350 files processed
+[INFO]-[2018/10/15 08:49:49] Total 10350 files processed
+[INFO]-[2018/10/15 08:49:50] Total 10400 files processed
+[INFO]-[2018/10/15 08:49:50] Total 10400 files processed
+[INFO]-[2018/10/15 08:49:50] Total 10450 files processed
+[INFO]-[2018/10/15 08:49:50] Total 10450 files processed
+[INFO]-[2018/10/15 08:49:51] Total 10500 files processed
+[INFO]-[2018/10/15 08:49:51] Total 10500 files processed
+[INFO]-[2018/10/15 08:49:51] Total 10550 files processed
+[INFO]-[2018/10/15 08:49:51] Total 10550 files processed
+[INFO]-[2018/10/15 08:49:52] Total 10600 files processed
+[INFO]-[2018/10/15 08:49:52] Total 10600 files processed
+[INFO]-[2018/10/15 08:49:53] Total 10650 files processed
+[INFO]-[2018/10/15 08:49:53] Total 10650 files processed
+[INFO]-[2018/10/15 08:49:54] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/wp-content/plugins/wordfence/lib/GeoLite2-Country.mmdb -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/wp-content/plugins/wordfence/lib/GeoLite2-Country.mmdb
+[INFO]-[2018/10/15 08:49:55] Total 10700 files processed
+[INFO]-[2018/10/15 08:49:54] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/wp-content/plugins/wordfence/lib/GeoLite2-Country.mmdb -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/wp-content/plugins/wordfence/lib/GeoLite2-Country.mmdb
+[INFO]-[2018/10/15 08:49:55] Total 10700 files processed
+[INFO]-[2018/10/15 08:49:55] Total 10750 files processed
+[INFO]-[2018/10/15 08:49:55] Total 10750 files processed
+[INFO]-[2018/10/15 08:49:56] Total 10800 files processed
+[INFO]-[2018/10/15 08:49:56] Total 10800 files processed
+[INFO]-[2018/10/15 08:49:56] Total 10850 files processed
+[INFO]-[2018/10/15 08:49:56] Total 10850 files processed
+[INFO]-[2018/10/15 08:49:57] Total 10900 files processed
+[INFO]-[2018/10/15 08:49:57] Total 10900 files processed
+[INFO]-[2018/10/15 08:49:57] Total 10950 files processed
+[INFO]-[2018/10/15 08:49:57] Total 10950 files processed
+[INFO]-[2018/10/15 08:49:58] Total 11000 files processed
+[INFO]-[2018/10/15 08:49:58] Total 11000 files processed
+[INFO]-[2018/10/15 08:49:59] Total 11050 files processed
+[INFO]-[2018/10/15 08:49:59] Total 11050 files processed
+[INFO]-[2018/10/15 08:50:00] Total 11100 files processed
+[INFO]-[2018/10/15 08:50:00] Total 11100 files processed
+[INFO]-[2018/10/15 08:50:01] Total 11150 files processed
+[INFO]-[2018/10/15 08:50:01] Total 11150 files processed
+[INFO]-[2018/10/15 08:50:01] Total 11200 files processed
+[INFO]-[2018/10/15 08:50:01] Total 11200 files processed
+[INFO]-[2018/10/15 08:50:02] Total 11250 files processed
+[INFO]-[2018/10/15 08:50:02] Total 11250 files processed
+[INFO]-[2018/10/15 08:50:04] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/wp-content/wflogs/GeoLite2-Country.mmdb -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/wp-content/wflogs/GeoLite2-Country.mmdb
+[INFO]-[2018/10/15 08:50:05] Total 11300 files processed
+[INFO]-[2018/10/15 08:50:04] Trying to copy big file: /home/bukerzco/public_html/broomday.com/newdemo/wp-content/wflogs/GeoLite2-Country.mmdb -> /home/bukerzco/public_html/broomday.com/newdemo/testdemo/wp-content/wflogs/GeoLite2-Country.mmdb
+[INFO]-[2018/10/15 08:50:05] Total 11300 files processed
+[INFO]-[2018/10/15 08:50:07] Total 11350 files processed
+[INFO]-[2018/10/15 08:50:07] Total 11350 files processed
+[INFO]-[2018/10/15 08:50:08] Total 11400 files processed
+[INFO]-[2018/10/15 08:50:08] Total 11400 files processed
+[INFO]-[2018/10/15 08:50:09] Total 11450 files processed
+[INFO]-[2018/10/15 08:50:09] Total 11450 files processed
+[INFO]-[2018/10/15 08:50:09] Total 11500 files processed
+[INFO]-[2018/10/15 08:50:09] Total 11500 files processed
+[INFO]-[2018/10/15 08:50:10] Total 11550 files processed
+[INFO]-[2018/10/15 08:50:10] Total 11550 files processed
+[INFO]-[2018/10/15 08:50:10] Total 11600 files processed
+[INFO]-[2018/10/15 08:50:10] Total 11600 files processed
+[INFO]-[2018/10/15 08:50:12] Total 11650 files processed
+[INFO]-[2018/10/15 08:50:12] Total 11650 files processed
+[INFO]-[2018/10/15 08:50:12] Total 11700 files processed
+[INFO]-[2018/10/15 08:50:12] Total 11700 files processed
+[INFO]-[2018/10/15 08:50:12] Total 11750 files processed
+[INFO]-[2018/10/15 08:50:12] Total 11750 files processed
+[INFO]-[2018/10/15 08:50:14] Total 11800 files processed
+[INFO]-[2018/10/15 08:50:14] Total 11800 files processed
+[INFO]-[2018/10/15 08:50:14] Total 11850 files processed
+[INFO]-[2018/10/15 08:50:14] Total 11850 files processed
+[INFO]-[2018/10/15 08:50:16] Total 11900 files processed
+[INFO]-[2018/10/15 08:50:16] Total 11900 files processed
+[INFO]-[2018/10/15 08:50:17] Total 11950 files processed
+[INFO]-[2018/10/15 08:50:17] Total 11950 files processed
+[INFO]-[2018/10/15 08:50:18] Total 12000 files processed
+[INFO]-[2018/10/15 08:50:18] Total 12000 files processed
+[INFO]-[2018/10/15 08:50:19] Total 12050 files processed
+[INFO]-[2018/10/15 08:50:19] Total 12050 files processed
+[INFO]-[2018/10/15 08:50:19] Total 12100 files processed
+[INFO]-[2018/10/15 08:50:19] Total 12100 files processed
+[INFO]-[2018/10/15 08:50:21] Total 12150 files processed
+[INFO]-[2018/10/15 08:50:21] Total 12150 files processed
+[INFO]-[2018/10/15 08:50:21] Total 12200 files processed
+[INFO]-[2018/10/15 08:50:21] Total 12200 files processed
+[INFO]-[2018/10/15 08:50:22] Total 12250 files processed
+[INFO]-[2018/10/15 08:50:22] Total 12250 files processed
+[INFO]-[2018/10/15 08:50:24] Total 12300 files processed
+[INFO]-[2018/10/15 08:50:24] Total 12300 files processed
+[INFO]-[2018/10/15 08:50:24] Total 12350 files processed
+[INFO]-[2018/10/15 08:50:24] Total 12350 files processed
+[INFO]-[2018/10/15 08:50:25] Total 12400 files processed
+[INFO]-[2018/10/15 08:50:25] Total 12400 files processed
+[INFO]-[2018/10/15 08:50:26] Total 12450 files processed
+[INFO]-[2018/10/15 08:50:26] Total 12450 files processed
+[INFO]-[2018/10/15 08:50:27] Total 12500 files processed
+[INFO]-[2018/10/15 08:50:27] Total 12500 files processed
+[INFO]-[2018/10/15 08:50:28] Total 12550 files processed
+[INFO]-[2018/10/15 08:50:28] Total 12550 files processed
+[INFO]-[2018/10/15 08:50:28] Total 12600 files processed
+[INFO]-[2018/10/15 08:50:28] Total 12600 files processed
+[INFO]-[2018/10/15 08:50:29] Total 12650 files processed
+[INFO]-[2018/10/15 08:50:29] Total 12650 files processed
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/15 08:50:30] Copying files finished
+[INFO]-[2018/10/15 08:50:30] Copying files finished
+[INFO]-[2018/10/15 08:50:31] Preparing Data Step0: Check if wp-config.php is located in root path
+[INFO]-[2018/10/15 08:50:31] Preparing Data Step0: Skip it
+[INFO]-[2018/10/15 08:50:31] Preparing Data Step0: Check if wp-config.php is located in root path
+[INFO]-[2018/10/15 08:50:31] Preparing Data Step0: Skip it
+[INFO]-[2018/10/15 08:50:31] Preparing Data Step1: Updating siteurl and homeurl in wpstg3_options 
+[INFO]-[2018/10/15 08:50:31] Preparing Data Step1: Updating siteurl and homeurl to https://www.broomday.com/newdemo/testdemo
+[INFO]-[2018/10/15 08:50:31] Preparing Data Step1: Updating siteurl and homeurl in wpstg3_options 
+[INFO]-[2018/10/15 08:50:31] Preparing Data Step1: Updating siteurl and homeurl to https://www.broomday.com/newdemo/testdemo
+[INFO]-[2018/10/15 08:50:31] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:31] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:31] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:31] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:32] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:32] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:32] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:32] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:32] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:32] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:32] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:32] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:33] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:33] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:33] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:33] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:33] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:33] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:33] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:33] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:34] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:34] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:34] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:34] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:34] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:34] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:34] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:34] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:35] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:35] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:35] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:35] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:35] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:35] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:35] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:35] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:36] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:36] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:36] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:36] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:36] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:36] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:36] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:36] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:36] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:36] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:36] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:36] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:37] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:37] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:37] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:37] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:37] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:37] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:37] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:37] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:38] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:38] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:38] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:38] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:38] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:38] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:38] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:38] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:39] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:39] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:39] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:39] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:39] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:39] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:39] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:39] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:40] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:40] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:40] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:40] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:40] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:40] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:40] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:40] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:40] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:40] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:40] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:40] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:41] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:41] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:41] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:41] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:41] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:41] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:41] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:41] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:42] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:42] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:42] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:42] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:42] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:42] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:42] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:42] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:43] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:43] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:43] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:43] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:43] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:43] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:43] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:43] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:44] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:44] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:44] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:44] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:44] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:44] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:44] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:44] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:45] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:45] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:45] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:45] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:45] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:45] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:45] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:45] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:45] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:45] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:45] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:45] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:46] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:46] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:46] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:46] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:46] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:46] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:46] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:46] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:47] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:47] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:47] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:47] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:47] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:47] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:47] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:47] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:48] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:48] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:48] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:48] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:48] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:48] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:48] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:48] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:49] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:49] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:49] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:49] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:49] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:49] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:49] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:49] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:49] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:49] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:49] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:49] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:50] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:50] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:50] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:50] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:50] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:50] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:50] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:50] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:51] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:51] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:51] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:51] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:51] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:51] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:51] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:51] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:52] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:52] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:52] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:52] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:52] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:52] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:52] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:52] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:53] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:53] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:53] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:53] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:53] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:53] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:53] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:53] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:54] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:54] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:54] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:54] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:54] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:54] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:54] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:54] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:55] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:55] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:55] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:55] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:55] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:55] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:55] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:55] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:55] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:55] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:55] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:55] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:56] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:56] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:56] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:56] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:56] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:56] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:56] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:56] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:57] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:57] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:57] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:57] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:57] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:57] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:57] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:57] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:58] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:58] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:58] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:58] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:58] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:58] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:58] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:58] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:59] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:59] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:59] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:59] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:59] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:59] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:59] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:59] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:59] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:59] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:50:59] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:50:59] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:00] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:00] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:00] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:00] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:00] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:00] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:00] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:00] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:01] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:01] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:01] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:01] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:01] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:01] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:01] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:01] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:02] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:02] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:02] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:02] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:02] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:02] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:02] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:02] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:03] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:03] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:03] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:03] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:03] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:03] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:03] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:03] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:04] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:04] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:04] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:04] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:04] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:04] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:04] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:04] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:04] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:04] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:04] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:04] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:05] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:05] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:05] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:05] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:05] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:05] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:05] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:05] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:06] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:06] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:06] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg3_options 
+[ERROR]-[2018/10/15 08:51:06] Preparing Data Step2: Failed to update wpstg_is_staging_site in wpstg3_options Duplicate entry 'wpstg_is_staging_site' for key 'option_name'
+[INFO]-[2018/10/15 08:51:08] Delete staging site: /home/bukerzco/public_html/broomday.com/newdemo/testdemo
+[INFO]-[2018/10/15 08:51:09] Verifying existing clones...
+[INFO]-[2018/10/15 08:51:09] Existing clones verified!
+[INFO]-[2018/10/15 08:51:08] Delete staging site: /home/bukerzco/public_html/broomday.com/newdemo/testdemo
+[INFO]-[2018/10/15 08:51:09] Verifying existing clones...
+[INFO]-[2018/10/15 08:51:09] Existing clones verified!

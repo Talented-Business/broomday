@@ -1,0 +1,343 @@
+2019-06-17T02:36:25+00:00 CRITICAL Uncaught Error: Call to undefined function WC_Order() in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php:4483
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(21): send_email_schedule_customer_broomday(13898, 115)
+#1 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(6): testing_send_email_schedule_customer_broomday()
+#2 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(286): testing(Object(WP))
+#3 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#5 G:\webapp\www\wc\broomday\wp-includes\class-wp.php(750): do_action_ref_array('wp', Array)
+#6 G:\webapp\www\wc\broomday\wp-includes\functions.php(1105): WP->main('')
+#7 G:\webapp\www\wc\broomday\wp-blog-header.php(16): wp()
+#8 G:\webapp\www\wc\broomday\index.php(17): require('G:\\webapp\\www\\w...')
+#9 {main}
+  thrown en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4483
+
+2019-06-17T02:37:27+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order::get_customer() in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php:4484
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(21): send_email_schedule_customer_broomday(13898, 115)
+#1 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(6): testing_send_email_schedule_customer_broomday()
+#2 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(286): testing(Object(WP))
+#3 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#5 G:\webapp\www\wc\broomday\wp-includes\class-wp.php(750): do_action_ref_array('wp', Array)
+#6 G:\webapp\www\wc\broomday\wp-includes\functions.php(1105): WP->main('')
+#7 G:\webapp\www\wc\broomday\wp-blog-header.php(16): wp()
+#8 G:\webapp\www\wc\broomday\index.php(17): require('G:\\webapp\\www\\w...')
+#9 {main}
+  thrown en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4484
+
+2019-06-17T02:41:05+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order::get_billing_address() in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php:4484
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(21): send_email_schedule_customer_broomday(13898, 115)
+#1 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(6): testing_send_email_schedule_customer_broomday()
+#2 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(286): testing(Object(WP))
+#3 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#5 G:\webapp\www\wc\broomday\wp-includes\class-wp.php(750): do_action_ref_array('wp', Array)
+#6 G:\webapp\www\wc\broomday\wp-includes\functions.php(1105): WP->main('')
+#7 G:\webapp\www\wc\broomday\wp-blog-header.php(16): wp()
+#8 G:\webapp\www\wc\broomday\index.php(17): require('G:\\webapp\\www\\w...')
+#9 {main}
+  thro en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4484
+
+2019-06-17T02:41:31+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Order::get_billing_address() in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php:4484
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(21): send_email_schedule_customer_broomday(13898, 115)
+#1 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(6): testing_send_email_schedule_customer_broomday()
+#2 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(286): testing(Object(WP))
+#3 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#5 G:\webapp\www\wc\broomday\wp-includes\class-wp.php(750): do_action_ref_array('wp', Array)
+#6 G:\webapp\www\wc\broomday\wp-includes\functions.php(1105): WP->main('')
+#7 G:\webapp\www\wc\broomday\wp-blog-header.php(16): wp()
+#8 G:\webapp\www\wc\broomday\index.php(17): require('G:\\webapp\\www\\w...')
+#9 {main}
+  thro en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4484
+
+2019-06-17T07:02:53+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on integer in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\wc\woo.php:23
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php(4493): get_orders_employee(115)
+#1 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(21): send_email_schedule_customer_broomday(13898, 115)
+#2 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(6): testing_send_email_schedule_customer_broomday()
+#3 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(286): testing(Object(WP))
+#4 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#6 G:\webapp\www\wc\broomday\wp-includes\class-wp.php(750): do_action_ref_array('wp', Array)
+#7 G:\webapp\www\wc\broomday\wp-includes\functions.php(1105): WP->main('')
+#8 G:\webapp\www\wc\broomday\wp-blog-header.php(16): wp( en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\wc\woo.php en la línea 23
+
+2019-06-17T07:05:37+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on integer in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\wc\woo.php:23
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php(4493): get_orders_employee(115)
+#1 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(21): send_email_schedule_customer_broomday(13898, 115)
+#2 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(6): testing_send_email_schedule_customer_broomday()
+#3 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(286): testing(Object(WP))
+#4 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#6 G:\webapp\www\wc\broomday\wp-includes\class-wp.php(750): do_action_ref_array('wp', Array)
+#7 G:\webapp\www\wc\broomday\wp-includes\functions.php(1105): WP->main('')
+#8 G:\webapp\www\wc\broomday\wp-blog-header.php(16): wp( en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\wc\woo.php en la línea 23
+
+2019-06-17T07:06:05+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on integer in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\wc\woo.php:23
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php(4493): get_orders_employee(115)
+#1 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(21): send_email_schedule_customer_broomday(13898, 115)
+#2 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(6): testing_send_email_schedule_customer_broomday()
+#3 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(286): testing(Object(WP))
+#4 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#6 G:\webapp\www\wc\broomday\wp-includes\class-wp.php(750): do_action_ref_array('wp', Array)
+#7 G:\webapp\www\wc\broomday\wp-includes\functions.php(1105): WP->main('')
+#8 G:\webapp\www\wc\broomday\wp-blog-header.php(16): wp( en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\wc\woo.php en la línea 23
+
+2019-06-17T07:06:25+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on integer in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\wc\woo.php:23
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php(4493): get_orders_employee(115)
+#1 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(21): send_email_schedule_customer_broomday(13898, 115)
+#2 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(6): testing_send_email_schedule_customer_broomday()
+#3 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(286): testing(Object(WP))
+#4 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#6 G:\webapp\www\wc\broomday\wp-includes\class-wp.php(750): do_action_ref_array('wp', Array)
+#7 G:\webapp\www\wc\broomday\wp-includes\functions.php(1105): WP->main('')
+#8 G:\webapp\www\wc\broomday\wp-blog-header.php(16): wp( en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\wc\woo.php en la línea 23
+
+2019-06-17T07:07:16+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on integer in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\wc\woo.php:23
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php(4493): get_orders_employee(115)
+#1 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(21): send_email_schedule_customer_broomday(13898, 115)
+#2 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(6): testing_send_email_schedule_customer_broomday()
+#3 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(286): testing(Object(WP))
+#4 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#6 G:\webapp\www\wc\broomday\wp-includes\class-wp.php(750): do_action_ref_array('wp', Array)
+#7 G:\webapp\www\wc\broomday\wp-includes\functions.php(1105): WP->main('')
+#8 G:\webapp\www\wc\broomday\wp-blog-header.php(16): wp( en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\wc\woo.php en la línea 23
+
+2019-06-17T07:09:01+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on integer in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\wc\woo.php:23
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php(4493): get_orders_employee(115)
+#1 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(21): send_email_schedule_customer_broomday(13898, 115)
+#2 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(6): testing_send_email_schedule_customer_broomday()
+#3 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(286): testing(Object(WP))
+#4 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#6 G:\webapp\www\wc\broomday\wp-includes\class-wp.php(750): do_action_ref_array('wp', Array)
+#7 G:\webapp\www\wc\broomday\wp-includes\functions.php(1105): WP->main('')
+#8 G:\webapp\www\wc\broomday\wp-blog-header.php(16): wp( en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\wc\woo.php en la línea 23
+
+2019-06-17T07:09:30+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on integer in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\wc\woo.php:23
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php(4493): get_orders_employee(115)
+#1 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(21): send_email_schedule_customer_broomday(13898, 115)
+#2 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(6): testing_send_email_schedule_customer_broomday()
+#3 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(286): testing(Object(WP))
+#4 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#6 G:\webapp\www\wc\broomday\wp-includes\class-wp.php(750): do_action_ref_array('wp', Array)
+#7 G:\webapp\www\wc\broomday\wp-includes\functions.php(1105): WP->main('')
+#8 G:\webapp\www\wc\broomday\wp-blog-header.php(16): wp( en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\wc\woo.php en la línea 23
+
+2019-06-17T08:15:10+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4475
+
+2019-06-17T08:20:14+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function send_email_schedule_customer_broomday(), 1 passed in G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php on line 288 and exactly 2 expected in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php:4484
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(288): send_email_schedule_customer_broomday(13898)
+#1 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 G:\webapp\www\wc\broomday\wp-cron.php(133): do_action_ref_array('send_email_sche...', Array)
+#4 {main}
+  thrown en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4484
+
+2019-06-17T08:30:02+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function send_email_schedule_customer_broomday(), 1 passed in G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php on line 288 and exactly 2 expected in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php:4483
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(288): send_email_schedule_customer_broomday(13898)
+#1 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 G:\webapp\www\wc\broomday\wp-cron.php(133): do_action_ref_array('send_email_sche...', Array)
+#4 {main}
+  thrown en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4483
+
+2019-06-17T08:34:08+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function send_email_schedule_customer_broomday(), 1 passed in G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php on line 288 and exactly 2 expected in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php:4483
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(288): send_email_schedule_customer_broomday(13898)
+#1 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 G:\webapp\www\wc\broomday\wp-cron.php(133): do_action_ref_array('send_email_sche...', Array)
+#4 {main}
+  thrown en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4483
+
+2019-06-17T08:39:15+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function send_email_schedule_customer_broomday(), 1 passed in G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php on line 288 and exactly 2 expected in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php:4483
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(288): send_email_schedule_customer_broomday(13898)
+#1 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 G:\webapp\www\wc\broomday\wp-cron.php(133): do_action_ref_array('send_email_sche...', Array)
+#4 {main}
+  thrown en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4483
+
+2019-06-17T08:41:01+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function send_email_schedule_customer_broomday(), 1 passed in G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php on line 288 and exactly 2 expected in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php:4483
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(288): send_email_schedule_customer_broomday(13898)
+#1 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 G:\webapp\www\wc\broomday\wp-cron.php(133): do_action_ref_array('send_email_sche...', Array)
+#4 {main}
+  thrown en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4483
+
+2019-06-17T08:43:37+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function send_email_schedule_customer_broomday(), 1 passed in G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php on line 288 and exactly 2 expected in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php:4483
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(288): send_email_schedule_customer_broomday(13898)
+#1 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 G:\webapp\www\wc\broomday\wp-cron.php(133): do_action_ref_array('send_email_sche...', Array)
+#4 {main}
+  thrown en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4483
+
+2019-06-17T08:54:08+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function send_email_schedule_customer_broomday(), 1 passed in G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php on line 288 and exactly 2 expected in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php:4483
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(288): send_email_schedule_customer_broomday(13898)
+#1 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 G:\webapp\www\wc\broomday\wp-cron.php(133): do_action_ref_array('send_email_sche...', Array)
+#4 {main}
+  thrown en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4483
+
+2019-06-17T08:55:39+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function send_email_schedule_customer_broomday(), 1 passed in G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php on line 288 and exactly 2 expected in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php:4483
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(288): send_email_schedule_customer_broomday(13898)
+#1 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 G:\webapp\www\wc\broomday\wp-cron.php(133): do_action_ref_array('send_email_sche...', Array)
+#4 {main}
+  thrown en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4483
+
+2019-06-17T08:56:43+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function send_email_schedule_customer_broomday(), 1 passed in G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php on line 288 and exactly 2 expected in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php:4483
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(288): send_email_schedule_customer_broomday(13898)
+#1 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 G:\webapp\www\wc\broomday\wp-cron.php(133): do_action_ref_array('my_new_event', Array)
+#4 {main}
+  thrown en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4483
+
+2019-06-17T08:58:00+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function send_email_schedule_customer_broomday(), 1 passed in G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php on line 288 and exactly 2 expected in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php:4483
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(288): send_email_schedule_customer_broomday(13898)
+#1 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 G:\webapp\www\wc\broomday\wp-cron.php(133): do_action_ref_array('broomday_send_e...', Array)
+#4 {main}
+  thrown en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4483
+
+2019-06-17T08:58:01+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function send_email_schedule_customer_broomday(), 1 passed in G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php on line 288 and exactly 2 expected in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php:4483
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(288): send_email_schedule_customer_broomday(13898)
+#1 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 G:\webapp\www\wc\broomday\wp-cron.php(133): do_action_ref_array('broomday_send_e...', Array)
+#4 {main}
+  thrown en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4483
+
+2019-06-17T09:00:08+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function send_email_schedule_customer_broomday(), 1 passed in G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php on line 288 and exactly 2 expected in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php:4483
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(288): send_email_schedule_customer_broomday(13898)
+#1 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 G:\webapp\www\wc\broomday\wp-cron.php(133): do_action_ref_array('my_new_event', Array)
+#4 {main}
+  thrown en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4483
+
+2019-06-17T09:01:10+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function send_email_schedule_customer_broomday(), 1 passed in G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php on line 288 and exactly 2 expected in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php:4483
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(288): send_email_schedule_customer_broomday(13898)
+#1 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 G:\webapp\www\wc\broomday\wp-cron.php(133): do_action_ref_array('my_new_event', Array)
+#4 {main}
+  thrown en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4483
+
+2019-06-17T09:02:01+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function send_email_schedule_customer_broomday(), 0 passed in G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php on line 286 and exactly 2 expected in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php:4483
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(286): send_email_schedule_customer_broomday()
+#1 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 G:\webapp\www\wc\broomday\wp-cron.php(133): do_action_ref_array('my_new_event', Array)
+#4 {main}
+  thrown en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4483
+
+2019-06-17T09:02:02+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function send_email_schedule_customer_broomday(), 0 passed in G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php on line 286 and exactly 2 expected in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php:4483
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(286): send_email_schedule_customer_broomday()
+#1 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#3 G:\webapp\www\wc\broomday\wp-cron.php(133): do_action_ref_array('my_new_event', Array)
+#4 {main}
+  thrown en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4483
+
+2019-06-17T09:43:20+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on integer in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\wc\woo.php:23
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php(4503): get_orders_employee(115)
+#1 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(23): send_email_schedule_customer_broomday_event(17090, 115)
+#2 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(6): testing_send_email_schedule_customer_broomday_event()
+#3 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(286): testing(Object(WP))
+#4 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#6 G:\webapp\www\wc\broomday\wp-includes\class-wp.php(750): do_action_ref_array('wp', Array)
+#7 G:\webapp\www\wc\broomday\wp-includes\functions.php(1105): WP->main('')
+#8 G:\webapp\www\wc\broomday\wp-blog-header. en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\wc\woo.php en la línea 23
+
+2019-06-17T09:43:36+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on integer in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\wc\woo.php:23
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php(4503): get_orders_employee(115)
+#1 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(23): send_email_schedule_customer_broomday_event(17090, 115)
+#2 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(6): testing_send_email_schedule_customer_broomday_event()
+#3 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(286): testing(Object(WP))
+#4 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#6 G:\webapp\www\wc\broomday\wp-includes\class-wp.php(750): do_action_ref_array('wp', Array)
+#7 G:\webapp\www\wc\broomday\wp-includes\functions.php(1105): WP->main('')
+#8 G:\webapp\www\wc\broomday\wp-blog-header. en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\wc\woo.php en la línea 23
+
+2019-06-17T10:03:12+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on integer in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\wc\woo.php:23
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(26): get_orders_employee(115)
+#1 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(6): testing_get_orders_employee()
+#2 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(286): testing(Object(WP))
+#3 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#5 G:\webapp\www\wc\broomday\wp-includes\class-wp.php(750): do_action_ref_array('wp', Array)
+#6 G:\webapp\www\wc\broomday\wp-includes\functions.php(1105): WP->main('')
+#7 G:\webapp\www\wc\broomday\wp-blog-header.php(16): wp()
+#8 G:\webapp\www\wc\broomday\index.php(17): require('G:\\webapp\\www\\w...')
+#9 {main}
+  thrown en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\wc\woo.php en la línea 23
+
+2019-06-17T10:04:07+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on integer in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\wc\woo.php:23
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(26): get_orders_employee(115)
+#1 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(6): testing_get_orders_employee()
+#2 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(286): testing(Object(WP))
+#3 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#5 G:\webapp\www\wc\broomday\wp-includes\class-wp.php(750): do_action_ref_array('wp', Array)
+#6 G:\webapp\www\wc\broomday\wp-includes\functions.php(1105): WP->main('')
+#7 G:\webapp\www\wc\broomday\wp-blog-header.php(16): wp()
+#8 G:\webapp\www\wc\broomday\index.php(17): require('G:\\webapp\\www\\w...')
+#9 {main}
+  thrown en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\wc\woo.php en la línea 23
+
+2019-06-17T10:04:50+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on integer in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\wc\woo.php:23
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(26): get_orders_employee(115)
+#1 G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\test\test.php(6): testing_get_orders_employee()
+#2 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(286): testing(Object(WP))
+#3 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 G:\webapp\www\wc\broomday\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#5 G:\webapp\www\wc\broomday\wp-includes\class-wp.php(750): do_action_ref_array('wp', Array)
+#6 G:\webapp\www\wc\broomday\wp-includes\functions.php(1105): WP->main('')
+#7 G:\webapp\www\wc\broomday\wp-blog-header.php(16): wp()
+#8 G:\webapp\www\wc\broomday\index.php(17): require('G:\\webapp\\www\\w...')
+#9 {main}
+  thrown en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\wc\woo.php en la línea 23
+

@@ -1,0 +1,287 @@
+2019-06-15T09:20:09+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:3210
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): renewal_order_update_date(NULL, Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-renewal-functions.php(32): do_action('woocommerce_sub...', NULL, Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(120): wcs_create_renewal_order(Object(WC_Subscription))
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerc in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 3210
+
+2019-06-15T09:20:19+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:3210
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): renewal_order_update_date(NULL, Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-renewal-functions.php(32): do_action('woocommerce_sub...', NULL, Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(120): wcs_create_renewal_order(Object(WC_Subscription))
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerc in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 3210
+
+2019-06-15T09:22:26+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:3210
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): renewal_order_update_date(NULL, Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-renewal-functions.php(32): do_action('woocommerce_sub...', NULL, Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(120): wcs_create_renewal_order(Object(WC_Subscription))
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerc in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 3210
+
+2019-06-15T09:31:30+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:3210
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): renewal_order_update_date(NULL, Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-renewal-functions.php(32): do_action('woocommerce_sub...', NULL, Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(120): wcs_create_renewal_order(Object(WC_Subscription))
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerc in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 3210
+
+2019-06-15T09:35:00+00:00 CRITICAL Uncaught Error: Call to a member function get_total() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php:134
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(89): WC_Subscriptions_Manager::process_renewal(15691, 'active', 'Subscription re...')
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): WC_Subscriptions_Manager::prepare_renewal(15691)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/admin/class-wcs-admin-meta-boxes.php(175): do_action('woocommerce_sch...', 15691)
+#5 /home/bukerzco/ in /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php on line 134
+
+2019-06-15T09:39:53+00:00 CRITICAL Uncaught Error: Call to a member function get_total() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php:134
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(89): WC_Subscriptions_Manager::process_renewal(15691, 'active', 'Subscription re...')
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): WC_Subscriptions_Manager::prepare_renewal(15691)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/admin/class-wcs-admin-meta-boxes.php(175): do_action('woocommerce_sch...', 15691)
+#5 /home/bukerzco/ in /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php on line 134
+
+2019-06-15T09:40:58+00:00 CRITICAL Uncaught Error: Call to a member function get_total() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php:134
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(89): WC_Subscriptions_Manager::process_renewal(15691, 'active', 'Subscription re...')
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): WC_Subscriptions_Manager::prepare_renewal(15691)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/admin/class-wcs-admin-meta-boxes.php(175): do_action('woocommerce_sch...', 15691)
+#5 /home/bukerzco/ in /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php on line 134
+
+2019-06-15T09:59:27+00:00 CRITICAL Uncaught Error: Call to a member function get_total() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php:134
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(89): WC_Subscriptions_Manager::process_renewal(15691, 'active', 'Subscription re...')
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): WC_Subscriptions_Manager::prepare_renewal(15691)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/admin/class-wcs-admin-meta-boxes.php(175): do_action('woocommerce_sch...', 15691)
+#5 /home/bukerzco/ in /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php on line 134
+
+2019-06-15T11:41:39+00:00 CRITICAL Uncaught Error: Call to a member function get_total() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php:134
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(89): WC_Subscriptions_Manager::process_renewal(15691, 'active', 'Subscription re...')
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): WC_Subscriptions_Manager::prepare_renewal(15691)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/admin/class-wcs-admin-meta-boxes.php(175): do_action('woocommerce_sch...', 15691)
+#5 /home/bukerzco/ in /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php on line 134
+
+2019-06-15T11:46:04+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:3210
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): renewal_order_update_date(NULL, Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-renewal-functions.php(31): do_action('woocommerce_sub...', NULL, Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(120): wcs_create_renewal_order(Object(WC_Subscription))
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerc in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 3210
+
+2019-06-15T11:48:51+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Subscription as array in /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-order-functions.php:242
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-renewal-functions.php(29): wcs_create_order_from_subscription(Object(WC_Subscription), 'renewal_order')
+#1 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(120): wcs_create_renewal_order(Object(WC_Subscription))
+#2 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(89): WC_Subscriptions_Manager::process_renewal(15691, 'active', 'Subscription re...')
+#3 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): WC_Subscriptions_Manager::prepare_renewal(15691)
+#4 /home/bukerzco/publ in /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-order-functions.php on line 242
+
+2019-06-15T11:55:03+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:3210
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): renewal_order_update_date(NULL, Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-renewal-functions.php(31): do_action('woocommerce_sub...', NULL, Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(120): wcs_create_renewal_order(Object(WC_Subscription))
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerc in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 3210
+
+2019-06-15T12:00:43+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:3210
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): renewal_order_update_date(NULL, Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-renewal-functions.php(31): do_action('woocommerce_sub...', NULL, Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(120): wcs_create_renewal_order(Object(WC_Subscription))
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerc en /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php en la línea 3210
+
+2019-06-15T12:08:45+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:3210
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): renewal_order_update_date(NULL, Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-renewal-functions.php(31): do_action('woocommerce_sub...', NULL, Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(120): wcs_create_renewal_order(Object(WC_Subscription))
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerc in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 3210
+
+2019-06-15T12:10:50+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:3210
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): renewal_order_update_date(NULL, Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-renewal-functions.php(31): do_action('woocommerce_sub...', NULL, Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(120): wcs_create_renewal_order(Object(WC_Subscription))
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerc in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 3210
+
+2019-06-15T12:12:41+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:4338
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php(4350): get_subscription_title(Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): email_heading_new_order_broomday('NUEVA ORDEN DE ...', Object(WC_Subscription))
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(208): WP_Hook->apply_filters('NUEVA ORDEN DE ...', Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/emails/class-wc-email.php(363): apply_filters('woocommerce_ema...', 'NUEVA ORDEN DE ...', Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(114): WC_Email->get_heading()
+#5 /home/bukerzco/public_html/broomday.c in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 4338
+
+2019-06-15T12:13:34+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:4338
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php(4350): get_subscription_title(Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): email_heading_new_order_broomday('NUEVA ORDEN DE ...', Object(WC_Subscription))
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(208): WP_Hook->apply_filters('NUEVA ORDEN DE ...', Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/emails/class-wc-email.php(363): apply_filters('woocommerce_ema...', 'NUEVA ORDEN DE ...', Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce/includes/emails/class-wc-email-new-order.php(114): WC_Email->get_heading()
+#5 /home/bukerzco/public_html/broomday.c in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 4338
+
+2019-06-15T12:13:51+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:3210
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): renewal_order_update_date(NULL, Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-renewal-functions.php(31): do_action('woocommerce_sub...', NULL, Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/admin/class-wcs-admin-meta-boxes.php(189): wcs_create_renewal_order(Object(WC_Subscription))
+#5 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.p in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 3210
+
+2019-06-15T12:18:23+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:3210
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): renewal_order_update_date(NULL, Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-renewal-functions.php(31): do_action('woocommerce_sub...', NULL, Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(120): wcs_create_renewal_order(Object(WC_Subscription))
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerc in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 3210
+
+2019-06-15T12:20:01+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:3210
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): renewal_order_update_date(NULL, Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-renewal-functions.php(31): do_action('woocommerce_sub...', NULL, Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(120): wcs_create_renewal_order(Object(WC_Subscription))
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerc in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 3210
+
+2019-06-15T12:27:43+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:3210
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): renewal_order_update_date(NULL, Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-renewal-functions.php(31): do_action('woocommerce_sub...', NULL, Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(120): wcs_create_renewal_order(Object(WC_Subscription))
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerc in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 3210
+
+2019-06-15T12:38:43+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:3210
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): renewal_order_update_date(NULL, Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-renewal-functions.php(31): do_action('woocommerce_sub...', NULL, Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(120): wcs_create_renewal_order(Object(WC_Subscription))
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerc in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 3210
+
+2019-06-15T12:58:35+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:3210
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): renewal_order_update_date(NULL, Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-renewal-functions.php(31): do_action('woocommerce_sub...', NULL, Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(120): wcs_create_renewal_order(Object(WC_Subscription))
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerc in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 3210
+
+2019-06-15T13:05:03+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:3210
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): renewal_order_update_date(NULL, Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-renewal-functions.php(31): do_action('woocommerce_sub...', NULL, Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(120): wcs_create_renewal_order(Object(WC_Subscription))
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerc in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 3210
+
+2019-06-15T13:10:57+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:3210
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): renewal_order_update_date(NULL, Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-renewal-functions.php(31): do_action('woocommerce_sub...', NULL, Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(120): wcs_create_renewal_order(Object(WC_Subscription))
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerc in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 3210
+
+2019-06-15T13:14:51+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:3210
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): renewal_order_update_date(NULL, Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-renewal-functions.php(31): do_action('woocommerce_sub...', NULL, Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(120): wcs_create_renewal_order(Object(WC_Subscription))
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerc in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 3210
+
+2019-06-15T13:20:07+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:3210
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): renewal_order_update_date(NULL, Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-renewal-functions.php(31): do_action('woocommerce_sub...', NULL, Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(120): wcs_create_renewal_order(Object(WC_Subscription))
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerc in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 3210
+
+2019-06-15T13:20:18+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:3210
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): renewal_order_update_date(NULL, Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-renewal-functions.php(31): do_action('woocommerce_sub...', NULL, Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(120): wcs_create_renewal_order(Object(WC_Subscription))
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerc in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 3210
+
+2019-06-15T13:26:14+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:3210
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): renewal_order_update_date(NULL, Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-renewal-functions.php(31): do_action('woocommerce_sub...', NULL, Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(120): wcs_create_renewal_order(Object(WC_Subscription))
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerc in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 3210
+
+2019-06-15T13:31:25+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:3210
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): renewal_order_update_date(NULL, Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-renewal-functions.php(31): do_action('woocommerce_sub...', NULL, Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(120): wcs_create_renewal_order(Object(WC_Subscription))
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerc in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 3210
+
+2019-06-15T13:33:02+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:3210
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): renewal_order_update_date(NULL, Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-renewal-functions.php(31): do_action('woocommerce_sub...', NULL, Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(120): wcs_create_renewal_order(Object(WC_Subscription))
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerc in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 3210
+
+2019-06-15T13:34:36+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php:3210
+Stack trace:
+#0 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(286): renewal_order_update_date(NULL, Object(WC_Subscription))
+#1 /home/bukerzco/public_html/broomday.com/final/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/bukerzco/public_html/broomday.com/final/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/wcs-renewal-functions.php(31): do_action('woocommerce_sub...', NULL, Object(WC_Subscription))
+#4 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerce-subscriptions-master/includes/class-wc-subscriptions-manager.php(120): wcs_create_renewal_order(Object(WC_Subscription))
+#5 /home/bukerzco/public_html/broomday.com/final/wp-content/plugins/woocommerc in /home/bukerzco/public_html/broomday.com/final/wp-content/themes/Avada-Child-Theme/functions.php on line 3210
+

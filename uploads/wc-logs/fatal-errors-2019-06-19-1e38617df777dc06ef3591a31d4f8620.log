@@ -1,0 +1,12 @@
+2019-06-19T06:32:13+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php:4273
+Stack trace:
+#0 G:\webapp\www\wc\broomday\wp-content\plugins\order-edit\edit-template.php(73): get_subscription_title(Object(WC_Subscription))
+#1 G:\webapp\www\wc\broomday\wp-content\plugins\order-edit\order-edit.php(119): include_once('G:\\webapp\\www\\w...')
+#2 G:\webapp\www\wc\broomday\wp-includes\shortcodes.php(325): subscription_edit_func('', '', 'orderedit')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 G:\webapp\www\wc\broomday\wp-includes\shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(ordere...', 'do_shortcode_ta...', '[orderedit]\n')
+#5 G:\webapp\www\wc\broomday\wp-includes\class-wp-hook.php(286): do_shortcode('[orderedit]\n')
+#6 G:\webapp\www\wc\broomday\wp-includes\plugin.php(208): WP_Hook->apply_filters('[orderedit]\n', Array)
+#7 G:\webapp\www\wc\broomday\wp-includes\post-template.php(247): apply_filters('the_content', '[orderedit]')
+#8 G:\weba en G:\webapp\www\wc\broomday\wp-content\themes\Avada-Child-Theme\functions.php en la línea 4273
+

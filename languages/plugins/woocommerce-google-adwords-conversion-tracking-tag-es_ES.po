@@ -1,0 +1,112 @@
+# Translation of Plugins - WooCommerce Google Ads Conversion Tracking - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WooCommerce Google Ads Conversion Tracking - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-06 19:09:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WooCommerce Google Ads Conversion Tracking - Stable (latest release)\n"
+
+#: wgact.php:248
+msgid "Google Ads Conversion Tracking"
+msgstr "Seguimiento de conversión de Google Ads"
+
+#. Author of the plugin
+msgid "Wolf+Bär Agency"
+msgstr "Wolf+Bär Agency"
+
+#: wgact.php:338
+msgid "Order Total Logic"
+msgstr "Cálculo del importe total"
+
+#: wgact.php:175
+msgid "Get support"
+msgstr "Obtener soporte"
+
+#: wgact.php:172
+msgid "Or else, please leave us a support question in the forum. We'll be happy to assist you: "
+msgstr "O bien, por favor, déjanos una pregunta de soporte en el foro. Estaremos encantados de ayudarte:"
+
+#: wgact.php:162
+msgid "! "
+msgstr "!"
+
+#: wgact.php:160
+msgid "Hi "
+msgstr "Hola"
+
+#: wgact.php:372
+msgid "Use order_total: Includes tax and shipping"
+msgstr "Utiliza order_total: Incluye impuestos y gastos de envío"
+
+#: wgact.php:369
+msgid "Use order_subtotal: Doesn't include tax and shipping (default)"
+msgstr "Utiliza order_subtotal: No incluye impuestos y gastos de envío (por defecto)"
+
+#: wgact.php:168
+msgid "Rate it!"
+msgstr "¡Valóralo!"
+
+#: wgact.php:165
+msgid " for a while now. If you like the plugin please support our development by leaving a ★★★★★ rating: "
+msgstr "de momento. Si te gusta el plugin por favor apoya nuestro desarrollo dejando una calificación de ★★★★★:"
+
+#: wgact.php:163
+msgid "You've been using the "
+msgstr "Has estado usando el"
+
+#: wgact.php:374
+msgid "This is the order total amount reported back to Google Ads"
+msgstr "Este es el importe total del pedido que se devuelve a Google Ads."
+
+#: wgact.php:164
+msgid "WGACT Google Ads Conversion Tracking Plugin"
+msgstr "Plugin WGACT Google Ads Conversion Tracking"
+
+#: wgact.php:288
+msgid "Visit us here: https://wolfundbaer.ch"
+msgstr "Visitanos en: https://wolfundbaer.ch"
+
+#: wgact.php:283
+msgid "Profit Driven Marketing by Wolf+Bär"
+msgstr "Orientado a negocio por Wolf+Bär"
+
+#. Author URI of the plugin
+msgid "https://wolfundbaer.ch"
+msgstr "https://wolfundbaer.ch"
+
+#: wgact.php:330
+msgid "Conversion Label"
+msgstr "Etiqueta de conversión"
+
+#: wgact.php:324
+msgid "Conversion ID"
+msgstr "ID de conversión"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/woocommerce-google-adwords-conversion-tracking-tag/"
+msgstr "https://es.wordpress.org/plugins/woocommerce-google-adwords-conversion-tracking-tag/"
+
+#. Description of the plugin
+msgid "Google Ads dynamic conversion value tracking for WooCommerce."
+msgstr "Seguimiento del valor de conversión dinámico de Google Ads para WooCommerce."
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Google Ads Conversion Tracking"
+msgstr "WooCommerce Google Ads Conversion Tracking"
+
+#: wgact.php:272
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+#: wgact.php:263
+msgid "Google Ads Conversion Tracking Settings"
+msgstr "Ajustes de Google Ads Conversion Tracking"
+
+#: wgact.php:239 wgact.php:318
+msgid "Settings"
+msgstr "Ajustes"

@@ -1,0 +1,524 @@
+[INFO]-[2018/10/12 02:08:18] DB Copy: Creating table wpstg2_ab_appointments
+[INFO]-[2018/10/12 02:08:18] DB Copy: Creating table wpstg2_ab_appointments
+[INFO]-[2018/10/12 02:08:19] DB Copy: Creating table wpstg2_ab_categories
+[INFO]-[2018/10/12 02:08:19] DB Copy: wp_ab_categories as wpstg2_ab_categories from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:19] DB Copy: Creating table wpstg2_ab_categories
+[INFO]-[2018/10/12 02:08:19] DB Copy: wp_ab_categories as wpstg2_ab_categories from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:20] DB Copy: Creating table wpstg2_ab_coupon_services
+[INFO]-[2018/10/12 02:08:20] DB Copy: Creating table wpstg2_ab_coupon_services
+[INFO]-[2018/10/12 02:08:20] DB Copy: Creating table wpstg2_ab_coupons
+[INFO]-[2018/10/12 02:08:20] DB Copy: Creating table wpstg2_ab_coupons
+[INFO]-[2018/10/12 02:08:21] DB Copy: Creating table wpstg2_ab_customer_appointments
+[INFO]-[2018/10/12 02:08:21] DB Copy: Creating table wpstg2_ab_customer_appointments
+[INFO]-[2018/10/12 02:08:21] DB Copy: Creating table wpstg2_ab_customers
+[INFO]-[2018/10/12 02:08:21] DB Copy: Creating table wpstg2_ab_customers
+[INFO]-[2018/10/12 02:08:22] DB Copy: Creating table wpstg2_ab_holidays
+[INFO]-[2018/10/12 02:08:22] DB Copy: Creating table wpstg2_ab_holidays
+[INFO]-[2018/10/12 02:08:22] DB Copy: Creating table wpstg2_ab_notifications
+[INFO]-[2018/10/12 02:08:22] DB Copy: wp_ab_notifications as wpstg2_ab_notifications from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:22] DB Copy: Creating table wpstg2_ab_notifications
+[INFO]-[2018/10/12 02:08:22] DB Copy: wp_ab_notifications as wpstg2_ab_notifications from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:23] DB Copy: Creating table wpstg2_ab_payments
+[INFO]-[2018/10/12 02:08:23] DB Copy: Creating table wpstg2_ab_payments
+[INFO]-[2018/10/12 02:08:23] DB Copy: Creating table wpstg2_ab_schedule_item_breaks
+[INFO]-[2018/10/12 02:08:23] DB Copy: Creating table wpstg2_ab_schedule_item_breaks
+[INFO]-[2018/10/12 02:08:24] DB Copy: Creating table wpstg2_ab_sent_notifications
+[INFO]-[2018/10/12 02:08:24] DB Copy: Creating table wpstg2_ab_sent_notifications
+[INFO]-[2018/10/12 02:08:24] DB Copy: Creating table wpstg2_ab_series
+[INFO]-[2018/10/12 02:08:24] DB Copy: Creating table wpstg2_ab_series
+[INFO]-[2018/10/12 02:08:25] DB Copy: Creating table wpstg2_ab_services
+[INFO]-[2018/10/12 02:08:25] DB Copy: wp_ab_services as wpstg2_ab_services from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:25] DB Copy: Creating table wpstg2_ab_services
+[INFO]-[2018/10/12 02:08:25] DB Copy: wp_ab_services as wpstg2_ab_services from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:25] DB Copy: Creating table wpstg2_ab_staff
+[INFO]-[2018/10/12 02:08:25] DB Copy: wp_ab_staff as wpstg2_ab_staff from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:25] DB Copy: Creating table wpstg2_ab_staff
+[INFO]-[2018/10/12 02:08:25] DB Copy: wp_ab_staff as wpstg2_ab_staff from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:26] DB Copy: Creating table wpstg2_ab_staff_schedule_items
+[INFO]-[2018/10/12 02:08:26] DB Copy: wp_ab_staff_schedule_items as wpstg2_ab_staff_schedule_items from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:26] DB Copy: Creating table wpstg2_ab_staff_schedule_items
+[INFO]-[2018/10/12 02:08:26] DB Copy: wp_ab_staff_schedule_items as wpstg2_ab_staff_schedule_items from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:26] DB Copy: Creating table wpstg2_ab_staff_services
+[INFO]-[2018/10/12 02:08:26] DB Copy: Creating table wpstg2_ab_staff_services
+[INFO]-[2018/10/12 02:08:27] DB Copy: Creating table wpstg2_commentmeta
+[INFO]-[2018/10/12 02:08:27] DB Copy: Creating table wpstg2_commentmeta
+[INFO]-[2018/10/12 02:08:27] DB Copy: Creating table wpstg2_comments
+[INFO]-[2018/10/12 02:08:27] DB Copy: wp_comments as wpstg2_comments from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:27] DB Copy: Creating table wpstg2_comments
+[INFO]-[2018/10/12 02:08:27] DB Copy: wp_comments as wpstg2_comments from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:28] DB Copy: Creating table wpstg2_links
+[INFO]-[2018/10/12 02:08:28] DB Copy: Creating table wpstg2_links
+[INFO]-[2018/10/12 02:08:28] DB Copy: Creating table wpstg2_options
+[INFO]-[2018/10/12 02:08:28] DB Copy: wp_options as wpstg2_options from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:28] DB Copy: Creating table wpstg2_options
+[INFO]-[2018/10/12 02:08:28] DB Copy: wp_options as wpstg2_options from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:29] DB Copy: Creating table wpstg2_pmxi_files
+[INFO]-[2018/10/12 02:08:29] DB Copy: Creating table wpstg2_pmxi_files
+[INFO]-[2018/10/12 02:08:30] DB Copy: Creating table wpstg2_pmxi_history
+[INFO]-[2018/10/12 02:08:30] DB Copy: Creating table wpstg2_pmxi_history
+[INFO]-[2018/10/12 02:08:30] DB Copy: Creating table wpstg2_pmxi_imports
+[INFO]-[2018/10/12 02:08:30] DB Copy: Creating table wpstg2_pmxi_imports
+[INFO]-[2018/10/12 02:08:31] DB Copy: Creating table wpstg2_pmxi_posts
+[INFO]-[2018/10/12 02:08:31] DB Copy: Creating table wpstg2_pmxi_posts
+[INFO]-[2018/10/12 02:08:31] DB Copy: Creating table wpstg2_pmxi_templates
+[INFO]-[2018/10/12 02:08:31] DB Copy: Creating table wpstg2_pmxi_templates
+[INFO]-[2018/10/12 02:08:32] DB Copy: Creating table wpstg2_postmeta
+[INFO]-[2018/10/12 02:08:32] DB Copy: wp_postmeta as wpstg2_postmeta from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:32] DB Copy: Creating table wpstg2_postmeta
+[INFO]-[2018/10/12 02:08:32] DB Copy: wp_postmeta as wpstg2_postmeta from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:32] DB Copy: wp_postmeta as wpstg2_postmeta from 10000 to 20000 records
+[INFO]-[2018/10/12 02:08:32] DB Copy: wp_postmeta as wpstg2_postmeta from 10000 to 20000 records
+[INFO]-[2018/10/12 02:08:33] DB Copy: wp_postmeta as wpstg2_postmeta from 20000 to 30000 records
+[INFO]-[2018/10/12 02:08:33] DB Copy: wp_postmeta as wpstg2_postmeta from 20000 to 30000 records
+[INFO]-[2018/10/12 02:08:33] DB Copy: Creating table wpstg2_posts
+[INFO]-[2018/10/12 02:08:33] DB Copy: wp_posts as wpstg2_posts from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:33] DB Copy: Creating table wpstg2_posts
+[INFO]-[2018/10/12 02:08:33] DB Copy: wp_posts as wpstg2_posts from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:34] DB Copy: Creating table wpstg2_reservation
+[INFO]-[2018/10/12 02:08:34] DB Copy: wp_reservation as wpstg2_reservation from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:34] DB Copy: Creating table wpstg2_reservation
+[INFO]-[2018/10/12 02:08:34] DB Copy: wp_reservation as wpstg2_reservation from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:35] DB Copy: Creating table wpstg2_term_relationships
+[INFO]-[2018/10/12 02:08:35] DB Copy: wp_term_relationships as wpstg2_term_relationships from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:35] DB Copy: Creating table wpstg2_term_relationships
+[INFO]-[2018/10/12 02:08:35] DB Copy: wp_term_relationships as wpstg2_term_relationships from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:35] DB Copy: Creating table wpstg2_term_taxonomy
+[INFO]-[2018/10/12 02:08:35] DB Copy: wp_term_taxonomy as wpstg2_term_taxonomy from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:35] DB Copy: Creating table wpstg2_term_taxonomy
+[INFO]-[2018/10/12 02:08:35] DB Copy: wp_term_taxonomy as wpstg2_term_taxonomy from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:36] DB Copy: Creating table wpstg2_termmeta
+[INFO]-[2018/10/12 02:08:36] DB Copy: wp_termmeta as wpstg2_termmeta from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:36] DB Copy: Creating table wpstg2_termmeta
+[INFO]-[2018/10/12 02:08:36] DB Copy: wp_termmeta as wpstg2_termmeta from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:36] DB Copy: Creating table wpstg2_terms
+[INFO]-[2018/10/12 02:08:36] DB Copy: wp_terms as wpstg2_terms from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:36] DB Copy: Creating table wpstg2_terms
+[INFO]-[2018/10/12 02:08:36] DB Copy: wp_terms as wpstg2_terms from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:37] DB Copy: Creating table wpstg2_usermeta
+[INFO]-[2018/10/12 02:08:37] DB Copy: wp_usermeta as wpstg2_usermeta from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:37] DB Copy: Creating table wpstg2_usermeta
+[INFO]-[2018/10/12 02:08:37] DB Copy: wp_usermeta as wpstg2_usermeta from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:37] DB Copy: Creating table wpstg2_users
+[INFO]-[2018/10/12 02:08:37] DB Copy: wp_users as wpstg2_users from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:37] DB Copy: Creating table wpstg2_users
+[INFO]-[2018/10/12 02:08:37] DB Copy: wp_users as wpstg2_users from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:38] DB Copy: Creating table wpstg2_wfBadLeechers
+[INFO]-[2018/10/12 02:08:38] DB Copy: Creating table wpstg2_wfBadLeechers
+[INFO]-[2018/10/12 02:08:38] DB Copy: Creating table wpstg2_wfBlockedCommentLog
+[INFO]-[2018/10/12 02:08:38] DB Copy: Creating table wpstg2_wfBlockedCommentLog
+[INFO]-[2018/10/12 02:08:39] DB Copy: Creating table wpstg2_wfBlockedIPLog
+[INFO]-[2018/10/12 02:08:39] DB Copy: wp_wfBlockedIPLog as wpstg2_wfBlockedIPLog from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:39] DB Copy: Creating table wpstg2_wfBlockedIPLog
+[INFO]-[2018/10/12 02:08:39] DB Copy: wp_wfBlockedIPLog as wpstg2_wfBlockedIPLog from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:39] DB Copy: Creating table wpstg2_wfBlocks7
+[INFO]-[2018/10/12 02:08:39] DB Copy: Creating table wpstg2_wfBlocks7
+[INFO]-[2018/10/12 02:08:40] DB Copy: Creating table wpstg2_wfConfig
+[INFO]-[2018/10/12 02:08:40] DB Copy: wp_wfConfig as wpstg2_wfConfig from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:40] DB Copy: Creating table wpstg2_wfConfig
+[INFO]-[2018/10/12 02:08:40] DB Copy: wp_wfConfig as wpstg2_wfConfig from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:40] DB Copy: Creating table wpstg2_wfCrawlers
+[INFO]-[2018/10/12 02:08:40] DB Copy: wp_wfCrawlers as wpstg2_wfCrawlers from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:40] DB Copy: Creating table wpstg2_wfCrawlers
+[INFO]-[2018/10/12 02:08:40] DB Copy: wp_wfCrawlers as wpstg2_wfCrawlers from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:41] DB Copy: Creating table wpstg2_wfFileChanges
+[INFO]-[2018/10/12 02:08:41] DB Copy: Creating table wpstg2_wfFileChanges
+[INFO]-[2018/10/12 02:08:41] DB Copy: Creating table wpstg2_wfFileMods
+[INFO]-[2018/10/12 02:08:41] DB Copy: wp_wfFileMods as wpstg2_wfFileMods from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:41] DB Copy: Creating table wpstg2_wfFileMods
+[INFO]-[2018/10/12 02:08:41] DB Copy: wp_wfFileMods as wpstg2_wfFileMods from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:42] DB Copy: Creating table wpstg2_wfHits
+[INFO]-[2018/10/12 02:08:42] DB Copy: wp_wfHits as wpstg2_wfHits from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:42] DB Copy: Creating table wpstg2_wfHits
+[INFO]-[2018/10/12 02:08:42] DB Copy: wp_wfHits as wpstg2_wfHits from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:42] DB Copy: Creating table wpstg2_wfHoover
+[INFO]-[2018/10/12 02:08:42] DB Copy: Creating table wpstg2_wfHoover
+[INFO]-[2018/10/12 02:08:43] DB Copy: Creating table wpstg2_wfIssues
+[INFO]-[2018/10/12 02:08:43] DB Copy: wp_wfIssues as wpstg2_wfIssues from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:43] DB Copy: Creating table wpstg2_wfIssues
+[INFO]-[2018/10/12 02:08:43] DB Copy: wp_wfIssues as wpstg2_wfIssues from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:43] DB Copy: Creating table wpstg2_wfKnownFileList
+[INFO]-[2018/10/12 02:08:43] DB Copy: wp_wfKnownFileList as wpstg2_wfKnownFileList from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:43] DB Copy: Creating table wpstg2_wfKnownFileList
+[INFO]-[2018/10/12 02:08:43] DB Copy: wp_wfKnownFileList as wpstg2_wfKnownFileList from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:44] DB Copy: Creating table wpstg2_wfLeechers
+[INFO]-[2018/10/12 02:08:44] DB Copy: wp_wfLeechers as wpstg2_wfLeechers from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:44] DB Copy: Creating table wpstg2_wfLeechers
+[INFO]-[2018/10/12 02:08:44] DB Copy: wp_wfLeechers as wpstg2_wfLeechers from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:45] DB Copy: Creating table wpstg2_wfLiveTrafficHuman
+[INFO]-[2018/10/12 02:08:45] DB Copy: wp_wfLiveTrafficHuman as wpstg2_wfLiveTrafficHuman from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:45] DB Copy: Creating table wpstg2_wfLiveTrafficHuman
+[INFO]-[2018/10/12 02:08:45] DB Copy: wp_wfLiveTrafficHuman as wpstg2_wfLiveTrafficHuman from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:45] DB Copy: Creating table wpstg2_wfLocs
+[INFO]-[2018/10/12 02:08:45] DB Copy: wp_wfLocs as wpstg2_wfLocs from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:45] DB Copy: Creating table wpstg2_wfLocs
+[INFO]-[2018/10/12 02:08:45] DB Copy: wp_wfLocs as wpstg2_wfLocs from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:46] DB Copy: Creating table wpstg2_wfLogins
+[INFO]-[2018/10/12 02:08:46] DB Copy: wp_wfLogins as wpstg2_wfLogins from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:46] DB Copy: Creating table wpstg2_wfLogins
+[INFO]-[2018/10/12 02:08:46] DB Copy: wp_wfLogins as wpstg2_wfLogins from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:46] DB Copy: Creating table wpstg2_wfNet404s
+[INFO]-[2018/10/12 02:08:46] DB Copy: Creating table wpstg2_wfNet404s
+[INFO]-[2018/10/12 02:08:47] DB Copy: Creating table wpstg2_wfNotifications
+[INFO]-[2018/10/12 02:08:47] DB Copy: wp_wfNotifications as wpstg2_wfNotifications from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:47] DB Copy: Creating table wpstg2_wfNotifications
+[INFO]-[2018/10/12 02:08:47] DB Copy: wp_wfNotifications as wpstg2_wfNotifications from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:47] DB Copy: Creating table wpstg2_wfPendingIssues
+[INFO]-[2018/10/12 02:08:47] DB Copy: Creating table wpstg2_wfPendingIssues
+[INFO]-[2018/10/12 02:08:48] DB Copy: Creating table wpstg2_wfReverseCache
+[INFO]-[2018/10/12 02:08:48] DB Copy: wp_wfReverseCache as wpstg2_wfReverseCache from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:48] DB Copy: Creating table wpstg2_wfReverseCache
+[INFO]-[2018/10/12 02:08:48] DB Copy: wp_wfReverseCache as wpstg2_wfReverseCache from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:48] DB Copy: Creating table wpstg2_wfSNIPCache
+[INFO]-[2018/10/12 02:08:48] DB Copy: Creating table wpstg2_wfSNIPCache
+[INFO]-[2018/10/12 02:08:49] DB Copy: Creating table wpstg2_wfScanners
+[INFO]-[2018/10/12 02:08:49] DB Copy: wp_wfScanners as wpstg2_wfScanners from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:49] DB Copy: Creating table wpstg2_wfScanners
+[INFO]-[2018/10/12 02:08:49] DB Copy: wp_wfScanners as wpstg2_wfScanners from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:49] DB Copy: Creating table wpstg2_wfStatus
+[INFO]-[2018/10/12 02:08:49] DB Copy: wp_wfStatus as wpstg2_wfStatus from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:49] DB Copy: Creating table wpstg2_wfStatus
+[INFO]-[2018/10/12 02:08:49] DB Copy: wp_wfStatus as wpstg2_wfStatus from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:50] DB Copy: Creating table wpstg2_wfVulnScanners
+[INFO]-[2018/10/12 02:08:50] DB Copy: Creating table wpstg2_wfVulnScanners
+[INFO]-[2018/10/12 02:08:50] DB Copy: Creating table wpstg2_woocommerce_api_keys
+[INFO]-[2018/10/12 02:08:50] DB Copy: Creating table wpstg2_woocommerce_api_keys
+[INFO]-[2018/10/12 02:08:51] DB Copy: Creating table wpstg2_woocommerce_attribute_taxonomies
+[INFO]-[2018/10/12 02:08:51] DB Copy: Creating table wpstg2_woocommerce_attribute_taxonomies
+[INFO]-[2018/10/12 02:08:51] DB Copy: Creating table wpstg2_woocommerce_downloadable_product_permissions
+[INFO]-[2018/10/12 02:08:51] DB Copy: Creating table wpstg2_woocommerce_downloadable_product_permissions
+[INFO]-[2018/10/12 02:08:52] DB Copy: Creating table wpstg2_woocommerce_log
+[INFO]-[2018/10/12 02:08:52] DB Copy: Creating table wpstg2_woocommerce_log
+[INFO]-[2018/10/12 02:08:52] DB Copy: Creating table wpstg2_woocommerce_order_itemmeta
+[INFO]-[2018/10/12 02:08:52] DB Copy: wp_woocommerce_order_itemmeta as wpstg2_woocommerce_order_itemmeta from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:52] DB Copy: Creating table wpstg2_woocommerce_order_itemmeta
+[INFO]-[2018/10/12 02:08:52] DB Copy: wp_woocommerce_order_itemmeta as wpstg2_woocommerce_order_itemmeta from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:53] DB Copy: Creating table wpstg2_woocommerce_order_items
+[INFO]-[2018/10/12 02:08:53] DB Copy: wp_woocommerce_order_items as wpstg2_woocommerce_order_items from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:53] DB Copy: Creating table wpstg2_woocommerce_order_items
+[INFO]-[2018/10/12 02:08:53] DB Copy: wp_woocommerce_order_items as wpstg2_woocommerce_order_items from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:53] DB Copy: Creating table wpstg2_woocommerce_payment_tokenmeta
+[INFO]-[2018/10/12 02:08:53] DB Copy: Creating table wpstg2_woocommerce_payment_tokenmeta
+[INFO]-[2018/10/12 02:08:54] DB Copy: Creating table wpstg2_woocommerce_payment_tokens
+[INFO]-[2018/10/12 02:08:54] DB Copy: Creating table wpstg2_woocommerce_payment_tokens
+[INFO]-[2018/10/12 02:08:54] DB Copy: Creating table wpstg2_woocommerce_sessions
+[INFO]-[2018/10/12 02:08:54] DB Copy: wp_woocommerce_sessions as wpstg2_woocommerce_sessions from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:54] DB Copy: Creating table wpstg2_woocommerce_sessions
+[INFO]-[2018/10/12 02:08:54] DB Copy: wp_woocommerce_sessions as wpstg2_woocommerce_sessions from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:55] DB Copy: Creating table wpstg2_woocommerce_shipping_zone_locations
+[INFO]-[2018/10/12 02:08:55] DB Copy: Creating table wpstg2_woocommerce_shipping_zone_locations
+[INFO]-[2018/10/12 02:08:56] DB Copy: Creating table wpstg2_woocommerce_shipping_zone_methods
+[INFO]-[2018/10/12 02:08:56] DB Copy: Creating table wpstg2_woocommerce_shipping_zone_methods
+[INFO]-[2018/10/12 02:08:56] DB Copy: Creating table wpstg2_woocommerce_shipping_zones
+[INFO]-[2018/10/12 02:08:56] DB Copy: Creating table wpstg2_woocommerce_shipping_zones
+[INFO]-[2018/10/12 02:08:57] DB Copy: Creating table wpstg2_woocommerce_tax_rate_locations
+[INFO]-[2018/10/12 02:08:57] DB Copy: Creating table wpstg2_woocommerce_tax_rate_locations
+[INFO]-[2018/10/12 02:08:57] DB Copy: Creating table wpstg2_woocommerce_tax_rates
+[INFO]-[2018/10/12 02:08:57] DB Copy: Creating table wpstg2_woocommerce_tax_rates
+[INFO]-[2018/10/12 02:08:58] DB Copy: Creating table wpstg2_yoast_seo_links
+[INFO]-[2018/10/12 02:08:58] DB Copy: wp_yoast_seo_links as wpstg2_yoast_seo_links from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:58] DB Copy: Creating table wpstg2_yoast_seo_links
+[INFO]-[2018/10/12 02:08:58] DB Copy: wp_yoast_seo_links as wpstg2_yoast_seo_links from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:58] DB Copy: Creating table wpstg2_yoast_seo_meta
+[INFO]-[2018/10/12 02:08:58] DB Copy: wp_yoast_seo_meta as wpstg2_yoast_seo_meta from 0 to 10000 records
+[INFO]-[2018/10/12 02:08:58] DB Copy: Creating table wpstg2_yoast_seo_meta
+[INFO]-[2018/10/12 02:08:58] DB Copy: wp_yoast_seo_meta as wpstg2_yoast_seo_meta from 0 to 10000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/12 02:09:00] DB Processing:  Table wpstg2_ab_categories 0 to 5000 records
+[INFO]-[2018/10/12 02:09:00] DB Processing:  Table wpstg2_ab_categories 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/12 02:09:03] DB Processing:  Table wpstg2_ab_notifications 0 to 5000 records
+[INFO]-[2018/10/12 02:09:03] DB Processing:  Table wpstg2_ab_notifications 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/12 02:09:05] DB Processing:  Table wpstg2_ab_services 0 to 5000 records
+[INFO]-[2018/10/12 02:09:05] DB Processing:  Table wpstg2_ab_services 0 to 5000 records
+[INFO]-[2018/10/12 02:09:06] DB Processing:  Table wpstg2_ab_staff 0 to 5000 records
+[INFO]-[2018/10/12 02:09:06] DB Processing:  Table wpstg2_ab_staff 0 to 5000 records
+[INFO]-[2018/10/12 02:09:06] DB Processing:  Table wpstg2_ab_staff_schedule_items 0 to 5000 records
+[INFO]-[2018/10/12 02:09:06] DB Processing:  Table wpstg2_ab_staff_schedule_items 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/12 02:09:08] DB Processing:  Table wpstg2_comments 0 to 5000 records
+[INFO]-[2018/10/12 02:09:08] DB Processing:  Table wpstg2_comments 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/12 02:09:09] DB Processing:  Table wpstg2_options 0 to 5000 records
+[INFO]-[2018/10/12 02:09:09] DB Processing:  Table wpstg2_options 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/12 02:09:12] DB Processing:  Table wpstg2_postmeta 0 to 5000 records
+[INFO]-[2018/10/12 02:09:12] DB Processing:  Table wpstg2_postmeta 0 to 5000 records
+[INFO]-[2018/10/12 02:09:12] DB Processing:  Table wpstg2_postmeta 5000 to 10000 records
+[INFO]-[2018/10/12 02:09:12] DB Processing:  Table wpstg2_postmeta 5000 to 10000 records
+[INFO]-[2018/10/12 02:09:13] DB Processing:  Table wpstg2_postmeta 10000 to 15000 records
+[INFO]-[2018/10/12 02:09:13] DB Processing:  Table wpstg2_postmeta 10000 to 15000 records
+[INFO]-[2018/10/12 02:09:14] DB Processing:  Table wpstg2_postmeta 15000 to 20000 records
+[INFO]-[2018/10/12 02:09:14] DB Processing:  Table wpstg2_postmeta 15000 to 20000 records
+[INFO]-[2018/10/12 02:09:14] DB Processing:  Table wpstg2_postmeta 20000 to 25000 records
+[INFO]-[2018/10/12 02:09:14] DB Processing:  Table wpstg2_postmeta 20000 to 25000 records
+[INFO]-[2018/10/12 02:09:15] DB Processing:  Table wpstg2_posts 0 to 5000 records
+[INFO]-[2018/10/12 02:09:15] DB Processing:  Table wpstg2_posts 0 to 5000 records
+[INFO]-[2018/10/12 02:09:16] DB Processing:  Table wpstg2_reservation 0 to 5000 records
+[INFO]-[2018/10/12 02:09:16] DB Processing:  Table wpstg2_reservation 0 to 5000 records
+[INFO]-[2018/10/12 02:09:16] DB Processing:  Table wpstg2_term_relationships 0 to 5000 records
+[INFO]-[2018/10/12 02:09:16] DB Processing:  Table wpstg2_term_relationships 0 to 5000 records
+[INFO]-[2018/10/12 02:09:17] DB Processing:  Table wpstg2_term_taxonomy 0 to 5000 records
+[INFO]-[2018/10/12 02:09:17] DB Processing:  Table wpstg2_term_taxonomy 0 to 5000 records
+[INFO]-[2018/10/12 02:09:18] DB Processing:  Table wpstg2_termmeta 0 to 5000 records
+[INFO]-[2018/10/12 02:09:18] DB Processing:  Table wpstg2_termmeta 0 to 5000 records
+[INFO]-[2018/10/12 02:09:18] DB Processing:  Table wpstg2_terms 0 to 5000 records
+[INFO]-[2018/10/12 02:09:18] DB Processing:  Table wpstg2_terms 0 to 5000 records
+[INFO]-[2018/10/12 02:09:19] DB Processing:  Table wpstg2_usermeta 0 to 5000 records
+[INFO]-[2018/10/12 02:09:19] DB Processing:  Table wpstg2_usermeta 0 to 5000 records
+[INFO]-[2018/10/12 02:09:19] DB Processing:  Table wpstg2_users 0 to 5000 records
+[INFO]-[2018/10/12 02:09:19] DB Processing:  Table wpstg2_users 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/12 02:09:21] DB Processing:  Table wpstg2_wfBlockedIPLog 0 to 5000 records
+[INFO]-[2018/10/12 02:09:21] DB Processing:  Table wpstg2_wfBlockedIPLog 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/12 02:09:22] DB Processing:  Table wpstg2_wfConfig 0 to 5000 records
+[INFO]-[2018/10/12 02:09:22] DB Processing:  Table wpstg2_wfConfig 0 to 5000 records
+[INFO]-[2018/10/12 02:09:23] DB Processing:  Table wpstg2_wfCrawlers 0 to 5000 records
+[INFO]-[2018/10/12 02:09:23] DB Processing:  Table wpstg2_wfCrawlers 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/12 02:09:24] DB Processing:  Table wpstg2_wfFileMods 0 to 5000 records
+[INFO]-[2018/10/12 02:09:24] DB Processing:  Table wpstg2_wfFileMods 0 to 5000 records
+[INFO]-[2018/10/12 02:09:24] DB Processing:  Table wpstg2_wfFileMods 5000 to 10000 records
+[INFO]-[2018/10/12 02:09:24] DB Processing:  Table wpstg2_wfFileMods 5000 to 10000 records
+[INFO]-[2018/10/12 02:09:25] DB Processing:  Table wpstg2_wfHits 0 to 5000 records
+[INFO]-[2018/10/12 02:09:25] DB Processing:  Table wpstg2_wfHits 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/12 02:09:26] DB Processing:  Table wpstg2_wfIssues 0 to 5000 records
+[INFO]-[2018/10/12 02:09:26] DB Processing:  Table wpstg2_wfIssues 0 to 5000 records
+[INFO]-[2018/10/12 02:09:27] DB Processing:  Table wpstg2_wfKnownFileList 0 to 5000 records
+[INFO]-[2018/10/12 02:09:27] DB Processing:  Table wpstg2_wfKnownFileList 0 to 5000 records
+[INFO]-[2018/10/12 02:09:27] DB Processing:  Table wpstg2_wfKnownFileList 5000 to 10000 records
+[INFO]-[2018/10/12 02:09:27] DB Processing:  Table wpstg2_wfKnownFileList 5000 to 10000 records
+[INFO]-[2018/10/12 02:09:28] DB Processing:  Table wpstg2_wfLeechers 0 to 5000 records
+[INFO]-[2018/10/12 02:09:28] DB Processing:  Table wpstg2_wfLeechers 0 to 5000 records
+[INFO]-[2018/10/12 02:09:29] DB Processing:  Table wpstg2_wfLiveTrafficHuman 0 to 5000 records
+[INFO]-[2018/10/12 02:09:29] DB Processing:  Table wpstg2_wfLiveTrafficHuman 0 to 5000 records
+[INFO]-[2018/10/12 02:09:29] DB Processing:  Table wpstg2_wfLocs 0 to 5000 records
+[INFO]-[2018/10/12 02:09:29] DB Processing:  Table wpstg2_wfLocs 0 to 5000 records
+[INFO]-[2018/10/12 02:09:30] DB Processing:  Table wpstg2_wfLogins 0 to 5000 records
+[INFO]-[2018/10/12 02:09:30] DB Processing:  Table wpstg2_wfLogins 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/12 02:09:31] DB Processing:  Table wpstg2_wfNotifications 0 to 5000 records
+[INFO]-[2018/10/12 02:09:31] DB Processing:  Table wpstg2_wfNotifications 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/12 02:09:32] DB Processing:  Table wpstg2_wfReverseCache 0 to 5000 records
+[INFO]-[2018/10/12 02:09:32] DB Processing:  Table wpstg2_wfReverseCache 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/12 02:09:33] DB Processing:  Table wpstg2_wfScanners 0 to 5000 records
+[INFO]-[2018/10/12 02:09:33] DB Processing:  Table wpstg2_wfScanners 0 to 5000 records
+[INFO]-[2018/10/12 02:09:33] DB Processing:  Table wpstg2_wfStatus 0 to 5000 records
+[INFO]-[2018/10/12 02:09:33] DB Processing:  Table wpstg2_wfStatus 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/12 02:09:36] DB Processing:  Table wpstg2_woocommerce_order_itemmeta 0 to 5000 records
+[INFO]-[2018/10/12 02:09:36] DB Processing:  Table wpstg2_woocommerce_order_itemmeta 0 to 5000 records
+[INFO]-[2018/10/12 02:09:37] DB Processing:  Table wpstg2_woocommerce_order_itemmeta 5000 to 10000 records
+[INFO]-[2018/10/12 02:09:37] DB Processing:  Table wpstg2_woocommerce_order_itemmeta 5000 to 10000 records
+[INFO]-[2018/10/12 02:09:37] DB Processing:  Table wpstg2_woocommerce_order_items 0 to 5000 records
+[INFO]-[2018/10/12 02:09:37] DB Processing:  Table wpstg2_woocommerce_order_items 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/12 02:09:39] DB Processing:  Table wpstg2_woocommerce_sessions 0 to 5000 records
+[INFO]-[2018/10/12 02:09:39] DB Processing:  Table wpstg2_woocommerce_sessions 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/12 02:09:42] DB Processing:  Table wpstg2_yoast_seo_links 0 to 5000 records
+[INFO]-[2018/10/12 02:09:42] DB Processing:  Table wpstg2_yoast_seo_links 0 to 5000 records
+[INFO]-[2018/10/12 02:09:43] DB Processing:  Table wpstg2_yoast_seo_meta 0 to 5000 records
+[INFO]-[2018/10/12 02:09:43] DB Processing:  Table wpstg2_yoast_seo_meta 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/12 02:09:44] Scanning / for files
+[INFO]-[2018/10/12 02:09:44] Scanning / for files
+[INFO]-[2018/10/12 02:09:44] Scanning /wp-content for its sub-directories and files
+[INFO]-[2018/10/12 02:09:44] Scanning /wp-content for its sub-directories and files
+[INFO]-[2018/10/12 02:09:47] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2018/10/12 02:09:47] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2018/10/12 02:09:47] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2018/10/12 02:09:47] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2018/10/12 02:09:48] Copying files...
+[INFO]-[2018/10/12 02:09:48] Skipping big file: /home/bukerzco/public_html/broomday.com/demo.zip
+[INFO]-[2018/10/12 02:09:48] Skipping big file: /home/bukerzco/public_html/broomday.com/mydemo.zip
+[INFO]-[2018/10/12 02:09:48] Trying to copy big file: /home/bukerzco/public_html/broomday.com/error_log -> /home/bukerzco/public_html/broomday.com/newdemo/error_log
+[INFO]-[2018/10/12 02:09:50] Total 50 files processed
+[INFO]-[2018/10/12 02:09:48] Copying files...
+[INFO]-[2018/10/12 02:09:48] Skipping big file: /home/bukerzco/public_html/broomday.com/demo.zip
+[INFO]-[2018/10/12 02:09:48] Skipping big file: /home/bukerzco/public_html/broomday.com/mydemo.zip
+[INFO]-[2018/10/12 02:09:48] Trying to copy big file: /home/bukerzco/public_html/broomday.com/error_log -> /home/bukerzco/public_html/broomday.com/newdemo/error_log
+[INFO]-[2018/10/12 02:09:50] Total 50 files processed
+[INFO]-[2018/10/12 02:09:51] Total 100 files processed
+[INFO]-[2018/10/12 02:09:51] Total 100 files processed
+[INFO]-[2018/10/12 02:09:51] Total 150 files processed
+[INFO]-[2018/10/12 02:09:51] Total 150 files processed
+[INFO]-[2018/10/12 02:09:52] Total 200 files processed
+[INFO]-[2018/10/12 02:09:52] Total 200 files processed
+[INFO]-[2018/10/12 02:09:53] Total 250 files processed
+[INFO]-[2018/10/12 02:09:53] Total 250 files processed
+[INFO]-[2018/10/12 02:09:54] Total 300 files processed
+[INFO]-[2018/10/12 02:09:54] Total 300 files processed
+[INFO]-[2018/10/12 02:09:54] Total 350 files processed
+[INFO]-[2018/10/12 02:09:54] Total 350 files processed
+[INFO]-[2018/10/12 02:09:56] Total 400 files processed
+[INFO]-[2018/10/12 02:09:56] Total 400 files processed
+[INFO]-[2018/10/12 02:09:56] Total 450 files processed
+[INFO]-[2018/10/12 02:09:56] Total 450 files processed
+[INFO]-[2018/10/12 02:09:57] Total 500 files processed
+[INFO]-[2018/10/12 02:09:57] Total 500 files processed
+[INFO]-[2018/10/12 02:09:57] Total 550 files processed
+[INFO]-[2018/10/12 02:09:57] Total 550 files processed
+[INFO]-[2018/10/12 02:09:58] Total 600 files processed
+[INFO]-[2018/10/12 02:09:58] Total 600 files processed
+[INFO]-[2018/10/12 02:09:59] Total 650 files processed
+[INFO]-[2018/10/12 02:09:59] Total 650 files processed
+[INFO]-[2018/10/12 02:10:00] Total 700 files processed
+[INFO]-[2018/10/12 02:10:00] Total 700 files processed
+[INFO]-[2018/10/12 02:10:01] Total 750 files processed
+[INFO]-[2018/10/12 02:10:01] Total 750 files processed
+[INFO]-[2018/10/12 02:10:02] Total 800 files processed
+[INFO]-[2018/10/12 02:10:02] Total 800 files processed
+[INFO]-[2018/10/12 02:10:02] Total 850 files processed
+[INFO]-[2018/10/12 02:10:02] Total 850 files processed
+[INFO]-[2018/10/12 02:10:03] Total 900 files processed
+[INFO]-[2018/10/12 02:10:03] Total 900 files processed
+[INFO]-[2018/10/12 02:10:04] Total 950 files processed
+[INFO]-[2018/10/12 02:10:04] Total 950 files processed
+[INFO]-[2018/10/12 02:10:05] Total 1000 files processed
+[INFO]-[2018/10/12 02:10:05] Total 1000 files processed
+[INFO]-[2018/10/12 02:10:06] Total 1050 files processed
+[INFO]-[2018/10/12 02:10:06] Total 1050 files processed
+[INFO]-[2018/10/12 02:10:07] Total 1100 files processed
+[INFO]-[2018/10/12 02:10:07] Total 1100 files processed
+[INFO]-[2018/10/12 02:10:07] Total 1150 files processed
+[INFO]-[2018/10/12 02:10:07] Total 1150 files processed
+[INFO]-[2018/10/12 02:10:10] Total 1200 files processed
+[INFO]-[2018/10/12 02:10:10] Total 1200 files processed
+[INFO]-[2018/10/12 02:10:11] Total 1250 files processed
+[INFO]-[2018/10/12 02:10:11] Total 1250 files processed
+[INFO]-[2018/10/12 02:10:11] Total 1300 files processed
+[INFO]-[2018/10/12 02:10:11] Total 1300 files processed
+[INFO]-[2018/10/12 02:10:12] Total 1350 files processed
+[INFO]-[2018/10/12 02:10:12] Total 1350 files processed
+[INFO]-[2018/10/12 02:10:13] Total 1400 files processed
+[INFO]-[2018/10/12 02:10:13] Total 1400 files processed
+[INFO]-[2018/10/12 02:10:14] Total 1450 files processed
+[INFO]-[2018/10/12 02:10:14] Total 1450 files processed
+[INFO]-[2018/10/12 02:10:14] Total 1500 files processed
+[INFO]-[2018/10/12 02:10:14] Total 1500 files processed
+[INFO]-[2018/10/12 02:10:15] Total 1550 files processed
+[INFO]-[2018/10/12 02:10:15] Total 1550 files processed
+[INFO]-[2018/10/12 02:10:16] Total 1600 files processed
+[INFO]-[2018/10/12 02:10:16] Total 1600 files processed
+[INFO]-[2018/10/12 02:10:17] Total 1650 files processed
+[INFO]-[2018/10/12 02:10:17] Total 1650 files processed
+[INFO]-[2018/10/12 02:10:18] Total 1700 files processed
+[INFO]-[2018/10/12 02:10:18] Total 1700 files processed
+[INFO]-[2018/10/12 02:10:19] Trying to copy big file: /home/bukerzco/public_html/broomday.com/wp-content/themes/Avada/avada-plugins.zip -> /home/bukerzco/public_html/broomday.com/newdemo/wp-content/themes/Avada/avada-plugins.zip
+[INFO]-[2018/10/12 02:10:21] Total 1750 files processed
+[INFO]-[2018/10/12 02:10:19] Trying to copy big file: /home/bukerzco/public_html/broomday.com/wp-content/themes/Avada/avada-plugins.zip -> /home/bukerzco/public_html/broomday.com/newdemo/wp-content/themes/Avada/avada-plugins.zip
+[INFO]-[2018/10/12 02:10:21] Total 1750 files processed
+[INFO]-[2018/10/12 02:10:22] Total 1800 files processed
+[INFO]-[2018/10/12 02:10:22] Total 1800 files processed
+[INFO]-[2018/10/12 02:10:24] Total 1850 files processed
+[INFO]-[2018/10/12 02:10:24] Total 1850 files processed
+[INFO]-[2018/10/12 02:10:25] Total 1900 files processed
+[INFO]-[2018/10/12 02:10:25] Total 1900 files processed
+[INFO]-[2018/10/12 02:10:26] Total 1950 files processed
+[INFO]-[2018/10/12 02:10:26] Total 1950 files processed
+[INFO]-[2018/10/12 02:10:26] Total 2000 files processed
+[INFO]-[2018/10/12 02:10:26] Total 2000 files processed
+[INFO]-[2018/10/12 02:10:28] Total 2050 files processed
+[INFO]-[2018/10/12 02:10:28] Total 2050 files processed
+[INFO]-[2018/10/12 02:10:28] Total 2100 files processed
+[INFO]-[2018/10/12 02:10:28] Total 2100 files processed
+[INFO]-[2018/10/12 02:10:30] Total 2150 files processed
+[INFO]-[2018/10/12 02:10:30] Total 2150 files processed
+[INFO]-[2018/10/12 02:10:32] Total 2200 files processed
+[INFO]-[2018/10/12 02:10:32] Total 2200 files processed
+[INFO]-[2018/10/12 02:10:33] Total 2250 files processed
+[INFO]-[2018/10/12 02:10:33] Total 2250 files processed
+[INFO]-[2018/10/12 02:10:34] Total 2300 files processed
+[INFO]-[2018/10/12 02:10:34] Total 2300 files processed
+[INFO]-[2018/10/12 02:10:35] Trying to copy big file: /home/bukerzco/public_html/broomday.com/wp-content/uploads/2017/05/hi5-1.jpg -> /home/bukerzco/public_html/broomday.com/newdemo/wp-content/uploads/2017/05/hi5-1.jpg
+[INFO]-[2018/10/12 02:10:36] Total 2350 files processed
+[INFO]-[2018/10/12 02:10:35] Trying to copy big file: /home/bukerzco/public_html/broomday.com/wp-content/uploads/2017/05/hi5-1.jpg -> /home/bukerzco/public_html/broomday.com/newdemo/wp-content/uploads/2017/05/hi5-1.jpg
+[INFO]-[2018/10/12 02:10:36] Total 2350 files processed
+[INFO]-[2018/10/12 02:10:38] Trying to copy big file: /home/bukerzco/public_html/broomday.com/wp-content/uploads/2017/05/hi5.jpg -> /home/bukerzco/public_html/broomday.com/newdemo/wp-content/uploads/2017/05/hi5.jpg
+[INFO]-[2018/10/12 02:10:39] Total 2400 files processed
+[INFO]-[2018/10/12 02:10:38] Trying to copy big file: /home/bukerzco/public_html/broomday.com/wp-content/uploads/2017/05/hi5.jpg -> /home/bukerzco/public_html/broomday.com/newdemo/wp-content/uploads/2017/05/hi5.jpg
+[INFO]-[2018/10/12 02:10:39] Total 2400 files processed
+[INFO]-[2018/10/12 02:10:41] Trying to copy big file: /home/bukerzco/public_html/broomday.com/wp-content/uploads/2017/10/contratacionsep-01.jpg -> /home/bukerzco/public_html/broomday.com/newdemo/wp-content/uploads/2017/10/contratacionsep-01.jpg
+[INFO]-[2018/10/12 02:10:42] Trying to copy big file: /home/bukerzco/public_html/broomday.com/wp-content/uploads/2017/10/encuentra24-01.jpg -> /home/bukerzco/public_html/broomday.com/newdemo/wp-content/uploads/2017/10/encuentra24-01.jpg
+[INFO]-[2018/10/12 02:10:46] Total 2450 files processed
+[INFO]-[2018/10/12 02:10:41] Trying to copy big file: /home/bukerzco/public_html/broomday.com/wp-content/uploads/2017/10/contratacionsep-01.jpg -> /home/bukerzco/public_html/broomday.com/newdemo/wp-content/uploads/2017/10/contratacionsep-01.jpg
+[INFO]-[2018/10/12 02:10:42] Trying to copy big file: /home/bukerzco/public_html/broomday.com/wp-content/uploads/2017/10/encuentra24-01.jpg -> /home/bukerzco/public_html/broomday.com/newdemo/wp-content/uploads/2017/10/encuentra24-01.jpg
+[INFO]-[2018/10/12 02:10:46] Total 2450 files processed
+[INFO]-[2018/10/12 02:10:47] Total 2500 files processed
+[INFO]-[2018/10/12 02:10:47] Total 2500 files processed
+[INFO]-[2018/10/12 02:10:49] Total 2550 files processed
+[INFO]-[2018/10/12 02:10:49] Total 2550 files processed
+[INFO]-[2018/10/12 02:10:50] Total 2600 files processed
+[INFO]-[2018/10/12 02:10:50] Total 2600 files processed
+[INFO]-[2018/10/12 02:10:51] Total 2650 files processed
+[INFO]-[2018/10/12 02:10:51] Total 2650 files processed
+[INFO]-[2018/10/12 02:10:52] Total 2700 files processed
+[INFO]-[2018/10/12 02:10:52] Total 2700 files processed

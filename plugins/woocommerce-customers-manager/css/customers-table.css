@@ -1,0 +1,225 @@
+.wccm_avatar_img
+{
+	display:block;
+	/* clear:both; */
+	border-radius: 3px;
+	vertical-align: top;
+}
+th#orders {
+    width: 6% !important;
+}
+.wccm_customer_data_container
+{
+	display:inline-block;
+	vertical-align: top;	
+	word-wrap: break-word;
+	max-width: 110px;
+	overflow:hidden;
+}
+.wccm_name_surname_container
+{
+	display:block;
+	clear:both;
+	margin-top: 2px;
+}
+.wccm_login_container
+{
+	display: block;
+	clear: both;
+	/* margin-top: 8px; */
+	font-weight: 600;
+	color: #929292;
+	font-size: 12px;
+}
+#wccm_role_switcher_select_box
+{
+	/* background: #a46497 none repeat scroll 0 0;
+    color: white;
+    display: block;
+    float: left;
+    font-weight: bold;
+	margin-top:10px;
+	margin-right:20px;
+    padding: 10px;
+    width: 400px; */
+	
+	background: #fff none repeat scroll 0 0;
+	color: #a46497;
+	display: block;
+	float: left;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-right: 20px;
+	padding: 15px;
+	width: 500px;
+	/* border: 1px dashed #a46497; */
+	border: 1px solid #dedede;
+	display:none;
+}
+#wccm_assign_roles_button
+{
+	/* margin-top:5px;
+	background: #ffffff;
+    border-color: #ffffff;
+	color:  #a46497; */
+	
+	margin-top: 5px;
+	background: #a46497;
+	border-color: #a46497;
+	color: white;
+}
+#wccm-warning-roles-box > a 
+{
+ /*  color: #d3d3d3; */
+  color: #787878;
+}
+#wccm-warning-roles-box
+{
+	/* margin-right: 10px;
+	margin-top: 10px;
+	background:  #a46497 none repeat scroll 0 0;
+	border-radius: 0;
+	float:left;
+	color: white;
+	display: block;
+	font-size: 13px;
+	font-weight: bold;
+	line-height: 1;
+	margin-bottom: 20px;
+	padding: 10px;
+	width: 300px; */
+	
+	margin-right: 10px;
+	margin-top: 10px;
+	background: #fff none repeat scroll 0 0;
+	border-radius: 0;
+	float: left;
+	color: #a46497;
+	display: block;
+	font-size: 13px;
+	font-weight: bold;
+	line-height: 1;
+	margin-bottom: 20px;
+	padding: 15px;
+	width: 300px;
+	/* border: 1px dashed; */
+	border: 1px solid #dedede;
+	display:none;
+}
+#wccm_assign_roles_button:hover
+{
+	background: #C9A3C1;
+	border-color: #C9A3C1;
+	color: white;
+}
+#wccm_role_result_box
+{
+	display:block;
+	clear:both;
+	font-weight:bold;
+	margin-top:5px;
+	/*color:#a46497;*/
+	color:#71b02f;
+}
+#wccm_date_filter_box
+{
+	display:block;
+	clear:both;
+	float: left;
+    margin-top: 10px;
+}
+#csv-button-customer-table
+{
+float:right;
+margin-right: 5px;
+min-width: 240px;
+}
+
+table.customers {
+    /*min-width: 1400px;*/
+}
+#csv-button-complete-download 
+{
+  float: right;
+  margin-right: 5px;
+}
+.widefat td, .widefat td ol, .widefat td p, .widefat td ul 
+{
+    font-size: 13px;
+}
+.blocked_customer_role_text
+{
+	background: #F03434;
+	color: white;
+	padding: 3px;
+	display: inline-block;
+	font-weight: bold;
+	border-radius: 5px;
+	font-size: 10px;
+}
+/* Tootip */
+/* td.column-notes
+{
+	text-overflow:ellipsis;
+    white-space:nowrap;
+    overflow: hidden;
+	display: block;
+	cursor: pointer; 
+	cursor: hand;
+}
+
+td.column-notes:hover{
+    text-overflow:clip;
+    width:auto;
+    white-space: normal;
+} */
+
+a.wccm_tooltip {outline:none; }
+a.wccm_tooltip strong { font-weight:bold;}
+a.wccm_tooltip:hover {text-decoration:none;} 
+a.wccm_tooltip span {
+    z-index:10;
+	display:none; 
+	padding:20px;
+    margin-top:10px; 
+    width:600px;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.4;
+}
+a.wccm_tooltip:hover span{
+    display:block; 
+	position:absolute; 
+   color:white; 
+    background:#a46497 /* url(../css/gradient-bg.png) repeat-x 0 0 */;
+}
+.callout {z-index:20;position:absolute;border:0;top:-14px;left:120px;}
+    
+/*CSS3 extras*/
+a.wccm_tooltip span
+{
+    border-radius:3px;        
+    box-shadow: 2px 2px 2px 0px #888; 
+}
+
+span.customer_role_text:before {
+    font-family: dashicons;
+    padding: 4px;
+    content: "\f110";
+}
+span.customer_role_text {
+    margin: 0px 4px 4px 0px;
+    cursor: pointer;
+    color: #fff;
+    border-color: #0085ba;
+    background: #0085ba;
+    box-shadow: 0 1px 0 #0085ba;
+    font-size: 14px;
+    line-height: 19px;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-appearance: none;
+    border-radius: 3px;
+    white-space: nowrap;
+    padding: 4px;
+}
